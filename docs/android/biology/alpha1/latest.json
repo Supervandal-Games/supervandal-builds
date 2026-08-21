@@ -1,0 +1,19 @@
+{
+  "project": "biology",
+  "projectTitle": "biology",
+  "track": "alpha1",
+  "appName": "life1 Alpha 1",
+  "package": "com.supervandal.life1.alpha1",
+  "platform": "android",
+  "versionName": "0.1.0",
+  "versionCode": 1,
+  "engineVersion": "0.4.361",
+  "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/biology-android-alpha1-v0.1.0/biology-alpha1-v0.1.0-release.apk",
+  "apkUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/biology-android-alpha1-v0.1.0/biology-alpha1-v0.1.0-release.apk",
+  "size": 9719652,
+  "sha256": "bd6a902103e06df3d8223356efb4cf784187207cc8ff17157afdb2f55a0b5868",
+  "date": "2026-08-21T14:01:03+00:00",
+  "channel": "debug",
+  "notes": "Premiere alpha publique - build de test, moteur Supervandal v0.4.361.",
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/biology/alpha1/"
+}

@@ -119,6 +119,30 @@
           "package": "com.supervandal.dominos.alpha1"
         }
       }
+    },
+    "not-rocket-science": {
+      "title": "not-rocket-science",
+      "tracks": {
+        "alpha1": {
+          "builds": [
+            {
+              "versionName": "0.1.0",
+              "versionCode": 1,
+              "engineVersion": "0.4.361",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "not-rocket-science-android-alpha1-v0.1.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/not-rocket-science-android-alpha1-v0.1.0/not-rocket-science-alpha1-v0.1.0-release.apk",
+              "size": 10245528,
+              "sha256": "ea5143dee8a36ec510dafea21d325d992d0081d50a71f915168401d6bda3338c",
+              "notes": "Premiere alpha publique - build de test, moteur Supervandal v0.4.361.",
+              "date": "2026-08-21T14:14:30+00:00"
+            }
+          ],
+          "appName": "NotRS Alpha 1",
+          "package": "com.supervandal.notrocketscience.alpha1"
+        }
+      }
     }
   }
 }

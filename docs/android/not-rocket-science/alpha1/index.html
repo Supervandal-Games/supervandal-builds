@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NotRS Alpha 1 - not-rocket-science</title>
+<style>
+:root {
+  --bg: #0d0f13; --panel: #161a21; --line: #262c36; --ink: #e8ebf0;
+  --dim: #939cab; --accent: #ff5c39; --ok: #4ade80;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; background: var(--bg); color: var(--ink);
+  font: 16px/1.6 ui-monospace, "JetBrains Mono", "Cascadia Mono", Consolas, monospace;
+  -webkit-font-smoothing: antialiased;
+}
+a { color: var(--accent); }
+.wrap { max-width: 780px; margin: 0 auto; padding: 40px 20px 80px; }
+header { border-bottom: 1px solid var(--line); padding-bottom: 24px; margin-bottom: 32px; }
+h1 { margin: 0 0 6px; font-size: 28px; letter-spacing: -0.5px; }
+h1 a { color: var(--ink); text-decoration: none; }
+.sub { color: var(--dim); font-size: 14px; margin: 0; }
+.card {
+  background: var(--panel); border: 1px solid var(--line); border-radius: 10px;
+  padding: 22px; margin-bottom: 18px;
+}
+.card h2 { margin: 0 0 4px; font-size: 20px; }
+.card h2 a { color: var(--ink); text-decoration: none; }
+.meta { color: var(--dim); font-size: 13px; margin: 0 0 16px; }
+.dl {
+  display: inline-block; background: var(--accent); color: #120a07; font-weight: 700;
+  text-decoration: none; padding: 13px 24px; border-radius: 8px; font-size: 16px;
+}
+.dl:hover { filter: brightness(1.1); }
+.qr { background: #fff; padding: 10px; border-radius: 10px; display: inline-block; line-height: 0; }
+.split { display: flex; gap: 26px; align-items: center; flex-wrap: wrap; }
+table { width: 100%; border-collapse: collapse; font-size: 13px; margin-top: 8px; }
+th, td { text-align: left; padding: 7px 10px; border-bottom: 1px solid var(--line); }
+th { color: var(--dim); font-weight: 500; }
+code { background: #0a0c0f; padding: 2px 6px; border-radius: 4px; font-size: 13px; word-break: break-all; }
+.note { color: var(--dim); font-size: 13px; }
+footer { color: var(--dim); font-size: 12px; margin-top: 48px; border-top: 1px solid var(--line); padding-top: 20px; }
+.tag { display: inline-block; font-size: 11px; text-transform: uppercase; letter-spacing: 0.08em;
+       border: 1px solid var(--line); color: var(--dim); padding: 2px 8px; border-radius: 999px;
+       margin-right: 6px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+<p class="sub">
+  <a href="https://supervandal-games.github.io/supervandal-builds/" style="color:var(--dim)">Supervandal builds</a> /
+  <a href="https://supervandal-games.github.io/supervandal-builds/android/not-rocket-science/" style="color:var(--dim)">not-rocket-science</a>
+</p>
+<h1>NotRS Alpha 1</h1>
+<p class="sub">Piste <code>alpha1</code> &middot; </p>
+</header>
+
+<div class="card">
+  <span class="tag">debug</span><span class="tag">Android</span>
+  <h2>Version 0.1.0</h2>
+  <p class="meta">Publie le 2026-08-21 &middot; moteur v0.4.361 &middot; 9.8 Mo &middot; Android 9+ (arm64)</p>
+  <div class="split">
+    <div>
+      <a class="dl" href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/not-rocket-science-android-alpha1-v0.1.0/not-rocket-science-alpha1-v0.1.0-release.apk">Telecharger l&rsquo;APK</a>
+      <p class="note" style="margin-top:14px">Cette page&nbsp;: <code>https://supervandal-games.github.io/supervandal-builds/android/not-rocket-science/alpha1/</code></p>
+    </div>
+    <div class="qr"><svg xmlns="http://www.w3.org/2000/svg" width="285" height="285"><g transform="scale(5)"><path fill="#fff" d="M0 0h57v57h-57z"/><path stroke="#111" d="M2 2.5h7m1 0h2m1 0h7m1 0h4m7 0h1m1 0h1m1 0h1m3 0h5m3 0h7m-53 1h1m5 0h1m3 0h1m1 0h1m2 0h2m7 0h1m1 0h2m2 0h2m1 0h1m1 0h2m1 0h1m2 0h3m2 0h1m5 0h1m-53 1h1m1 0h3m1 0h1m1 0h4m1 0h2m1 0h2m1 0h2m1 0h1m4 0h2m1 0h1m2 0h7m1 0h1m1 0h1m2 0h1m1 0h3m1 0h1m-53 1h1m1 0h3m1 0h1m2 0h1m1 0h3m1 0h1m3 0h3m2 0h1m2 0h2m2 0h1m1 0h4m1 0h2m1 0h2m1 0h1m1 0h1m1 0h3m1 0h1m-53 1h1m1 0h3m1 0h1m3 0h3m1 0h1m2 0h2m2 0h1m1 0h6m1 0h2m1 0h3m1 0h2m3 0h1m3 0h1m1 0h3m1 0h1m-53 1h1m5 0h1m1 0h6m2 0h2m3 0h2m1 0h1m3 0h3m3 0h3m1 0h5m3 0h1m5 0h1m-53 1h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7m-44 1h2m2 0h2m1 0h1m2 0h2m1 0h3m3 0h1m2 0h1m3 0h2m2 0h3m-42 1h1m1 0h1m3 0h2m1 0h2m4 0h1m4 0h1m1 0h7m2 0h2m3 0h2m2 0h1m2 0h1m3 0h1m2 0h1m1 0h1m-45 1h2m4 0h1m2 0h1m4 0h1m5 0h2m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m3 0h6m-53 1h3m1 0h6m1 0h1m2 0h2m2 0h4m1 0h1m2 0h4m1 0h3m7 0h1m1 0h1m3 0h2m3 0h1m-53 1h1m3 0h2m4 0h1m2 0h1m1 0h1m4 0h1m2 0h1m1 0h1m3 0h2m1 0h1m3 0h1m3 0h6m2 0h2m-49 1h1m1 0h1m1 0h5m3 0h2m2 0h2m1 0h1m1 0h4m2 0h2m2 0h1m3 0h1m3 0h2m1 0h1m2 0h1m1 0h1m2 0h1m-52 1h1m1 0h2m3 0h1m1 0h1m1 0h4m1 0h1m1 0h1m3 0h1m2 0h2m1 0h3m1 0h2m2 0h2m1 0h1m1 0h1m1 0h1m1 0h1m2 0h2m2 0h1m-50 1h2m1 0h3m2 0h1m3 0h2m2 0h2m2 0h1m3 0h4m2 0h1m3 0h1m3 0h1m5 0h6m-53 1h1m2 0h1m4 0h1m1 0h3m2 0h4m1 0h2m1 0h1m1 0h1m1 0h3m2 0h1m2 0h2m3 0h1m2 0h3m2 0h1m2 0h1m-50 1h2m1 0h4m1 0h2m1 0h8m1 0h1m2 0h1m1 0h3m2 0h1m1 0h1m1 0h1m3 0h1m2 0h1m1 0h5m1 0h2m-51 1h2m1 0h1m3 0h1m2 0h2m1 0h4m1 0h4m1 0h2m1 0h2m2 0h1m4 0h1m1 0h1m1 0h1m1 0h1m3 0h1m1 0h1m1 0h2m-53 1h2m3 0h4m4 0h2m2 0h1m3 0h3m2 0h1m1 0h2m4 0h1m1 0h2m2 0h2m2 0h2m1 0h3m2 0h1m-53 1h2m2 0h1m2 0h1m1 0h1m1 0h2m1 0h1m2 0h5m1 0h1m1 0h1m6 0h1m3 0h1m1 0h5m2 0h4m2 0h1m-51 1h1m1 0h2m1 0h2m1 0h3m1 0h2m1 0h1m1 0h5m2 0h1m2 0h1m1 0h1m1 0h1m2 0h2m3 0h1m2 0h1m1 0h1m2 0h1m-49 1h1m1 0h4m1 0h3m3 0h2m3 0h2m1 0h1m1 0h1m3 0h1m1 0h1m3 0h1m1 0h1m3 0h1m1 0h1m1 0h1m3 0h4m1 0h1m-53 1h2m4 0h2m1 0h1m2 0h5m1 0h1m5 0h5m8 0h4m8 0h1m2 0h1m-53 1h1m2 0h3m1 0h1m3 0h1m2 0h1m1 0h1m2 0h3m3 0h1m1 0h1m3 0h5m1 0h2m1 0h1m2 0h3m2 0h1m2 0h1m-49 1h6m1 0h3m2 0h1m1 0h4m1 0h1m1 0h6m2 0h1m2 0h3m2 0h1m2 0h6m2 0h2m-51 1h1m1 0h1m3 0h1m2 0h4m1 0h1m2 0h2m1 0h1m1 0h1m3 0h2m1 0h1m1 0h1m1 0h1m1 0h1m2 0h2m1 0h2m3 0h2m2 0h1m-51 1h1m1 0h1m1 0h1m1 0h3m2 0h3m2 0h2m3 0h2m1 0h1m1 0h2m2 0h1m2 0h3m1 0h3m2 0h1m1 0h1m1 0h5m-51 1h1m1 0h1m3 0h1m1 0h3m1 0h1m1 0h3m5 0h1m3 0h2m3 0h1m2 0h2m2 0h1m1 0h1m1 0h1m3 0h2m1 0h2m-53 1h2m1 0h6m1 0h1m1 0h5m1 0h1m3 0h1m1 0h5m1 0h1m3 0h3m1 0h3m1 0h1m1 0h5m2 0h2m-53 1h2m2 0h2m1 0h6m3 0h2m2 0h1m1 0h2m2 0h1m5 0h1m4 0h1m3 0h1m2 0h2m1 0h1m4 0h1m-53 1h1m2 0h1m2 0h1m2 0h1m4 0h5m1 0h4m1 0h3m1 0h1m3 0h1m2 0h2m2 0h1m2 0h2m1 0h3m3 0h1m-50 1h2m2 0h7m1 0h3m2 0h2m3 0h1m1 0h1m4 0h1m3 0h1m3 0h2m1 0h2m1 0h1m2 0h1m1 0h2m-53 1h3m1 0h3m2 0h1m2 0h5m4 0h3m1 0h2m1 0h1m1 0h1m1 0h1m3 0h1m2 0h5m1 0h1m-46 1h4m4 0h2m1 0h1m1 0h2m1 0h3m1 0h6m5 0h1m1 0h1m1 0h1m1 0h1m3 0h1m1 0h2m1 0h2m1 0h4m-53 1h1m4 0h2m1 0h1m2 0h1m4 0h5m1 0h3m2 0h1m2 0h1m1 0h2m2 0h2m3 0h1m2 0h5m2 0h2m-51 1h1m4 0h1m1 0h3m1 0h1m1 0h2m2 0h1m2 0h1m1 0h1m2 0h1m4 0h3m1 0h1m1 0h3m1 0h3m1 0h1m2 0h1m2 0h1m-53 1h2m1 0h5m3 0h1m1 0h1m5 0h1m1 0h2m2 0h2m1 0h1m1 0h1m1 0h2m2 0h1m3 0h1m2 0h4m2 0h1m-50 1h3m2 0h1m1 0h2m1 0h1m1 0h1m1 0h1m2 0h3m1 0h4m1 0h1m1 0h2m1 0h1m1 0h2m2 0h1m3 0h1m1 0h1m2 0h2m4 0h1m-52 1h1m1 0h1m2 0h4m1 0h5m1 0h3m3 0h1m2 0h1m2 0h1m1 0h4m2 0h1m1 0h1m1 0h1m1 0h2m1 0h1m1 0h5m-52 1h2m1 0h1m2 0h1m1 0h1m1 0h1m3 0h1m3 0h2m1 0h3m2 0h1m4 0h2m2 0h1m3 0h2m1 0h6m2 0h1m-52 1h2m1 0h1m1 0h3m2 0h1m1 0h2m2 0h2m1 0h2m3 0h1m1 0h1m1 0h1m3 0h1m1 0h1m1 0h3m1 0h5m4 0h1m1 0h2m-53 1h1m2 0h1m1 0h1m1 0h1m3 0h1m3 0h1m2 0h1m5 0h1m1 0h2m1 0h1m1 0h1m1 0h1m1 0h2m3 0h1m2 0h3m6 0h1m-53 1h2m1 0h8m2 0h1m2 0h3m2 0h3m1 0h3m1 0h1m2 0h1m4 0h2m2 0h1m1 0h2m1 0h2m1 0h2m1 0h1m-52 1h2m4 0h1m3 0h1m1 0h4m1 0h1m5 0h2m1 0h1m1 0h2m1 0h1m6 0h3m1 0h1m1 0h4m2 0h2m-50 1h1m2 0h1m1 0h5m7 0h3m1 0h5m3 0h2m6 0h1m1 0h8m-42 1h2m1 0h4m4 0h1m2 0h1m1 0h1m3 0h2m3 0h1m2 0h2m1 0h1m3 0h2m3 0h2m1 0h2m-53 1h7m1 0h1m2 0h4m1 0h4m1 0h4m1 0h1m1 0h2m1 0h3m3 0h1m3 0h1m2 0h1m1 0h1m1 0h3m1 0h1m-53 1h1m5 0h1m5 0h4m1 0h2m1 0h2m1 0h2m3 0h4m1 0h4m1 0h4m1 0h2m3 0h2m1 0h1m-52 1h1m1 0h3m1 0h1m3 0h1m3 0h1m1 0h4m1 0h2m1 0h5m1 0h3m1 0h1m1 0h1m1 0h1m1 0h3m1 0h5m3 0h1m-53 1h1m1 0h3m1 0h1m2 0h2m1 0h3m1 0h1m3 0h2m2 0h2m2 0h2m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m2 0h1m3 0h2m1 0h1m-52 1h1m1 0h3m1 0h1m1 0h6m7 0h2m2 0h1m3 0h1m1 0h3m2 0h2m2 0h2m2 0h3m1 0h1m1 0h2m-52 1h1m5 0h1m2 0h6m2 0h2m2 0h1m2 0h1m1 0h1m2 0h2m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m7 0h2m-50 1h7m1 0h1m2 0h1m1 0h3m1 0h1m3 0h1m2 0h3m2 0h1m2 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m2 0h1m6 0h1"/></g></svg>
+</div>
+  </div>
+</div>
+
+<div class="card">
+  <h2>Notes</h2>
+  <p class="meta" style="margin:0">Premiere alpha publique - build de test, moteur Supervandal v0.4.361.</p>
+</div>
+
+<div class="card">
+  <h2>Installer</h2>
+  <p class="note" style="margin:0">
+    1. Ouvrir cette page sur le telephone, ou scanner le QR code.<br>
+    2. Telecharger l&rsquo;APK, puis autoriser l&rsquo;installation depuis cette source si Android le demande.<br>
+    3. Les versions suivantes de <strong>cette piste</strong> sont proposees dans le jeu au demarrage,
+       et remplacent celle-ci.
+  </p>
+  <p class="note" style="margin-top:16px">
+    Identifiant de l&rsquo;application&nbsp;: <code>com.supervandal.notrocketscience.alpha1</code><br>
+    Une autre piste porte un identifiant different et s&rsquo;installe <strong>a cote</strong>,
+    sans toucher a celle-ci.
+  </p>
+</div>
+
+<div class="card">
+  <h2>Historique de la piste</h2>
+  <table>
+    <tr><th>Version</th><th>Code</th><th>Date</th><th>Config</th><th>Taille</th></tr>
+    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/not-rocket-science-android-alpha1-v0.1.0/not-rocket-science-alpha1-v0.1.0-release.apk">0.1.0</a></td><td>1</td><td>2026-08-21</td><td>Release</td><td>9.8 Mo</td></tr>
+  </table>
+  <p class="note" style="margin-top:16px">
+    Flux de mise a jour&nbsp;: <code>https://supervandal-games.github.io/supervandal-builds/android/not-rocket-science/alpha1/latest.json</code><br>
+    Empreinte SHA-256&nbsp;: <code>ea5143dee8a36ec510dafea21d325d992d0081d50a71f915168401d6bda3338c</code>
+  </p>
+</div>
+
+<footer>
+Builds de test Supervandal &mdash; APK non signes pour le Play Store, a installer via
+&laquo;&nbsp;sources inconnues&nbsp;&raquo;. Chaque piste est une application distincte&nbsp;:
+plusieurs pistes peuvent cohabiter sur un meme telephone. Publie automatiquement par
+<code>tools/publish_android.py</code>.
+</footer>
+</div>
+</body>
+</html>

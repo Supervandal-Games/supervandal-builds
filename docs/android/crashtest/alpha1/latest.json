@@ -1,0 +1,19 @@
+{
+  "project": "crashtest",
+  "projectTitle": "crashtest",
+  "track": "alpha1",
+  "appName": "crashtestA Alpha 1",
+  "package": "com.supervandal.crashtestA.alpha1",
+  "platform": "android",
+  "versionName": "0.1.0",
+  "versionCode": 1,
+  "engineVersion": "0.4.361",
+  "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/crashtest-android-alpha1-v0.1.0/crashtest-alpha1-v0.1.0-release.apk",
+  "apkUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/crashtest-android-alpha1-v0.1.0/crashtest-alpha1-v0.1.0-release.apk",
+  "size": 9734856,
+  "sha256": "fb8d08b094b57cdaa07b05d5901b9d97ed7a89a4fd415681dd10c6ab4c3ccee6",
+  "date": "2026-08-21T14:06:10+00:00",
+  "channel": "debug",
+  "notes": "Premiere alpha publique - build de test, moteur Supervandal v0.4.361.",
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/crashtest/alpha1/"
+}

@@ -1,24 +1,3 @@
 {
-  "projects": {
-    "coaster-train": {
-      "title": "Coaster Train",
-      "description": "Prototype de train sur rails : physique de wagons, splines et reseau de voies.",
-      "builds": [
-        {
-          "versionName": "0.4.359",
-          "versionCode": 43590,
-          "engineVersion": "0.4.359",
-          "platform": "android",
-          "config": "Release",
-          "channel": "debug",
-          "tag": "coaster-train-android-v0.4.359",
-          "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-v0.4.359/coaster-train-android-v0.4.359-release.apk",
-          "size": 10064772,
-          "sha256": "a53bfd347bdd1d86341b6f3668f4b483b0154bfaa84da9f2232352c992c91d43",
-          "notes": "Build de test 0.4.359 - moteur v0.4.359.",
-          "date": "2026-08-21T12:53:34+00:00"
-        }
-      ]
-    }
-  }
+  "projects": {}
 }

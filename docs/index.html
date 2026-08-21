@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Supervandal - builds Android</title>
+<style>
+:root {
+  --bg: #0d0f13; --panel: #161a21; --line: #262c36; --ink: #e8ebf0;
+  --dim: #939cab; --accent: #ff5c39; --ok: #4ade80;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; background: var(--bg); color: var(--ink);
+  font: 16px/1.6 ui-monospace, "JetBrains Mono", "Cascadia Mono", Consolas, monospace;
+  -webkit-font-smoothing: antialiased;
+}
+a { color: var(--accent); }
+.wrap { max-width: 780px; margin: 0 auto; padding: 40px 20px 80px; }
+header { border-bottom: 1px solid var(--line); padding-bottom: 24px; margin-bottom: 32px; }
+h1 { margin: 0 0 6px; font-size: 28px; letter-spacing: -0.5px; }
+h1 a { color: var(--ink); text-decoration: none; }
+.sub { color: var(--dim); font-size: 14px; margin: 0; }
+.card {
+  background: var(--panel); border: 1px solid var(--line); border-radius: 10px;
+  padding: 22px; margin-bottom: 18px;
+}
+.card h2 { margin: 0 0 4px; font-size: 20px; }
+.card h2 a { color: var(--ink); text-decoration: none; }
+.meta { color: var(--dim); font-size: 13px; margin: 0 0 16px; }
+.dl {
+  display: inline-block; background: var(--accent); color: #120a07; font-weight: 700;
+  text-decoration: none; padding: 13px 24px; border-radius: 8px; font-size: 16px;
+}
+.dl:hover { filter: brightness(1.1); }
+.qr { background: #fff; padding: 10px; border-radius: 10px; display: inline-block; line-height: 0; }
+.split { display: flex; gap: 26px; align-items: center; flex-wrap: wrap; }
+table { width: 100%; border-collapse: collapse; font-size: 13px; margin-top: 8px; }
+th, td { text-align: left; padding: 7px 10px; border-bottom: 1px solid var(--line); }
+th { color: var(--dim); font-weight: 500; }
+code { background: #0a0c0f; padding: 2px 6px; border-radius: 4px; font-size: 13px; word-break: break-all; }
+.note { color: var(--dim); font-size: 13px; }
+footer { color: var(--dim); font-size: 12px; margin-top: 48px; border-top: 1px solid var(--line); padding-top: 20px; }
+.tag { display: inline-block; font-size: 11px; text-transform: uppercase; letter-spacing: 0.08em;
+       border: 1px solid var(--line); color: var(--dim); padding: 2px 8px; border-radius: 999px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+<h1>Supervandal &mdash; builds Android</h1>
+<p class="sub">
+Builds de test des jeux et prototypes faits avec le moteur Supervandal.
+Ouvrir cette page sur un telephone Android, telecharger, jouer.
+</p>
+</header>
+<div class="card"><p class="meta" style="margin:0">Aucune build publiee pour le moment.</p></div>
+<footer>
+Builds de test Supervandal &mdash; APK non signes pour le Play Store, a installer via
+&laquo;&nbsp;sources inconnues&nbsp;&raquo;. Publie automatiquement par
+<code>tools/publish_android.py</code>.
+</footer>
+</div>
+</body>
+</html>

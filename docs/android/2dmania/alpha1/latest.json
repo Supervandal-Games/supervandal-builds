@@ -1,0 +1,19 @@
+{
+  "project": "2dmania",
+  "projectTitle": "2Dmania",
+  "track": "alpha1",
+  "appName": "2Dmania Alpha 1",
+  "package": "com.supervandal.spritemania.alpha1",
+  "platform": "android",
+  "versionName": "0.1.0",
+  "versionCode": 1,
+  "engineVersion": "0.4.361",
+  "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/2dmania-android-alpha1-v0.1.0/2dmania-alpha1-v0.1.0-release.apk",
+  "apkUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/2dmania-android-alpha1-v0.1.0/2dmania-alpha1-v0.1.0-release.apk",
+  "size": 21276588,
+  "sha256": "5b50946b24c29b2ea87868414d1412751876efb56a6fc1f84fac922af3d82011",
+  "date": "2026-08-21T13:53:48+00:00",
+  "channel": "debug",
+  "notes": "Premiere alpha publique - build de test, moteur Supervandal v0.4.361.",
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/2dmania/alpha1/"
+}

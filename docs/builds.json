@@ -178,6 +178,19 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.1.1",
+              "versionCode": 2,
+              "engineVersion": "0.4.458",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "not-rocket-science-android-alpha1-v0.1.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/not-rocket-science-android-alpha1-v0.1.1/not-rocket-science-alpha1-v0.1.1-release.apk",
+              "size": 10886396,
+              "sha256": "256096b6fe7ad9b1c1518f48629475e3708381c08df46e2ca8fddf842159399f",
+              "notes": "Le tir fonctionne enfin : l'obus part du canon, la camera le suit tout son vol et reste 3 secondes sur le cratere. Le tour ne se coupe plus en plein vol -- il finit avec le boulet, jamais sur un chrono. Azimut, elevation et poudre s'affichent. Une partie terminee peut etre relancee sans redemarrer le jeu. Quatre commandes autour du canon, poudre et feu restent en bas. Moteur Supervandal v0.4.458.",
+              "date": "2026-08-28T12:33:30+00:00"
+            },
+            {
               "versionName": "0.1.0",
               "versionCode": 1,
               "engineVersion": "0.4.361",

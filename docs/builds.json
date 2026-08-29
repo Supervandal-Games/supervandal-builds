@@ -178,6 +178,19 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.1.2",
+              "versionCode": 3,
+              "engineVersion": "0.4.487",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "not-rocket-science-android-alpha1-v0.1.2",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/not-rocket-science-android-alpha1-v0.1.2/not-rocket-science-alpha1-v0.1.2-release.apk",
+              "size": 10553836,
+              "sha256": "55acfabcde85a90b4fc91d121ec5ae672d04cf191275d9e67b301df1e3938e1d",
+              "notes": "Vent simule (drag + lift) avec girouette, degats de proximite, barres de vie, score kills/degats/precision et classement au debriefing. Moteur v0.4.487.",
+              "date": "2026-08-29T23:10:00+00:00"
+            },
+            {
               "versionName": "0.1.1",
               "versionCode": 2,
               "engineVersion": "0.4.458",
@@ -204,7 +217,7 @@
               "date": "2026-08-21T14:14:30+00:00"
             }
           ],
-          "appName": "NotRS Alpha 1",
+          "appName": "Not Rocket Science Alpha 1",
           "package": "com.supervandal.notrocketscience.alpha1"
         }
       }

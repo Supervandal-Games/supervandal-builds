@@ -1,53 +1,5 @@
 {
   "projects": {
-    "2dmania": {
-      "title": "2Dmania",
-      "tracks": {
-        "alpha1": {
-          "builds": [
-            {
-              "versionName": "0.1.0",
-              "versionCode": 1,
-              "engineVersion": "0.4.361",
-              "config": "Release",
-              "channel": "debug",
-              "tag": "2dmania-android-alpha1-v0.1.0",
-              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/2dmania-android-alpha1-v0.1.0/2dmania-alpha1-v0.1.0-release.apk",
-              "size": 21276588,
-              "sha256": "5b50946b24c29b2ea87868414d1412751876efb56a6fc1f84fac922af3d82011",
-              "notes": "Premiere alpha publique - build de test, moteur Supervandal v0.4.361.",
-              "date": "2026-08-21T13:53:48+00:00"
-            }
-          ],
-          "appName": "2Dmania Alpha 1",
-          "package": "com.supervandal.spritemania.alpha1"
-        }
-      }
-    },
-    "biology": {
-      "title": "biology",
-      "tracks": {
-        "alpha1": {
-          "builds": [
-            {
-              "versionName": "0.1.0",
-              "versionCode": 1,
-              "engineVersion": "0.4.361",
-              "config": "Release",
-              "channel": "debug",
-              "tag": "biology-android-alpha1-v0.1.0",
-              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/biology-android-alpha1-v0.1.0/biology-alpha1-v0.1.0-release.apk",
-              "size": 9719652,
-              "sha256": "bd6a902103e06df3d8223356efb4cf784187207cc8ff17157afdb2f55a0b5868",
-              "notes": "Premiere alpha publique - build de test, moteur Supervandal v0.4.361.",
-              "date": "2026-08-21T14:01:03+00:00"
-            }
-          ],
-          "appName": "life1 Alpha 1",
-          "package": "com.supervandal.life1.alpha1"
-        }
-      }
-    },
     "coaster-train": {
       "title": "coaster-train",
       "tracks": {
@@ -124,54 +76,6 @@
         }
       }
     },
-    "crashtest": {
-      "title": "crashtest",
-      "tracks": {
-        "alpha1": {
-          "builds": [
-            {
-              "versionName": "0.1.0",
-              "versionCode": 1,
-              "engineVersion": "0.4.361",
-              "config": "Release",
-              "channel": "debug",
-              "tag": "crashtest-android-alpha1-v0.1.0",
-              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/crashtest-android-alpha1-v0.1.0/crashtest-alpha1-v0.1.0-release.apk",
-              "size": 9734856,
-              "sha256": "fb8d08b094b57cdaa07b05d5901b9d97ed7a89a4fd415681dd10c6ab4c3ccee6",
-              "notes": "Premiere alpha publique - build de test, moteur Supervandal v0.4.361.",
-              "date": "2026-08-21T14:06:10+00:00"
-            }
-          ],
-          "appName": "crashtestA Alpha 1",
-          "package": "com.supervandal.crashtestA.alpha1"
-        }
-      }
-    },
-    "dominos": {
-      "title": "Dominos",
-      "tracks": {
-        "alpha1": {
-          "builds": [
-            {
-              "versionName": "0.1.0",
-              "versionCode": 1,
-              "engineVersion": "0.4.361",
-              "config": "Release",
-              "channel": "debug",
-              "tag": "dominos-android-alpha1-v0.1.0",
-              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/dominos-android-alpha1-v0.1.0/dominos-alpha1-v0.1.0-release.apk",
-              "size": 10330868,
-              "sha256": "169ed54ba996b6738f1f332eb768b58fd3dc204e6dfa97fe19cd3c696f21d584",
-              "notes": "Premiere alpha publique - build de test, moteur Supervandal v0.4.361.",
-              "date": "2026-08-21T14:10:29+00:00"
-            }
-          ],
-          "appName": "Dominos Alpha 1",
-          "package": "com.supervandal.dominos.alpha1"
-        }
-      }
-    },
     "not-rocket-science": {
       "title": "not-rocket-science",
       "tracks": {
@@ -219,30 +123,6 @@
           ],
           "appName": "Not Rocket Science Alpha 1",
           "package": "com.supervandal.notrocketscience.alpha1"
-        }
-      }
-    },
-    "payload": {
-      "title": "Payload",
-      "tracks": {
-        "alpha1": {
-          "builds": [
-            {
-              "versionName": "0.1.0",
-              "versionCode": 1,
-              "engineVersion": "0.4.361",
-              "config": "Release",
-              "channel": "debug",
-              "tag": "payload-android-alpha1-v0.1.0",
-              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/payload-android-alpha1-v0.1.0/payload-alpha1-v0.1.0-release.apk",
-              "size": 10920512,
-              "sha256": "41d7d3e5997f09812bfb024d7621b4aac28158c960910e8b0fac60a1a4af67a0",
-              "notes": "Premiere alpha publique - build de test, moteur Supervandal v0.4.361.",
-              "date": "2026-08-21T14:18:27+00:00"
-            }
-          ],
-          "appName": "Payload Alpha 1",
-          "package": "com.supervandal.payload.alpha1"
         }
       }
     }

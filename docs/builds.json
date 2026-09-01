@@ -82,6 +82,19 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.1.6",
+              "versionCode": 7,
+              "engineVersion": "0.4.507",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "not-rocket-science-android-alpha1-v0.1.6",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/not-rocket-science-android-alpha1-v0.1.6/not-rocket-science-alpha1-v0.1.6-release.apk",
+              "size": 16328241,
+              "sha256": "13bc0bc09a8cc850b5d71df1f685dbc0383584c1c25aec7d9cab5be5f3ab65b4",
+              "notes": "Build de test 0.1.6 - moteur v0.4.507.",
+              "date": "2026-09-01T19:01:02+00:00"
+            },
+            {
               "versionName": "0.1.5",
               "versionCode": 6,
               "engineVersion": "0.4.506",

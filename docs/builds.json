@@ -82,6 +82,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.1.11",
+              "versionCode": 12,
+              "engineVersion": "0.4.515",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "not-rocket-science-android-alpha1-v0.1.11",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/not-rocket-science-android-alpha1-v0.1.11/not-rocket-science-alpha1-v0.1.11-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/not-rocket-science-android-alpha1-latest/not-rocket-science-alpha1.apk",
+              "size": 16479093,
+              "sha256": "8f9b2cd54eb9c76635ed6cc72283a68954bba746977337bf2eb7bc716432cdc1",
+              "notes": "Physique reelle : gravite 9.81, boulet de 914 mm / 1.1 t, portee max 2.9 km. Telemetrie de vol en haut a droite (vitesse et altitude). MAINTENIR LE DOIGT pendant le vol accelere le temps x3. Le boulet siffle selon sa vitesse. Plus aucun chronometre ne coupe un tir en plein vol : un obus qui sort de la carte passe le tour. Distances et decimales reparees partout.",
+              "date": "2026-09-02T19:55:15+00:00"
+            },
+            {
               "versionName": "0.1.10",
               "versionCode": 11,
               "engineVersion": "0.4.515",

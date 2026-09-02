@@ -82,6 +82,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.1.13",
+              "versionCode": 14,
+              "engineVersion": "0.4.516",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "not-rocket-science-android-alpha1-v0.1.13",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/not-rocket-science-android-alpha1-v0.1.13/not-rocket-science-alpha1-v0.1.13-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/not-rocket-science-android-alpha1-latest/not-rocket-science-alpha1.apk",
+              "size": 16479253,
+              "sha256": "2f45ce06871aad020dcb48b7fa4797f9742e219d2d2b18d0767ad413e4469d70",
+              "notes": "La girouette dit enfin quelque chose : elle lit le vent DANS TON REPERE, sur un cadran plat. Vent dans le sens du tir = fleche en haut, vent de face = fleche en bas, vent de travers = fleche a gauche ou a droite. Et changer l'angle du canon ne la fait plus bouger : elle ne lit que X et Y. Avant, elle projetait le vecteur vent a travers la camera, donc lever le tube faisait tourner l'aiguille sans que la meteo change.",
+              "date": "2026-09-02T20:23:10+00:00"
+            },
+            {
               "versionName": "0.1.12",
               "versionCode": 13,
               "engineVersion": "0.4.515",

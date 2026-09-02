@@ -82,6 +82,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.1.12",
+              "versionCode": 13,
+              "engineVersion": "0.4.515",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "not-rocket-science-android-alpha1-v0.1.12",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/not-rocket-science-android-alpha1-v0.1.12/not-rocket-science-alpha1-v0.1.12-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/not-rocket-science-android-alpha1-latest/not-rocket-science-alpha1.apk",
+              "size": 16479129,
+              "sha256": "2765fa23455eb75be4dd0ae33f16d4a28a9c1fd2e698a89dd1ae6980d016c072",
+              "notes": "Le boulet sort enfin de la BOUCHE du canon (il apparaissait 26 m au-dessus). Le sifflement du boulet suit sa vitesse et s'arrete avec lui : le son etait joue sur une entite qui n'existait pas dans une scene instanciee. Camera de visee reculee et alignee dans l'axe. Moteur v0.4.516.",
+              "date": "2026-09-02T20:06:03+00:00"
+            },
+            {
               "versionName": "0.1.11",
               "versionCode": 12,
               "engineVersion": "0.4.515",

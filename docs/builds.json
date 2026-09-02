@@ -82,6 +82,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.1.15",
+              "versionCode": 16,
+              "engineVersion": "0.4.516",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "not-rocket-science-android-alpha1-v0.1.15",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/not-rocket-science-android-alpha1-v0.1.15/not-rocket-science-alpha1-v0.1.15-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/not-rocket-science-android-alpha1-latest/not-rocket-science-alpha1.apk",
+              "size": 16462841,
+              "sha256": "d74345d25b9b33a4f6dd02cb4dcd6cd9ee68bfeb441f5eed87324d95b0f22428",
+              "notes": "BALISTIQUE — Gravite abaissee a 13 m/s2. Les tirs portent plus loin et montent plus haut : a pleine charge, 2500 m de portee pour un sommet a 900 m. Les corrections de tir sont plus fines et le temps de vol plus long.\n\nTERRAIN — Nouveau reglage du generateur : relief adouci, sites de deploiement plus degages. Le plafond du monde passe a 1000 m pour accueillir les nouvelles trajectoires.\n\nCAMERA — La camera de vol se place desormais derriere le projectile, dans son axe de deplacement, au lieu de le survoler. La trajectoire et la vitesse redeviennent lisibles.\n\nVENT — Girouette refaite. La fleche indique le vent dans votre repere de tir : vers le haut s'il pousse, vers le bas s'il contre, sur le cote s'il traverse. Regler la hausse du canon ne la fait plus devier.\n\nTELEMETRIE — Vitesse et altitude du projectile affichees pendant le vol.\n\nVOL — Maintenez l'appui pendant le vol pour l'accelerer, relachez pour revenir au temps reel.\n\nCORRECTIONS — Le tour n'est plus interrompu avant l'impact. Le son du projectile suit sa vitesse et s'arrete a la fin du tour. Le projectile sort du tube et non plus au-dessus. Affichage des distances corrige.\n\nMoteur v0.4.517.",
+              "date": "2026-09-02T23:19:37+00:00"
+            },
+            {
               "versionName": "0.1.14",
               "versionCode": 15,
               "engineVersion": "0.4.516",

@@ -82,6 +82,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.1.14",
+              "versionCode": 15,
+              "engineVersion": "0.4.516",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "not-rocket-science-android-alpha1-v0.1.14",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/not-rocket-science-android-alpha1-v0.1.14/not-rocket-science-alpha1-v0.1.14-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/not-rocket-science-android-alpha1-latest/not-rocket-science-alpha1.apk",
+              "size": 16462793,
+              "sha256": "81768deffa1a2709508cb50a87267c36c7851f7ceaf5c1db6fa299afc6748195",
+              "notes": "Le boulet ne flotte plus : la camera de vol le suivait 45 m AU-DESSUS, ou tout l'arc balistique est le long de l'axe de vue et donc invisible. Elle passe derriere lui, dans son axe de deplacement. Nouvelle arene : 4 x 4 km, voxels de 4 m, deux fois plus de detail. Girouette refaite : elle lit le vent dans TON repere sur un cadran plat, et changer l'angle du canon ne la fait plus bouger. Gravite 18, pas fixe 60 Hz. Moteur v0.4.517.",
+              "date": "2026-09-02T21:24:43+00:00"
+            },
+            {
               "versionName": "0.1.13",
               "versionCode": 14,
               "engineVersion": "0.4.516",

@@ -82,6 +82,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.1.17",
+              "versionCode": 18,
+              "engineVersion": "0.4.518",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "not-rocket-science-android-alpha1-v0.1.17",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/not-rocket-science-android-alpha1-v0.1.17/not-rocket-science-alpha1-v0.1.17-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/not-rocket-science-android-alpha1-latest/not-rocket-science-alpha1.apk",
+              "size": 16471261,
+              "sha256": "9a756f488a7184133719e3d115d17227a79c92a79d2b458f17f80bc304c65268",
+              "notes": "CAMERA — Refonte du suivi du projectile. La camera se place au-dessus du boulet et le suit en douceur : le retard du suivi la laisse naturellement derriere lui, et la trajectoire penche vers le sol a mesure que la chute s'accelere. Plus aucun a-coup au moment de l'impact.\n\nARENE — Chaque base repose desormais sur un socle degage : les voxels autour et au-dessus du canon sont retires au deploiement, la vue reste libre.\n\nAFFICHAGE — La distance d'impact est corrigee. Elle se lit au millimetre sous 100 metres (99.999 M) et en metres entiers au-dela (104 M, 1234 M).\n\nMoteur v0.4.518.",
+              "date": "2026-09-03T15:03:08+00:00"
+            },
+            {
               "versionName": "0.1.16",
               "versionCode": 17,
               "engineVersion": "0.4.516",

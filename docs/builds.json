@@ -338,6 +338,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.1.1",
+              "versionCode": 2,
+              "engineVersion": "0.4.553",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v0.1.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v0.1.1/cannon-smash-alpha1-v0.1.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 16211136,
+              "sha256": "411cc95a65a83b37a6b4c95fe2c18cede9eb1f061f53b2db93b8fa501c6a06ae",
+              "notes": "Stand forain : cadrage revu, modes Table et Rails, ballons de devant, zones a 100 points et combo. Le ralenti sur l'avant-derniere cible est retire.",
+              "date": "2026-09-13T20:39:37+00:00"
+            },
+            {
               "versionName": "0.1.0",
               "versionCode": 1,
               "engineVersion": "0.4.553",
@@ -352,7 +366,7 @@
               "date": "2026-09-13T10:33:15+00:00"
             }
           ],
-          "appName": "Cannon Smash Alpha 1",
+          "appName": "Bullet Smash Alpha 1",
           "package": "com.supervandal.gunsmash.alpha1"
         }
       }

@@ -377,6 +377,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.2.2",
+              "versionCode": 4,
+              "engineVersion": "0.4.553",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "squishy-ball-android-alpha1-v0.2.2",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-v0.2.2/squishy-ball-alpha1-v0.2.2-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-latest/squishy-ball-alpha1.apk",
+              "size": 15147976,
+              "sha256": "0944517c71d6661ab11fa53af2a78e29524ad2325fc13a09566e44d66b9bde70",
+              "notes": "Correction du defaut principal : les ressorts radiaux visaient un point a mi-rayon, ce qui tirait la surface vers l interieur en permanence. Ferme, la membrane compensait ; mou, la balle s aplatissait en galette et restait collee au sol. Elle roule maintenant aussi bien molle que ferme. Le bout mou du slider passe de 0,5 a 1,5 Hz (en dessous, la physique ne peut pas tenir une balle), et la poignee du HUD indique enfin la vraie fermete de depart.",
+              "date": "2026-09-13T20:48:02+00:00"
+            },
+            {
               "versionName": "0.2.1",
               "versionCode": 3,
               "engineVersion": "0.4.553",

@@ -363,6 +363,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.2.1",
+              "versionCode": 3,
+              "engineVersion": "0.4.553",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "squishy-ball-android-alpha1-v0.2.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-v0.2.1/squishy-ball-alpha1-v0.2.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-latest/squishy-ball-alpha1.apk",
+              "size": 15147652,
+              "sha256": "9dcd1e4bee0411342e4de07ea833294461d5bc3fa626dde39e8e9049d19bc53f",
+              "notes": "Reglage de la fermete sans retour au depart : la balle reste ou elle est, et garde son elan. Les ressorts recoivent une limite dure, donc la gelatine ne peut plus se dechirer ni se faire ejecter quand on l ecrase entre deux obstacles. Le niveau est desormais prouve franchissable : plusieurs passages mesuraient moins que la balle, et l entonnoir du goulot etait construit a l envers.",
+              "date": "2026-09-13T19:00:02+00:00"
+            },
+            {
               "versionName": "0.2.0",
               "versionCode": 2,
               "engineVersion": "0.4.553",

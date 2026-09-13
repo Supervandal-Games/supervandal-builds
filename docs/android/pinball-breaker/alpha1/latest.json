@@ -1,0 +1,19 @@
+{
+  "project": "pinball-breaker",
+  "projectTitle": "pinball-breaker",
+  "track": "alpha1",
+  "appName": "Pinball Breaker Alpha 1",
+  "package": "com.supervandal.pinballbreaker.alpha1",
+  "platform": "android",
+  "versionName": "0.1.0",
+  "versionCode": 1,
+  "engineVersion": "0.4.553",
+  "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.1.0/pinball-breaker-alpha1-v0.1.0-release.apk",
+  "apkUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.1.0/pinball-breaker-alpha1-v0.1.0-release.apk",
+  "size": 11424276,
+  "sha256": "bb48d3b148b782923be66c8bbc8142b8de6f48776fa20a332081b2753c83a8e4",
+  "date": "2026-09-13T19:23:30+00:00",
+  "channel": "debug",
+  "notes": "Premiere alpha jouable. Flipper casse-briques 3D: deux batteurs tactiles (moitie gauche / moitie droite de l'ecran), table inclinee a 7 degres avec vraie physique, briques normales / blindees / +1 bille / explosives, multiball, bumpers et slingshots, Ball Saver de 8 s. Nettoyer la grille OU poster une bille dans le sas du haut fait monter d'un etage. Record sauvegarde.",
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/pinball-breaker/alpha1/"
+}

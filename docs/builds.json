@@ -363,6 +363,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.2.0",
+              "versionCode": 2,
+              "engineVersion": "0.4.553",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "squishy-ball-android-alpha1-v0.2.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-v0.2.0/squishy-ball-alpha1-v0.2.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-latest/squishy-ball-alpha1.apk",
+              "size": 15146132,
+              "sha256": "5d96f489bdb3f8998354b0a6ba8fe9d23533690b1320c7009bb15e73c8628ffa",
+              "notes": "Le prototype devient un vrai niveau. La boite verticale bascule a plat : un plateau de 144 cm vu de dessus, que la camera suit. Onze ateliers -- slalom, tourniquets, volets qui se ferment, goulot bouche par des caisses, mur de briques, billard a rebondisseurs, passerelle trouee avec une navette mobile, carrousel qui vous emporte, essuie-glaces, vanne, arrivee. Les obstacles animes poussent vraiment la balle. Tomber dans un trou renvoie au dernier checkpoint franchi. Code couleur : gris = fixe, laiton = ca bouge tout seul, rouge = ca se pousse, cyan = ca rebondit, ambre = checkpoint, vert = arrivee.",
+              "date": "2026-09-13T18:14:08+00:00"
+            },
+            {
               "versionName": "0.1.0",
               "versionCode": 1,
               "engineVersion": "0.4.553",

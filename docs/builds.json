@@ -356,6 +356,31 @@
           "package": "com.supervandal.gunsmash.alpha1"
         }
       }
+    },
+    "squishy-ball": {
+      "title": "squishy-ball",
+      "tracks": {
+        "alpha1": {
+          "builds": [
+            {
+              "versionName": "0.1.0",
+              "versionCode": 1,
+              "engineVersion": "0.4.553",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "squishy-ball-android-alpha1-v0.1.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-v0.1.0/squishy-ball-alpha1-v0.1.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-latest/squishy-ball-alpha1.apk",
+              "size": 15127468,
+              "sha256": "9bf6fd4899b1f55297c1191d101d8990c4b664f5b6ac7d3a10205fbbe12c1120",
+              "notes": "Premier prototype jouable. Balle molle a 63 particules pilotee par le gyroscope, dans une boite fermee collee a l'ecran (6.4 x 7.2 x 12.8 cm). Cube poussable, ombres portees, camera a parallaxe absolue : frontale a plat, plongeante quand on redresse le telephone. Deux reglages en jeu : basculer le rendu billes/mesh, et regler la fermete de la gelatine.",
+              "date": "2026-09-13T17:01:04+00:00"
+            }
+          ],
+          "appName": "Squishy Ball Alpha 1",
+          "package": "com.supervandal.squishyball.alpha1"
+        }
+      }
     }
   }
 }

@@ -1,0 +1,19 @@
+{
+  "project": "cannon-smash",
+  "projectTitle": "cannon-smash",
+  "track": "alpha1",
+  "appName": "Cannon Smash Alpha 1",
+  "package": "com.supervandal.gunsmash.alpha1",
+  "platform": "android",
+  "versionName": "0.1.0",
+  "versionCode": 1,
+  "engineVersion": "0.4.553",
+  "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v0.1.0/cannon-smash-alpha1-v0.1.0-release.apk",
+  "apkUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v0.1.0/cannon-smash-alpha1-v0.1.0-release.apk",
+  "size": 16157560,
+  "sha256": "0b0e85ec08d14684b66a5550cab8058c4389f4a258bc8880704c2d9efa77eeb3",
+  "date": "2026-09-13T10:33:15+00:00",
+  "channel": "debug",
+  "notes": "Build de test 0.1.0 - moteur v0.4.553.",
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/cannon-smash/alpha1/"
+}

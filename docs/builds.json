@@ -517,6 +517,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.4.2",
+              "versionCode": 12,
+              "engineVersion": "0.4.561",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "squishy-ball-android-alpha1-v0.4.2",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-v0.4.2/squishy-ball-alpha1-v0.4.2-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-latest/squishy-ball-alpha1.apk",
+              "size": 15281124,
+              "sha256": "f3dd2c06c2b68556e3f7d2ccfc6b9cce9239be922b9f9bcd6b8fce8eca818ffe",
+              "notes": "Deux reproches, deux reponses. La balle ne peut plus sortir du champ: la camera garde les limites du niveau SAUF quand la balle en sort, et la balle gagne cet arbitrage. Et la piste: j'avais elargi le couloir au lieu d'elargir la vue. Elle respire maintenant -- serrage 4.2 cm ou il faut viser, sas 6.6 pour les verins, salle 7.8 pour les tourniquets et les plots -- et chaque largeur decide de ce qui a le droit d'y tenir. Trois fois plus d'obstacles, des chicanes alternees, et le controleur a refuse quatre versions avant celle-ci.",
+              "date": "2026-09-14T23:49:14+00:00"
+            },
+            {
               "versionName": "0.4.1",
               "versionCode": 11,
               "engineVersion": "0.4.561",

@@ -503,6 +503,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.4.1",
+              "versionCode": 11,
+              "engineVersion": "0.4.561",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "squishy-ball-android-alpha1-v0.4.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-v0.4.1/squishy-ball-alpha1-v0.4.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-latest/squishy-ball-alpha1.apk",
+              "size": 15262580,
+              "sha256": "ce947ed623b3c072e4c269ae1b345ceccd0e17e39b205cfe6847cc9cbd96fc01",
+              "notes": "La scene devient la source. make_level.py n'est plus le niveau: c'est un amorceur, et le juge est check_level.py qui LIT une scene -- generee, dessinee a la main, ou les deux -- et dit si elle est jouable. Il deplie enfin les scenes posees, donc il voit les obstacles prefabs qui lui etaient invisibles. Un niveau se decrit lui-meme par quatre marqueurs poses dans l'editeur: Start, Checkpoint_01.., Goal, LevelBounds. Le header genere a disparu.",
+              "date": "2026-09-14T23:17:14+00:00"
+            },
+            {
               "versionName": "0.4.0",
               "versionCode": 10,
               "engineVersion": "0.4.561",

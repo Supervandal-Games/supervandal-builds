@@ -503,6 +503,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.3.4",
+              "versionCode": 9,
+              "engineVersion": "0.4.561",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "squishy-ball-android-alpha1-v0.3.4",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-v0.3.4/squishy-ball-alpha1-v0.3.4-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-latest/squishy-ball-alpha1.apk",
+              "size": 15212324,
+              "sha256": "bd96d7f17e0110af095eca8762c3ac94b1172f43aa02565f6508f723d8d19740",
+              "notes": "Les tuyaux. Un tuyau est deux objets qui ne se touchent jamais: un canal invisible et continu qu'on sent, une armature de nervures espacees qu'on voit. Pas de transparence dans le moteur aujourd'hui, donc le corps du tuyau n'est pas transparent, il n'existe pas. Un coude avant l'arrivee, et le tuyau de la victoire: il avale la balle, sa gorge n'a pas de sol. Les verins passent de 1.00 a 2.00 de passage ferme -- un passage mobile sous 1.57 coince la balle au lieu de la serrer.",
+              "date": "2026-09-14T21:00:44+00:00"
+            },
+            {
               "versionName": "0.3.3",
               "versionCode": 8,
               "engineVersion": "0.4.561",

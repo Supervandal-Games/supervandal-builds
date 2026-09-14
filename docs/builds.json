@@ -444,6 +444,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.1.2",
+              "versionCode": 3,
+              "engineVersion": "0.4.553",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "pinball-breaker-android-alpha1-v0.1.2",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.1.2/pinball-breaker-alpha1-v0.1.2-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
+              "size": 11532500,
+              "sha256": "c3499c8b1bb32d114498c035f37803222755def50a3aa8c8bdd4792bffcfaa6d",
+              "notes": "Entonnoir du bas enfin correct sur l'appareil (le mesh tombait en cube). Une seule bille au depart, lancee par le bas entre les batteurs avec une inclinaison aleatoire. Briques lisibles: cyan ne fait rien, vert donne une bille, orange explose, acier encaisse deux coups.",
+              "date": "2026-09-14T00:05:24+00:00"
+            },
+            {
               "versionName": "0.1.1",
               "versionCode": 2,
               "engineVersion": "0.4.553",

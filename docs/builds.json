@@ -475,6 +475,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.3.2",
+              "versionCode": 7,
+              "engineVersion": "0.4.561",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "squishy-ball-android-alpha1-v0.3.2",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-v0.3.2/squishy-ball-alpha1-v0.3.2-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-latest/squishy-ball-alpha1.apk",
+              "size": 15201716,
+              "sha256": "4472acd6dc8bcef1da394bb1cb0a44c9a14568d058e1160e049ac176446e7250",
+              "notes": "Deux elements de level design instanciables: un tourniquet et une porte, chacun une scene reutilisable dont la vitesse, le sens et le on/off se reglent sur l'instance. Mesure sur le niveau: le tourniquet tourne a 1.45 rad/s la ou son modele dit 1.6336, et la porte glisse a 2.2 cm/s la ou le sien dit 1.4. Moteur 0.4.560: un joint relit ses parametres a chaque frame au lieu d'une seule fois a sa naissance.",
+              "date": "2026-09-14T19:23:32+00:00"
+            },
+            {
               "versionName": "0.3.1",
               "versionCode": 6,
               "engineVersion": "0.4.553",

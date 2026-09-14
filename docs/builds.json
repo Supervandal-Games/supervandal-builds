@@ -391,6 +391,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.3.0",
+              "versionCode": 5,
+              "engineVersion": "0.4.553",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "squishy-ball-android-alpha1-v0.3.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-v0.3.0/squishy-ball-alpha1-v0.3.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-latest/squishy-ball-alpha1.apk",
+              "size": 15149960,
+              "sha256": "1e6cfb3b08bcd67b75f77b3a8f686a7f5d215f7e6e30b94de903e0bd8b337233",
+              "notes": "Plus aucune piece mobile n est cinematique : toutes sont devenues des corps physiques motorises. Une porte qui rencontre la balle CALE au lieu de l ecraser, et la balle peut meme la repousser -- comme une vraie machine. Cela supprime la cause des ejections : un corps a masse infinie exigeait une position que les joints de la balle interdisaient, et l impulsion accumulee repartait d un coup. Trois familles reutilisables : tourniquets motorises, volets a ressort, essuie-glaces a balancier. Reglages physiques recalibres a l echelle du centimetre du projet.",
+              "date": "2026-09-14T00:28:35+00:00"
+            },
+            {
               "versionName": "0.2.2",
               "versionCode": 4,
               "engineVersion": "0.4.553",

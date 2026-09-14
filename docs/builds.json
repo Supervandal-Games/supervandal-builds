@@ -503,6 +503,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.4.0",
+              "versionCode": 10,
+              "engineVersion": "0.4.561",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "squishy-ball-android-alpha1-v0.4.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-v0.4.0/squishy-ball-alpha1-v0.4.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-latest/squishy-ball-alpha1.apk",
+              "size": 15240300,
+              "sha256": "9e8b447959c5e620fb1c95257ad07f5ee1d492afb29d89504a288d963b891cd8",
+              "notes": "Virage: c'est une course, plus un casse-tete. Un parcours est une LIGNE de points -- le sol, les rails, les points de reprise et les obstacles en decoulent, donc deplacer un point deplace le niveau. La piste serpente sur 181 cm entre x -17 et +16 au lieu de monter tout droit. Couloir elargi de moitie (9.6 cm), camera reculee a 44 et qui suit la balle sur les DEUX axes. Le tuyau de la victoire court desormais dans le plan et se couvre d'un toit: un tuyau qui avale vers le bas ne se lit pas de dessus.",
+              "date": "2026-09-14T22:54:28+00:00"
+            },
+            {
               "versionName": "0.3.4",
               "versionCode": 9,
               "engineVersion": "0.4.561",

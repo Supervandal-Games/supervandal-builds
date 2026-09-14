@@ -338,6 +338,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.1.11",
+              "versionCode": 12,
+              "engineVersion": "0.4.561",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v0.1.11",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v0.1.11/cannon-smash-alpha1-v0.1.11-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 16602272,
+              "sha256": "82d005a73e4c75954a7e8625e3323f5aca64357c47acc3ad2aaf274f1512be96",
+              "notes": "Choisir un niveau le joue vraiment : la carte de fin parle du niveau que vous venez de faire, et NIVEAU SUIVANT enchaine sur le suivant au lieu de rejouer le dernier.",
+              "date": "2026-09-14T23:29:18+00:00"
+            },
+            {
               "versionName": "0.1.10",
               "versionCode": 11,
               "engineVersion": "0.4.561",

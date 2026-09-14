@@ -570,6 +570,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.1.5",
+              "versionCode": 6,
+              "engineVersion": "0.4.560",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "pinball-breaker-android-alpha1-v0.1.5",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.1.5/pinball-breaker-alpha1-v0.1.5-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
+              "size": 11566764,
+              "sha256": "aa9e3431eda4c34c7ad346ebbe8434723a865bd2430909bb8b5204b85eb54385",
+              "notes": "Correctif bloquant : les colliders du bas de table portaient deux fois leur rotation, ce qui creait des surfaces invisibles ou la bille se posait. Slingshots reduits et alignes a -30 sur la gouttiere, entonnoirs des coins realignes, battes portees a 1,66 (ecart de drain 2,10 diametres, la convention des vraies tables).",
+              "date": "2026-09-14T19:05:39+00:00"
+            },
+            {
               "versionName": "0.1.4",
               "versionCode": 5,
               "engineVersion": "0.4.559",

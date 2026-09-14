@@ -338,6 +338,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.1.8",
+              "versionCode": 9,
+              "engineVersion": "0.4.559",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v0.1.8",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v0.1.8/cannon-smash-alpha1-v0.1.8-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 16426448,
+              "sha256": "ddf14d27d3d910a091df84368ffed1024cf9becc6a5ba19dd977b089383f16fc",
+              "notes": "L'arme est plus basse et pointe vers le bas : elle ne cache plus la zone de jeu (un defaut la tirait 35 cm vers l'oeil a chaque image). Le niveau commence VIDE : la carte de l'arme s'affiche une seconde sur un stand sans cibles, et les cibles arrivent quand elle disparait.",
+              "date": "2026-09-14T18:12:56+00:00"
+            },
+            {
               "versionName": "0.1.7",
               "versionCode": 8,
               "engineVersion": "0.4.559",

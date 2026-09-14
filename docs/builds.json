@@ -489,6 +489,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.3.3",
+              "versionCode": 8,
+              "engineVersion": "0.4.561",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "squishy-ball-android-alpha1-v0.3.3",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-v0.3.3/squishy-ball-alpha1-v0.3.3-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-latest/squishy-ball-alpha1.apk",
+              "size": 15202192,
+              "sha256": "876c9b50e299bed62a2cc086576bff34511a194c6e11f5ad34e08984cba46a48",
+              "notes": "Le mur de l'atelier vérins refonctionne: les dalles etaient 1 cm a l'interieur du rail, ejectees par le contact, et il ne leur restait que 0.15 de battement. Elles sont maintenant rangees contre leur rail et ne partent que vers l'interieur. Passage 3.20 ouvert, 1.00 ferme, periode 2.6 / 3.2 / 4.1 s selon la paire -- chaque valeur reglee sur l'instance.",
+              "date": "2026-09-14T19:42:18+00:00"
+            },
+            {
               "versionName": "0.3.2",
               "versionCode": 7,
               "engineVersion": "0.4.561",
@@ -597,20 +611,6 @@
       "tracks": {
         "alpha1": {
           "builds": [
-            {
-              "versionName": "0.1.6",
-              "versionCode": 7,
-              "engineVersion": "0.4.561",
-              "config": "Release",
-              "channel": "debug",
-              "tag": "pinball-breaker-android-alpha1-v0.1.6",
-              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.1.6/pinball-breaker-alpha1-v0.1.6-release.apk",
-              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
-              "size": 11567228,
-              "sha256": "bc7acd3b3e8475a6b49fc8c2cb244dfd20833d0996ce69d30f9f4aa870031945",
-              "notes": "Nouvelle brique : la COMETE. Une bille qui traverse les briques sans ralentir et casse meme l'acier -- elle rebondit toujours sur la barriere du haut, donc il faut quand meme viser la sortie. 4 cometes et 32 briques a bille par etage, placees a la main : plus aucun type n'est tire au sort, chaque etage porte un motif symetrique. Briques plus brillantes.",
-              "date": "2026-09-14T19:42:15+00:00"
-            },
             {
               "versionName": "0.1.5",
               "versionCode": 6,

@@ -338,6 +338,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.1.9",
+              "versionCode": 10,
+              "engineVersion": "0.4.561",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v0.1.9",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v0.1.9/cannon-smash-alpha1-v0.1.9-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 16576992,
+              "sha256": "bb3edef683be9d2d65fe09cf49b3cf1ce6e048246c7ba34068cd22da1f77a3a1",
+              "notes": "La lumiere et les planches refaites : le bois a du relief et de l'ombre. La mitrailleuse ne vide plus son chargeur dans les menus. On peut rejouer les niveaux : tirez sur la pastille NIVEAU sous JOUER.",
+              "date": "2026-09-14T19:39:18+00:00"
+            },
+            {
               "versionName": "0.1.8",
               "versionCode": 9,
               "engineVersion": "0.4.559",

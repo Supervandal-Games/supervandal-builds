@@ -338,6 +338,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.1.5",
+              "versionCode": 6,
+              "engineVersion": "0.4.559",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v0.1.5",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v0.1.5/cannon-smash-alpha1-v0.1.5-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 16317324,
+              "sha256": "879f195921cd79551b8624185e4102eb9a42bc4fa1c16d7ae53015b339f1648c",
+              "notes": "Les ballons sont des cibles : ils flottent, ils ne partent jamais, et il faut tous les abattre. Scoring simplifie (cibles + vitesse + combo). Rails ralentis. Le decor est en planches qu'on arrache une par une, avec de la tole derriere qui sonne et ne casse jamais.",
+              "date": "2026-09-14T17:47:05+00:00"
+            },
+            {
               "versionName": "0.1.4",
               "versionCode": 5,
               "engineVersion": "0.4.553",

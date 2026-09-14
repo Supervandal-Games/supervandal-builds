@@ -682,6 +682,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.1.8",
+              "versionCode": 9,
+              "engineVersion": "0.4.561",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "pinball-breaker-android-alpha1-v0.1.8",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.1.8/pinball-breaker-alpha1-v0.1.8-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
+              "size": 11567968,
+              "sha256": "3cfc73dcb19843af52b9cae36420e4bf0b7053f0eac945a5cb0cbab101ac609c",
+              "notes": "Mixage : la bille sonne metallique au lieu de boiser, et sa courbe de volume est desormais quadratique -- un coup faible est quasiment inaudible, un coup fort reste sous la brique et le bumper.",
+              "date": "2026-09-14T23:44:18+00:00"
+            },
+            {
               "versionName": "0.1.7",
               "versionCode": 8,
               "engineVersion": "0.4.561",

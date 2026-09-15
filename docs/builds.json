@@ -531,6 +531,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.4.4",
+              "versionCode": 14,
+              "engineVersion": "0.4.561",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "squishy-ball-android-alpha1-v0.4.4",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-v0.4.4/squishy-ball-alpha1-v0.4.4-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-latest/squishy-ball-alpha1.apk",
+              "size": 15217868,
+              "sha256": "0faaed7b1334d5b204f0581296c99dca344c6d1c83061773b3e764de5395f58b",
+              "notes": "Premier niveau-zone. Fini le ruban: cinq rectangles alignes sur les axes. A depart. B premier vide, 9 cm, du fond bien visible des deux cotes et le rater ne coute rien. C le puits: pour monter il faut poser le telephone A PLAT et rouler, debout la gravite ne pousse que vers le bas de l ecran. D le vide long, 18 cm: debout et roule sur le cote on patine le long du mur du bas et on passe, a plat on tombe. E l arrivee et son tuyau. Un renvoi a 45 degres dans l angle C-D, qui ne coute pas une ligne de code.",
+              "date": "2026-09-15T11:04:36+00:00"
+            },
+            {
               "versionName": "0.4.3",
               "versionCode": 13,
               "engineVersion": "0.4.561",

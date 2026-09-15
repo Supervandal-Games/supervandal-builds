@@ -794,6 +794,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.1.12",
+              "versionCode": 12,
+              "engineVersion": "0.4.561",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "pinball-breaker-android-alpha1-v0.1.12",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.1.12/pinball-breaker-alpha1-v0.1.12-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
+              "size": 11576556,
+              "sha256": "280569a00b31073386cddc4b557d03f7b00fe8cae7d3db167f4432b880cc486a",
+              "notes": "Republication : la 0.1.11 avait herite du meme versionCode que la 0.1.10 (l'index avait ete ecrase entre les deux publications), donc la mise a jour n'etait pas proposee. Meme contenu que la 0.1.11.",
+              "date": "2026-09-15T15:49:00+00:00"
+            },
+            {
               "versionName": "0.1.11",
               "versionCode": 11,
               "engineVersion": "0.4.561",

@@ -808,6 +808,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.1.14",
+              "versionCode": 14,
+              "engineVersion": "0.4.561",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "pinball-breaker-android-alpha1-v0.1.14",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.1.14/pinball-breaker-alpha1-v0.1.14-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
+              "size": 11576564,
+              "sha256": "0271589508189cb981ad446eb80c08da0a8b6041079aa6255a5a1d46cf905fb6",
+              "notes": "Camera un peu plus proche encore (516 px sur 540) et amplitude du tilt augmentee de 50 %. Rendu revu : moins d'auto-emission, plus de PBR -- les briques sont du plastique verni eclaire par la rampe plutot que des surfaces qui brillent d'elles-memes, et un reflet specular voyage dessus quand tu inclines.",
+              "date": "2026-09-15T17:09:10+00:00"
+            },
+            {
               "versionName": "0.1.13",
               "versionCode": 13,
               "engineVersion": "0.4.561",

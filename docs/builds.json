@@ -338,6 +338,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.1.18",
+              "versionCode": 19,
+              "engineVersion": "0.4.561",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v0.1.18",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v0.1.18/cannon-smash-alpha1-v0.1.18-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 16723440,
+              "sha256": "a9b022b29d39b966337181e61303235caedda2b949238da09cf6c503ac50f9e0",
+              "notes": "Une seule regle sur la table : ce qui tombe sous le niveau compte, et rien ne disparait tout seul. Une balle traverse un ballon et peut abattre la cible derriere. Les canards et les lapins regardent enfin du bon cote sur les rails qui vont vers la gauche, et chaque rail a sa lumiere, qui s'eteint quand il est vide.",
+              "date": "2026-09-15T20:21:36+00:00"
+            },
+            {
               "versionName": "0.1.17",
               "versionCode": 18,
               "engineVersion": "0.4.561",

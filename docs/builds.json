@@ -889,6 +889,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.1.1",
+              "versionCode": 2,
+              "engineVersion": "0.4.561",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "slime2d-android-alpha1-v0.1.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/slime2d-android-alpha1-v0.1.1/slime2d-alpha1-v0.1.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/slime2d-android-alpha1-latest/slime2d-alpha1.apk",
+              "size": 15187760,
+              "sha256": "3ab1e6ed0e9809a9c26086215fdffb9c566e6df50f6b9205093a3462993b5a15",
+              "notes": "Physique recalee: gravite x40 (392 m/s2), solveur 480 Hz, CCD sur les particules, membrane 14-100 Hz. Camera reculee. Corrige: les billes naissaient a l'origine, ce qui jetait la camera a chaque fusion et rendait la goutte invisible.",
+              "date": "2026-09-15T12:04:43+00:00"
+            },
+            {
               "versionName": "0.1.0",
               "versionCode": 1,
               "engineVersion": "0.4.561",

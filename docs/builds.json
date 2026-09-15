@@ -889,6 +889,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.1.2",
+              "versionCode": 3,
+              "engineVersion": "0.4.561",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "slime2d-android-alpha1-v0.1.2",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/slime2d-android-alpha1-v0.1.2/slime2d-alpha1-v0.1.2-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/slime2d-android-alpha1-latest/slime2d-alpha1.apk",
+              "size": 15187716,
+              "sha256": "a2dbecb0a1db7a5cdaa4f209e4d041d936c8cdb9d0eec849904c4b0502502a64",
+              "notes": "Corrige le freeze: le sommeil physique est desactive (telephone a plat = plus rien ne bougeait). Plafond de vitesse 140 -> 300. Gravite x55 (540 m/s2). Zone morte du tilt 2.0 -> 0.7 degre. 120 FPS, physique 120 Hz x 8 sous-pas.",
+              "date": "2026-09-15T12:20:10+00:00"
+            },
+            {
               "versionName": "0.1.1",
               "versionCode": 2,
               "engineVersion": "0.4.561",

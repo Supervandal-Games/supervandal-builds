@@ -531,6 +531,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.4.3",
+              "versionCode": 13,
+              "engineVersion": "0.4.561",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "squishy-ball-android-alpha1-v0.4.3",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-v0.4.3/squishy-ball-alpha1-v0.4.3-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-latest/squishy-ball-alpha1.apk",
+              "size": 15281176,
+              "sha256": "367286450f8a8e089e55602bdbc5cd0d85be15390e77eb6b9d89ce6955d3d63c",
+              "notes": "Le tout vert: MeshComponent FlatShading=true jette l'index de palette et rend tout en fente 0 -- qui dans ce projet est un vert, donc ca ressemblait a un choix et pas a un defaut. Mon generateur ecrivait ce drapeau sur 376 objets; le seul qui gardait sa couleur, le plot, etait le seul ecrit sans. Le decor a repris ses gris, ses ocres et ses cyans. Et la camera: authoree avec une rotation nulle, elle regardait a l'horizontale -- l'avant local du moteur est +Y, pas -Z. Elle est maintenant authoree comme le jeu la veut.",
+              "date": "2026-09-15T10:04:03+00:00"
+            },
+            {
               "versionName": "0.4.2",
               "versionCode": 12,
               "engineVersion": "0.4.561",

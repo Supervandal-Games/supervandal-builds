@@ -559,6 +559,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.5.2",
+              "versionCode": 16,
+              "engineVersion": "0.4.561",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "squishy-ball-android-alpha1-v0.5.2",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-v0.5.2/squishy-ball-alpha1-v0.5.2-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-latest/squishy-ball-alpha1.apk",
+              "size": 15217868,
+              "sha256": "c28b7ee642587bc6c94b6643594806770c32e6801b177aa599efb684b545716f",
+              "notes": "Retour a la version des pieces, celle de la 0.4.4. La 0.5.0 et la 0.5.1 etaient injouables et c est ma faute: j avais mis une fosse a -16 alors que le script considere la balle comme tombee des qu elle passe sous -6. Y entrer declenchait un rappel au point de reprise, une chute, un rappel -- une boucle. J avais ajoute de la profondeur au niveau sans jamais dire a la balle ce que la profondeur veut dire.",
+              "date": "2026-09-15T15:34:02+00:00"
+            },
+            {
               "versionName": "0.5.0",
               "versionCode": 15,
               "engineVersion": "0.4.561",

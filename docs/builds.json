@@ -868,6 +868,31 @@
           "package": "com.supervandal.pinballbreaker.alpha1"
         }
       }
+    },
+    "slime2d": {
+      "title": "Slime2D",
+      "tracks": {
+        "alpha1": {
+          "builds": [
+            {
+              "versionName": "0.1.0",
+              "versionCode": 1,
+              "engineVersion": "0.4.561",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "slime2d-android-alpha1-v0.1.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/slime2d-android-alpha1-v0.1.0/slime2d-alpha1-v0.1.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/slime2d-android-alpha1-latest/slime2d-alpha1.apk",
+              "size": 15185956,
+              "sha256": "862f10d409a8dff2b25fc0618ee5680adf47fe6e647eca0413035685a5c1a46d",
+              "notes": "Premier proto jouable : gelee 2D en Box2D, fusion au contact, dechirure a la force de peau, 6 rooms, rendu 3D biseaute.",
+              "date": "2026-09-15T11:50:20+00:00"
+            }
+          ],
+          "appName": "Slime2D Alpha 1",
+          "package": "com.supervandal.slime2d.alpha1"
+        }
+      }
     }
   }
 }

@@ -1071,6 +1071,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.1.6",
+              "versionCode": 7,
+              "engineVersion": "0.4.561",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "slime2d-android-alpha1-v0.1.6",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/slime2d-android-alpha1-v0.1.6/slime2d-alpha1-v0.1.6-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/slime2d-android-alpha1-latest/slime2d-alpha1.apk",
+              "size": 15193604,
+              "sha256": "cce72f4a55d4c6c5469398074e6a680323e16c675938c145b58da3d74f9364a5",
+              "notes": "Gravite divisee par 7,3 : le gain passe de 55 a 7,5, soit 73,6 m/s2. C'est le seul parametre d'echelle qui bouge -- ressorts, vitesses et pas de temps restent a timescale 1. Seuil de dechirure re-mesure en consequence, 215 -> 95 N : au-dessus de 100 N plus rien n'eclate a cette gravite.",
+              "date": "2026-09-15T19:30:23+00:00"
+            },
+            {
               "versionName": "0.1.5",
               "versionCode": 6,
               "engineVersion": "0.4.561",

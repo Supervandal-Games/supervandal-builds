@@ -338,6 +338,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.1.17",
+              "versionCode": 18,
+              "engineVersion": "0.4.561",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v0.1.17",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v0.1.17/cannon-smash-alpha1-v0.1.17-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 16643324,
+              "sha256": "71a4f00e07c4e47cf5ced6115aba5dd437fb7698231fff0b29bcbd3efb3b314e",
+              "notes": "Une piece comptee quitte l'etagere : la table se vide a mesure que le score monte, et les debris ne font plus ecran aux pieces du dessous.",
+              "date": "2026-09-15T19:03:05+00:00"
+            },
+            {
               "versionName": "0.1.16",
               "versionCode": 17,
               "engineVersion": "0.4.561",

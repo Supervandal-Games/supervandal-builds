@@ -822,6 +822,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.1.15",
+              "versionCode": 15,
+              "engineVersion": "0.4.561",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "pinball-breaker-android-alpha1-v0.1.15",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.1.15/pinball-breaker-alpha1-v0.1.15-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
+              "size": 11578036,
+              "sha256": "54d97d723c1c863b1cc173c94a08560ce1c4e6ec2a3b8ac4e9d39ac514ad8123",
+              "notes": "Le lancer devient un tir : maintiens pour charger, GLISSE gauche/droite pour viser (une fleche te montre la direction), lache pour tirer. Les battes ne repondent plus pendant que tu vises. Et tes billes en reserve te suivent d'un etage a l'autre au lieu d'etre remises a 3.",
+              "date": "2026-09-15T18:08:59+00:00"
+            },
+            {
               "versionName": "0.1.14",
               "versionCode": 14,
               "engineVersion": "0.4.561",

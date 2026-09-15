@@ -559,6 +559,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.6.0",
+              "versionCode": 17,
+              "engineVersion": "0.4.561",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "squishy-ball-android-alpha1-v0.6.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-v0.6.0/squishy-ball-alpha1-v0.6.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-latest/squishy-ball-alpha1.apk",
+              "size": 15212956,
+              "sha256": "3039d931921748f99ffce00fd98fe1e38311304735e661911fe3deade9e063f6",
+              "notes": "LA HAUTEUR D UN MUR EST LA LARGEUR DE LA ROUTE QU IL OFFRE. Quand le sol manque, on tourne le telephone: la gravite quitte le fond, passe dans le plan, et c est la FACE du mur qui porte la balle. Mais la surface qu il offre alors est sa hauteur -- un mur de 3.4 contre une balle de 2.70, c est une route de 3.4 de large, injouable. Les murs porteurs font 10 maintenant. Le niveau ne teste que ca: un sol, un vide de 22 cm, et une route qui le traverse par la tranche. Rien d autre, expres.",
+              "date": "2026-09-15T15:55:39+00:00"
+            },
+            {
               "versionName": "0.5.2",
               "versionCode": 16,
               "engineVersion": "0.4.561",

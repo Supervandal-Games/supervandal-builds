@@ -752,6 +752,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.1.9",
+              "versionCode": 10,
+              "engineVersion": "0.4.561",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "pinball-breaker-android-alpha1-v0.1.9",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.1.9/pinball-breaker-alpha1-v0.1.9-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
+              "size": 11574948,
+              "sha256": "e96e1e5218cf5a20741b317991cac7b7767c1e767b727bd7f4fb9b0ff0ddaa8b",
+              "notes": "3 billes par etage, et c'est TOI qui lances : la table attend, un toucher relache sert la bille. Perdre la troisieme termine la partie, avec un panneau de debrief. Camera desormais perpendiculaire au plateau, plus de deformation en trapeze. Une bille liberee d'une brique herite de l'impulsion de celle qui l'a cassee, donc elle ne tombe plus dans la gouttiere.",
+              "date": "2026-09-15T13:18:37+00:00"
+            },
+            {
               "versionName": "0.1.8",
               "versionCode": 9,
               "engineVersion": "0.4.561",

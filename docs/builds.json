@@ -1057,6 +1057,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.1.5",
+              "versionCode": 6,
+              "engineVersion": "0.4.561",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "slime2d-android-alpha1-v0.1.5",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/slime2d-android-alpha1-v0.1.5/slime2d-alpha1-v0.1.5-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/slime2d-android-alpha1-latest/slime2d-alpha1.apk",
+              "size": 15193604,
+              "sha256": "2b9994b6062a50ab7d8d199b09a503147798bac231e4a3ccfb8eac7fdc21b640",
+              "notes": "Le slime tombe enfin aussi vite qu'une caisse : un LinearDamping non nul allumait une trainee aerodynamique qui le plafonnait a 10 m/s. Le noyau n'a plus de collider -- la forme dans le monde est l'anneau et rien d'autre -- et le corps est rempli par un disque mesure sur la forme deformee. Seuil de dechirure re-etalonne a 215 N, une dechirure par frame au plus.",
+              "date": "2026-09-15T18:51:07+00:00"
+            },
+            {
               "versionName": "0.1.4",
               "versionCode": 5,
               "engineVersion": "0.4.561",

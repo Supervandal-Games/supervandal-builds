@@ -338,6 +338,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.1.16",
+              "versionCode": 17,
+              "engineVersion": "0.4.561",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v0.1.16",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v0.1.16/cannon-smash-alpha1-v0.1.16-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 16643196,
+              "sha256": "36b8fa5e2c01df239d1fbbda9209ef328b0a49df3ced5f92568564187d6020e1",
+              "notes": "On ne gagne plus une table qu'on n'a pas nettoyee : une piece compte quand elle passe par-dessus un bord ou qu'elle tombe d'un rang, plus quand elle est simplement poussee. La table devient une etagere de 36 cm, les armes poussent nettement plus fort et le plateau glisse.",
+              "date": "2026-09-15T18:22:49+00:00"
+            },
+            {
               "versionName": "0.1.15",
               "versionCode": 16,
               "engineVersion": "0.4.561",

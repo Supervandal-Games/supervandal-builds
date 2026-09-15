@@ -545,6 +545,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.5.1",
+              "versionCode": 16,
+              "engineVersion": "0.4.561",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "squishy-ball-android-alpha1-v0.5.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-v0.5.1/squishy-ball-alpha1-v0.5.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-latest/squishy-ball-alpha1.apk",
+              "size": 15218164,
+              "sha256": "59e90a4d36d4d1af62d4200bd851f1a588444f7e837b674e0ec1d62bc2ac587e",
+              "notes": "Regle: RIEN NE SURPLOMBE RIEN. La camera regarde de dessus, donc un sol pose au-dessus d un autre cache ce qui est dessous et demande au joueur de naviguer ce qu il ne voit pas. Le niveau est un relief, pas un empilement: plateau haut, rampe, plateau moyen, une FOSSE de 10 cm de profondeur visible d en haut avec sa rampe de sortie, puis l arrivee. La fosse est la route lente et sure; la survoler en tenant le telephone droit est la route rapide. J avais commence a ecrire une recherche par etage dans le controleur -- la contrainte supprime le probleme au lieu de l outiller, et le controleur refuse desormais tout surplomb.",
+              "date": "2026-09-15T15:25:16+00:00"
+            },
+            {
               "versionName": "0.5.0",
               "versionCode": 15,
               "engineVersion": "0.4.561",

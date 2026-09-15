@@ -545,6 +545,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.5.0",
+              "versionCode": 15,
+              "engineVersion": "0.4.561",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "squishy-ball-android-alpha1-v0.5.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-v0.5.0/squishy-ball-alpha1-v0.5.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-latest/squishy-ball-alpha1.apk",
+              "size": 15218464,
+              "sha256": "8fa04e951a2c4a334069158e1c5e48237d0b818c075ffdc20dace80d4bb3f23e",
+              "notes": "Du relief. Le probleme n etait pas la largeur des vides, c est qu il n y avait qu UNE tranche: un sol, des murs, et rien en dessous -- donc tomber ne coutait pas du terrain, ca coutait la partie. Trois hauteurs maintenant, 6 cm d ecart, deux rampes pour remonter et un trou au milieu de la grande dalle. On tombe sur l etage du dessous et on repart. Seul le dehors tue. Le controleur cherche desormais etage par etage: un mur du sous-sol ne bloque plus le plan du dessus, on monte par une rampe et on tombe partout ailleurs.",
+              "date": "2026-09-15T15:19:37+00:00"
+            },
+            {
               "versionName": "0.4.4",
               "versionCode": 14,
               "engineVersion": "0.4.561",
@@ -902,20 +916,6 @@
       "tracks": {
         "alpha1": {
           "builds": [
-            {
-              "versionName": "0.1.4",
-              "versionCode": 5,
-              "engineVersion": "0.4.561",
-              "config": "Release",
-              "channel": "debug",
-              "tag": "slime2d-android-alpha1-v0.1.4",
-              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/slime2d-android-alpha1-v0.1.4/slime2d-alpha1-v0.1.4-release.apk",
-              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/slime2d-android-alpha1-latest/slime2d-alpha1.apk",
-              "size": 15191168,
-              "sha256": "925b144d546bebd1cfd19c6efab96f7e4bfbc9811b4efe506417707bfde9786b",
-              "notes": "Camera: suit le plus gros morceau, comme un personnage principal. Corrige la cause de la camera perdue: les entites detruites restent dans le registre (limbo de rewind) et la camera comptait les cadavres -- elle s'accrochait a un morceau mort. Corrige aussi les gouttes qui apparaissaient a l'origine avant d'etre deplacees.",
-              "date": "2026-09-15T15:18:53+00:00"
-            },
             {
               "versionName": "0.1.3",
               "versionCode": 4,

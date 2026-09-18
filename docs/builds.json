@@ -338,6 +338,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.1.23",
+              "versionCode": 24,
+              "engineVersion": "0.4.564",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v0.1.23",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v0.1.23/cannon-smash-alpha1-v0.1.23-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 19228072,
+              "sha256": "3729b4ef171c348be299bce716331c602ba0ea2d8e1f500d0b4e403a03ac2737",
+              "notes": "120 FPS Mobile: AndroidTargetFPS 120, zero-IO campaign and StandSheet caching, instant debris physics cleanup, debris raycast filter",
+              "date": "2026-09-18T18:24:09+00:00"
+            },
+            {
               "versionName": "0.1.22",
               "versionCode": 23,
               "engineVersion": "0.4.564",

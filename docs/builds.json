@@ -338,6 +338,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.1.22",
+              "versionCode": 23,
+              "engineVersion": "0.4.564",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v0.1.22",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v0.1.22/cannon-smash-alpha1-v0.1.22-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 19251128,
+              "sha256": "43a6b28b2b0b61782875f371b51939f42c644eb38aa4d5cfb3f76ba0e9fd2cb3",
+              "notes": "Polish star cutouts, modular unscaled beam and posts with uniform 3D splinters, streamlined metallic rails",
+              "date": "2026-09-18T16:10:10+00:00"
+            },
+            {
               "versionName": "0.1.21",
               "versionCode": 22,
               "engineVersion": "0.4.562",

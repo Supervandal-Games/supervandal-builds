@@ -338,6 +338,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.1.25",
+              "versionCode": 26,
+              "engineVersion": "0.5.000",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v0.1.25",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v0.1.25/cannon-smash-alpha1-v0.1.25-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 19638608,
+              "sha256": "49a9a2839df88f98506484078367c0ca105ecdff3da40d7a0502127901c1cf59",
+              "notes": "Les cent niveaux : vingt packs de cinq, tous demarres au banc (L-4 et L-5). Outil d'empilement v2 : calques, linteaux, bibliotheque de piles, apercus (L-3). La regle du demon sur la feuille de stand. La capsule de niveau repond au pouce et non au pixel. Correctif de compilation Android (AssetHandle nul explicite).",
+              "date": "2026-09-21T19:49:29+00:00"
+            },
+            {
               "versionName": "0.1.24",
               "versionCode": 25,
               "engineVersion": "0.5.000",

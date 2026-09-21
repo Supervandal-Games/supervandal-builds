@@ -1,0 +1,19 @@
+{
+  "project": "downhill-drive",
+  "projectTitle": "downhill-drive",
+  "track": "alpha1",
+  "appName": "Bus Drop",
+  "package": "com.supervandal.busdrop.alpha1",
+  "platform": "android",
+  "versionName": "1.1",
+  "versionCode": 1,
+  "engineVersion": "0.5.001",
+  "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/downhill-drive-android-alpha1-v1.1/downhill-drive-alpha1-v1.1-release.apk",
+  "apkUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/downhill-drive-android-alpha1-v1.1/downhill-drive-alpha1-v1.1-release.apk",
+  "size": 10970892,
+  "sha256": "b8f44e5982175f10ac2b902a5968c4d089dca8e7cc0d3c3526070b9b392afd68",
+  "date": "2026-09-21T22:58:03+00:00",
+  "channel": "debug",
+  "notes": "Build de test 1.1 - moteur v0.5.001.",
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/downhill-drive/alpha1/"
+}

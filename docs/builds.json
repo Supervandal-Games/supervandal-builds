@@ -1299,6 +1299,31 @@
           "package": "com.supervandal.slime2d.alpha1"
         }
       }
+    },
+    "downhill-drive": {
+      "title": "downhill-drive",
+      "tracks": {
+        "alpha1": {
+          "builds": [
+            {
+              "versionName": "1.1",
+              "versionCode": 1,
+              "engineVersion": "0.5.001",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "downhill-drive-android-alpha1-v1.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/downhill-drive-android-alpha1-v1.1/downhill-drive-alpha1-v1.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/downhill-drive-android-alpha1-latest/downhill-drive-alpha1.apk",
+              "size": 10970892,
+              "sha256": "b8f44e5982175f10ac2b902a5968c4d089dca8e7cc0d3c3526070b9b392afd68",
+              "notes": "Build de test 1.1 - moteur v0.5.001.",
+              "date": "2026-09-21T22:58:03+00:00"
+            }
+          ],
+          "appName": "Bus Drop",
+          "package": "com.supervandal.busdrop.alpha1"
+        }
+      }
     }
   }
 }

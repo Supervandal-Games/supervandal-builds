@@ -1352,6 +1352,31 @@
           "package": "com.supervandal.busdrop.alpha1"
         }
       }
+    },
+    "superdiscount-delivery": {
+      "title": "superdiscount-delivery",
+      "tracks": {
+        "alpha1": {
+          "builds": [
+            {
+              "versionName": "1.3",
+              "versionCode": 1,
+              "engineVersion": "0.5.004",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "superdiscount-delivery-android-alpha1-v1.3",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superdiscount-delivery-android-alpha1-v1.3/superdiscount-delivery-alpha1-v1.3-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superdiscount-delivery-android-alpha1-latest/superdiscount-delivery-alpha1.apk",
+              "size": 11125448,
+              "sha256": "ec0d489dcd38b6fb50169cb09c53c40c693909c65361758979be22739837ed06",
+              "notes": "Build de test 1.3 - moteur v0.5.004.",
+              "date": "2026-09-22T11:17:05+00:00"
+            }
+          ],
+          "appName": "Superdiscount Delivery",
+          "package": "com.supervandal.superdiscountdelivery.alpha1"
+        }
+      }
     }
   }
 }

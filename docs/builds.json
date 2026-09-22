@@ -1359,6 +1359,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.6",
+              "versionCode": 4,
+              "engineVersion": "0.5.007",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "superdiscount-delivery-android-alpha1-v1.6",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superdiscount-delivery-android-alpha1-v1.6/superdiscount-delivery-alpha1-v1.6-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superdiscount-delivery-android-alpha1-latest/superdiscount-delivery-alpha1.apk",
+              "size": 11626460,
+              "sha256": "417893142c8ee72a3279d0148009baaf1d68add7c561b52ab11b6e98a468f012",
+              "notes": "Build de test 1.6 - moteur v0.5.007.",
+              "date": "2026-09-22T16:43:22+00:00"
+            },
+            {
               "versionName": "1.5",
               "versionCode": 3,
               "engineVersion": "0.5.006",

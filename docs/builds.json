@@ -1320,6 +1320,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.2",
+              "versionCode": 2,
+              "engineVersion": "0.5.004",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "downhill-drive-android-alpha1-v1.2",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/downhill-drive-android-alpha1-v1.2/downhill-drive-alpha1-v1.2-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/downhill-drive-android-alpha1-latest/downhill-drive-alpha1.apk",
+              "size": 11103436,
+              "sha256": "bb25053f0ff5edc0f36d8076d08ac26530e41ef750f55d3f82e2cdd7634d6476",
+              "notes": "Build de test 1.2 - moteur v0.5.004.",
+              "date": "2026-09-22T09:36:02+00:00"
+            },
+            {
               "versionName": "1.1",
               "versionCode": 1,
               "engineVersion": "0.5.001",

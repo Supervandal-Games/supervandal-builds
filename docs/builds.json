@@ -1625,6 +1625,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "2.6",
+              "versionCode": 11,
+              "engineVersion": "0.5.008",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "superdiscount-delivery-android-alpha1-v2.6",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superdiscount-delivery-android-alpha1-v2.6/superdiscount-delivery-alpha1-v2.6-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superdiscount-delivery-android-alpha1-latest/superdiscount-delivery-alpha1.apk",
+              "size": 17335040,
+              "sha256": "cb087a620e00f399c67cce5e39789a5003e6e1f0a0287d10f3faf8d92bde89d5",
+              "notes": "Tronçons refaits en ateliers : virages plus larges et plus prononcés (courbes rapides, virages engagés, épingles annoncées par une chicane), fini les petits S qu'on passait tout droit. Traînée du convoi réduite (Cd 3,1 -> 1,4) : on roule à 85-125 km/h, le tremplin du niveau 5 passe.",
+              "date": "2026-09-23T17:52:23+00:00"
+            },
+            {
               "versionName": "2.5",
               "versionCode": 10,
               "engineVersion": "0.5.008",

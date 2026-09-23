@@ -1074,6 +1074,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.9.0",
+              "versionCode": 23,
+              "engineVersion": "0.5.008",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "pinball-breaker-android-alpha1-v0.9.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.9.0/pinball-breaker-alpha1-v0.9.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
+              "size": 11862100,
+              "sha256": "d07247768bfaaa7ddc94533d95b5e6d703a9551b71b3f9edcf2feb85cd26d0cb",
+              "notes": "JACKPOT quand une volee vaut la moitie de l'objectif (pluie d'or). Multibille en trois couleurs de trainee. Tes cartes sont affichees au service, SORTIE clignote au-dessus du sas ouvert, et la fin de run montre ta meilleure volee.",
+              "date": "2026-09-23T17:07:31+00:00"
+            },
+            {
               "versionName": "0.8.0",
               "versionCode": 22,
               "engineVersion": "0.5.008",

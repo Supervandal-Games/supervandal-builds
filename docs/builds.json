@@ -1088,6 +1088,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.15.0",
+              "versionCode": 29,
+              "engineVersion": "0.5.008",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "pinball-breaker-android-alpha1-v0.15.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.15.0/pinball-breaker-alpha1-v0.15.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
+              "size": 11908900,
+              "sha256": "7bdc7a9a617363ba1cc4df37951511f831557a450108831c0bfb82915c1f9054",
+              "notes": "5 NOUVEAUX ETAGES (15 au total), chacun avec sa musique : Le Fantome, Le Diamant, La Fusee, Les Vagues, La Cible. Et les bumpers ont un vrai capuchon d'arcade.",
+              "date": "2026-09-23T20:24:40+00:00"
+            },
+            {
               "versionName": "0.14.0",
               "versionCode": 28,
               "engineVersion": "0.5.008",

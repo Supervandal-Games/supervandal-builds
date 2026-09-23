@@ -1088,6 +1088,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.10.0",
+              "versionCode": 24,
+              "engineVersion": "0.5.008",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "pinball-breaker-android-alpha1-v0.10.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.10.0/pinball-breaker-alpha1-v0.10.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
+              "size": 11875492,
+              "sha256": "3d28e17a41a5be5eaefc5fac843bcf069c3d35023576579610e7a6e5ac9cf191",
+              "notes": "MUSIQUE : 15 morceaux synthwave, un par etage (10), un par boss (3), l'ecran titre et la boutique. En FIEVRE, une voie d'arpege glitch s'ajoute a la musique.",
+              "date": "2026-09-23T17:22:30+00:00"
+            },
+            {
               "versionName": "0.9.0",
               "versionCode": 23,
               "engineVersion": "0.5.008",

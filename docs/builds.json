@@ -1695,6 +1695,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "2.7",
+              "versionCode": 12,
+              "engineVersion": "0.5.008",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "superdiscount-delivery-android-alpha1-v2.7",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superdiscount-delivery-android-alpha1-v2.7/superdiscount-delivery-alpha1-v2.7-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superdiscount-delivery-android-alpha1-latest/superdiscount-delivery-alpha1.apk",
+              "size": 17421780,
+              "sha256": "deba4ec4aa2a3e1d1945600e0e109dc6d14cfe17407b1afce6b052d6b9a93766",
+              "notes": "Endless : les fantomes du jour ! Le top 1000 de l'Endless du jour est sur la route : chaque camion hologramme porte le nom d'un pilote, a l'endroit ou sa course s'est arretee. Depasse-le et tu montes au classement (1000e... 999e... AUJOURD'HUI). Premier Endless : choisis ton nom de pilote. Onglet ENDLESS dans CLASSEMENT. Camion plus haut (grandes roues, cabine haute, voie elargie), ombres carrees posees sur la route, pendentif lisible.",
+              "date": "2026-09-23T21:14:48+00:00"
+            },
+            {
               "versionName": "2.6",
               "versionCode": 11,
               "engineVersion": "0.5.008",

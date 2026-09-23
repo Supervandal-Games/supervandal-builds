@@ -1060,6 +1060,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.2.0",
+              "versionCode": 16,
+              "engineVersion": "0.5.008",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "pinball-breaker-android-alpha1-v0.2.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.2.0/pinball-breaker-alpha1-v0.2.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
+              "size": 11794888,
+              "sha256": "d706e7c66f4f9caa039135969d4a17ae08c61e75af3fbc4320ae0056d8bee636",
+              "notes": "Passe JUS : la bille est une lampe qui eclaire la table, trainee de vitesse, eclats de briques physiques qui devalent la pente, secousses et arrets sur image, KICKBACKS dans les gouttieres (le poteau vert = arme), nouvelle BRIQUE GLITCH (magenta/cyan) qui re-tire les briques voisines au hasard, 5 etages plus legers, plateau imprime synthwave.",
+              "date": "2026-09-23T16:12:36+00:00"
+            },
+            {
               "versionName": "0.1.15",
               "versionCode": 15,
               "engineVersion": "0.4.561",

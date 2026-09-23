@@ -1527,6 +1527,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "2.4",
+              "versionCode": 9,
+              "engineVersion": "0.5.008",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "superdiscount-delivery-android-alpha1-v2.4",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superdiscount-delivery-android-alpha1-v2.4/superdiscount-delivery-alpha1-v2.4-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superdiscount-delivery-android-alpha1-latest/superdiscount-delivery-alpha1.apk",
+              "size": 17028548,
+              "sha256": "63b480bf5c89086199f2ba90c478b9b298a9442b42930109c90da6301d921195",
+              "notes": "Nouvelle interface : boutons en blocs 3D qui reagissent au doigt (accueil, niveaux, bilan, quotidien, profil, classement, boutique, garage). Niveaux plus pentus et plus sinueux. Nouveau camion, remorque et roues (Blender, occlusion ambiante). Metal plus lisible (posterisation coupee). Moteur v0.5.008.",
+              "date": "2026-09-23T16:54:37+00:00"
+            },
+            {
               "versionName": "2.2",
               "versionCode": 8,
               "engineVersion": "0.5.008",

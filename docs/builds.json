@@ -338,6 +338,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.10",
+              "versionCode": 35,
+              "engineVersion": "0.5.008",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.10",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.10/cannon-smash-alpha1-v1.10-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 19895412,
+              "sha256": "ebe6100ac6f88d61c5581a9d8f10328870ab9405951786f652796f56dc5b3ed7",
+              "notes": "Cadre du stand en bois. Nouveau scoring 'coup multiple' : seul ce qui tombe rapporte, chaque objet qu'un meme tir fait tomber paie x1, x2, x3... ; la serie ne monte que si le tir fait tomber quelque chose ; bonus pour chaque balle restante. Etoiles recalculees. Munitions en chargeurs entiers. Vitesses 0,1 et 0,2 supprimees. (Les 100 niveaux et le chamboule-tout seront refaits ensuite.)",
+              "date": "2026-09-23T20:30:01+00:00"
+            },
+            {
               "versionName": "1.9",
               "versionCode": 34,
               "engineVersion": "0.5.008",
@@ -1087,20 +1101,6 @@
       "tracks": {
         "alpha1": {
           "builds": [
-            {
-              "versionName": "0.16.0",
-              "versionCode": 30,
-              "engineVersion": "0.5.008",
-              "config": "Release",
-              "channel": "debug",
-              "tag": "pinball-breaker-android-alpha1-v0.16.0",
-              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.16.0/pinball-breaker-alpha1-v0.16.0-release.apk",
-              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
-              "size": 11914144,
-              "sha256": "002c961660721aa4f67f7bab57e8dcc911e3e5cf61d58d3f85a51e9f6287b477",
-              "notes": "COLLECTION : toutes les cartes que tu as deja achetees, dans une grille a completer (menu). Et le mur de briques s'assemble en tombant a chaque etage.",
-              "date": "2026-09-23T20:28:32+00:00"
-            },
             {
               "versionName": "0.15.0",
               "versionCode": 29,

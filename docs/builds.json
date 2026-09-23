@@ -1060,6 +1060,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.3.0",
+              "versionCode": 17,
+              "engineVersion": "0.5.008",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "pinball-breaker-android-alpha1-v0.3.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.3.0/pinball-breaker-alpha1-v0.3.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
+              "size": 11830600,
+              "sha256": "453938120dbf9d9b1d52f3d038893469f25e124163fdd02717e154db67f59df5",
+              "notes": "LE RUN (facon Balatro) : chaque bille accumule des JETONS (briques) x du MULT (bumpers, kickbacks, chaines, glitch x1.5) et encaisse quand la table se vide. Atteins l'OBJECTIF de l'etage pour ouvrir le SAS en haut (passer = x2). 3 etages par tour (le 3e est un boss), argent a chaque etage, BOUTIQUE de 14 cartes qui modifient les regles, relance, et choix entre 2 portes (etage + modificateur).",
+              "date": "2026-09-23T16:21:08+00:00"
+            },
+            {
               "versionName": "0.2.0",
               "versionCode": 16,
               "engineVersion": "0.5.008",

@@ -1088,6 +1088,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.13.0",
+              "versionCode": 27,
+              "engineVersion": "0.5.008",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "pinball-breaker-android-alpha1-v0.13.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.13.0/pinball-breaker-alpha1-v0.13.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
+              "size": 11895036,
+              "sha256": "e38c9f109bdb1b312ff9b97672b517513903e550252d3eac9b7767731585da28",
+              "notes": "CARTES ILLUSTREES : chaque carte a son icone pixel-art, et tes cartes s'affichent en rangee d'icones dans la boutique.",
+              "date": "2026-09-23T17:36:06+00:00"
+            },
+            {
               "versionName": "0.12.0",
               "versionCode": 26,
               "engineVersion": "0.5.008",

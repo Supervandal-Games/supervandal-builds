@@ -1102,6 +1102,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.17.0",
+              "versionCode": 30,
+              "engineVersion": "0.5.008",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "pinball-breaker-android-alpha1-v0.17.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.17.0/pinball-breaker-alpha1-v0.17.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
+              "size": 11916364,
+              "sha256": "10af5c240245424b944943f3bf12d194e97fb9227fbb7d29217a91ddd638d0ca",
+              "notes": "PLUS DE TIR TOUT DROIT : il faut glisser a gauche ou a droite (la fleche est rouge tant qu'elle est droite). Jauge de puissance a cote du lanceur. 3 nouveaux etages avec des rangees de briques qui coulissent (18 etages).",
+              "date": "2026-09-23T20:35:20+00:00"
+            },
+            {
               "versionName": "0.15.0",
               "versionCode": 29,
               "engineVersion": "0.5.008",

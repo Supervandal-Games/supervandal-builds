@@ -1060,6 +1060,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.6.0",
+              "versionCode": 20,
+              "engineVersion": "0.5.008",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "pinball-breaker-android-alpha1-v0.6.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.6.0/pinball-breaker-alpha1-v0.6.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
+              "size": 11848584,
+              "sha256": "7537a967dc7d8d742805fbdf5fe681ae5e47c502663b21a06b053d4a2b61439d",
+              "notes": "ECRAN TITRE : le jeu joue tout seul sous le logo glitche, touche pour lancer ton run. LA TOUR : pendant l'ascension la camera longe l'etage du dessus. CHIFFRES FLOTTANTS : +jetons, +mult et xmult jaillissent de ce qui les a rapportes.",
+              "date": "2026-09-23T16:37:35+00:00"
+            },
+            {
               "versionName": "0.5.0",
               "versionCode": 19,
               "engineVersion": "0.5.008",

@@ -1088,6 +1088,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.12.0",
+              "versionCode": 26,
+              "engineVersion": "0.5.008",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "pinball-breaker-android-alpha1-v0.12.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.12.0/pinball-breaker-alpha1-v0.12.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
+              "size": 11890324,
+              "sha256": "1bd7de5680962598c027697eb77e0f6a4319a7bd85774230093b4e02bd002260",
+              "notes": "MENU : JOUER ou DEFI DU JOUR (le meme run pour tout le monde aujourd'hui, avec une carte rare offerte et son propre record). PAUSE : bouton II en haut (ou retour), Reprendre / Recommencer / Menu.",
+              "date": "2026-09-23T17:32:21+00:00"
+            },
+            {
               "versionName": "0.11.0",
               "versionCode": 25,
               "engineVersion": "0.5.008",

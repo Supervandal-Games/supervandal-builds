@@ -1060,6 +1060,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.4.0",
+              "versionCode": 18,
+              "engineVersion": "0.5.008",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "pinball-breaker-android-alpha1-v0.4.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.4.0/pinball-breaker-alpha1-v0.4.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
+              "size": 11830596,
+              "sha256": "1c5c5da865276c999cd6c7e2aedf8b3a0b67d961a6c6ddf981f907cd9efdff7c",
+              "notes": "L'ASCENSION : quand l'etage est gagne, ralenti, la camera monte au-dessus de la table, coupe glitch vers la boutique, puis on remonte dans l'etage suivant et son nom claque a l'ecran. Perdre le run fait plonger la camera dans un flash rouge.",
+              "date": "2026-09-23T16:22:56+00:00"
+            },
+            {
               "versionName": "0.3.0",
               "versionCode": 17,
               "engineVersion": "0.5.008",

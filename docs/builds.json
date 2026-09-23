@@ -1737,6 +1737,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "2.8",
+              "versionCode": 13,
+              "engineVersion": "0.5.008",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "superdiscount-delivery-android-alpha1-v2.8",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superdiscount-delivery-android-alpha1-v2.8/superdiscount-delivery-alpha1-v2.8-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superdiscount-delivery-android-alpha1-latest/superdiscount-delivery-alpha1.apk",
+              "size": 17714664,
+              "sha256": "1d110cb1606b7afe520b531f791f69c3d10706575398931b3ae091efa0dcc8ed",
+              "notes": "4 camionnettes a collectionner au GARAGE (rayon VEHICULES) : LA H (depart), LA KEI (600), L'ESTAFETTE (900), LE BOULEDOGUE (1200). Meme chassis et meme physique pour les quatre : roues de la remorque, voie de la remorque, empattement 4,3 m. Petite camionnette cartoon avec ailes elargies, remorque inchangee.",
+              "date": "2026-09-23T23:51:21+00:00"
+            },
+            {
               "versionName": "2.7",
               "versionCode": 12,
               "engineVersion": "0.5.008",

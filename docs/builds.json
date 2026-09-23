@@ -1088,6 +1088,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.14.0",
+              "versionCode": 28,
+              "engineVersion": "0.5.008",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "pinball-breaker-android-alpha1-v0.14.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.14.0/pinball-breaker-alpha1-v0.14.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
+              "size": 11904448,
+              "sha256": "4c5c4093e5a51b1bcc8d42a9870c96bcb436ab0293fa316d5d9ae8c5e255d229",
+              "notes": "NOUVEAU HUD : barre du haut, jauge vers l'objectif (verte quand le sas est ouvert), billes et argent en icones, panneaux sur fond. REGLAGES SON : musique et effets ON/OFF dans le menu et la pause (sauvegardes).",
+              "date": "2026-09-23T20:19:01+00:00"
+            },
+            {
               "versionName": "0.13.0",
               "versionCode": 27,
               "engineVersion": "0.5.008",

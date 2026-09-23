@@ -1088,6 +1088,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.11.0",
+              "versionCode": 25,
+              "engineVersion": "0.5.008",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "pinball-breaker-android-alpha1-v0.11.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.11.0/pinball-breaker-alpha1-v0.11.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
+              "size": 11882920,
+              "sha256": "d210f00ebc5337f6a7ed1e68329d746665c20ed0ddf0c81f55879bc38a64115e",
+              "notes": "BOUTIQUE EN RELIEF : les cartes flottent, s'inclinent sous le doigt avec un halo neon et un reflet, et rebondissent a l'achat. 5 CARTES RARES (cadre irise) : Canon de Verre, Trou Noir, Arc-en-ciel, Tempete, Banquier.",
+              "date": "2026-09-23T17:27:55+00:00"
+            },
+            {
               "versionName": "0.10.0",
               "versionCode": 24,
               "engineVersion": "0.5.008",

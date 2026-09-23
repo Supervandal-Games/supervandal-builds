@@ -338,6 +338,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.9",
+              "versionCode": 34,
+              "engineVersion": "0.5.008",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.9",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.9/cannon-smash-alpha1-v1.9-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 19878868,
+              "sha256": "31bc8586051bf1b042fab4ed1b5c238f6c214e501b40df5bde1b632015f5b89d",
+              "notes": "Nouveau decor forain : poteaux en plastique blanc a bagues rouges, poutre a ampoules, auvent candy, etoiles sur un mur bleu nuit, comptoir plastique avec dessus en bois. Tout le cadre est destructible piece par piece (3 decoupes differentes par piece). Destruction v2 : echardes, restes qui tiennent, eclats plus petits.",
+              "date": "2026-09-23T17:12:22+00:00"
+            },
+            {
               "versionName": "1.8",
               "versionCode": 33,
               "engineVersion": "0.5.008",
@@ -810,20 +824,6 @@
       "tracks": {
         "alpha1": {
           "builds": [
-            {
-              "versionName": "0.8.0",
-              "versionCode": 19,
-              "engineVersion": "0.5.008",
-              "config": "Release",
-              "channel": "debug",
-              "tag": "squishy-ball-android-alpha1-v0.8.0",
-              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-v0.8.0/squishy-ball-alpha1-v0.8.0-release.apk",
-              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-latest/squishy-ball-alpha1.apk",
-              "size": 12005440,
-              "sha256": "b01f45b1aeec532b9e41a38bcd22eea3f0a56b03b1663b02dab2212e1155d257",
-              "notes": "Nouveau niveau demo : le LABO BEIGE. Huit salles de la taille de l ecran, la camera reste fixe dans chaque salle et glisse a la suivante quand on passe une porte (les salles doubles defilent comme un rail). La lave devient de l ACIDE vert. Nouveau mecanisme : le BOUTON-PISTON - il s enfonce tant que la balle reste dessus, remonte des qu elle part, et sa porte s ouvre exactement d autant : le gros bouton laisse du temps, le petit presse. Tuyau en S au-dessus de l acide, routes murales a tenir telephone debout, ventouse pour s accrocher au-dessus du vide. La balle ne depasse plus 85 cm/s : au-dela elle explosait dans les longues chutes debout. A tester : la route murale le long de l acide (salles 4 et 6) - dites si l angle du telephone est trop exigeant.",
-              "date": "2026-09-23T17:14:51+00:00"
-            },
             {
               "versionName": "0.7.0",
               "versionCode": 18,
@@ -1568,6 +1568,20 @@
       "tracks": {
         "alpha1": {
           "builds": [
+            {
+              "versionName": "2.5",
+              "versionCode": 10,
+              "engineVersion": "0.5.008",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "superdiscount-delivery-android-alpha1-v2.5",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superdiscount-delivery-android-alpha1-v2.5/superdiscount-delivery-alpha1-v2.5-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superdiscount-delivery-android-alpha1-latest/superdiscount-delivery-alpha1.apk",
+              "size": 17080060,
+              "sha256": "6f5c1d9ad659c264d87b27bf6d1da411d632a7f7aaf1a8820bf96a4f0c37fcb0",
+              "notes": "Le garage : 8 rayons, 23 objets a essayer sur le convoi (peintures, roues, pare-chocs, remorque, klaxons, chargements, pendentifs), une recompense a chaque niveau reussi, achats en pieces. Pause en course (II). Moteur v0.5.008.",
+              "date": "2026-09-23T17:15:28+00:00"
+            },
             {
               "versionName": "2.4",
               "versionCode": 9,

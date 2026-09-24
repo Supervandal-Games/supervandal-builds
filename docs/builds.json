@@ -2154,6 +2154,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.2.0",
+              "versionCode": 2,
+              "engineVersion": "0.5.009",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "rocket-flow-android-alpha1-v0.2.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rocket-flow-android-alpha1-v0.2.0/rocket-flow-alpha1-v0.2.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rocket-flow-android-alpha1-latest/rocket-flow-alpha1.apk",
+              "size": 13212756,
+              "sha256": "f46b70ca0f451717f9cd774a239c47b2c64b4e4707e41deea33960da4a2a8381",
+              "notes": "Fantome du meilleur vol du jour (course contre soi-meme), reperes d'altitude (Nuages, Stratosphere, Orbite, ligne de Karman, orbite atteinte a 200 km), ciel qui passe au noir etoile, overdrive en camera poursuite plus sombre et plus neon, etiquette du record, corrections de textes.",
+              "date": "2026-09-24T14:55:59+00:00"
+            },
+            {
               "versionName": "0.1.0",
               "versionCode": 1,
               "engineVersion": "0.5.009",

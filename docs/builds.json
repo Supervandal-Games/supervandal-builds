@@ -965,6 +965,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.12.0",
+              "versionCode": 22,
+              "engineVersion": "0.5.009",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "squishy-ball-android-alpha1-v0.12.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-v0.12.0/squishy-ball-alpha1-v0.12.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-latest/squishy-ball-alpha1.apk",
+              "size": 15588324,
+              "sha256": "c34442c6c47d8f9f88311dc4e756890c85399cb968d3d5e213a111564bcbd581",
+              "notes": "Les SAS verrouillent la jauge (DUR, MOU, LIBRE) et les pastilles donnent 8 s de MOU ou de DUR : niveau 13 (premier sas) et niveau 16 refait, LES SAS. Fantômes de temps : ton record en or, ta dernière course en bleu. Traînée humide et colorée derrière la balle, plus marquée en MOU. Couleur de la balle au choix (bouton BALLE, dix couleurs). La balle dure ne casse plus (jauge plafonnée) et ne reste plus clouée quand elle durcit dans un conduit.",
+              "date": "2026-09-24T16:04:05+00:00"
+            },
+            {
               "versionName": "0.11.0",
               "versionCode": 21,
               "engineVersion": "0.5.008",

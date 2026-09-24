@@ -338,6 +338,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.16",
+              "versionCode": 41,
+              "engineVersion": "0.5.008",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.16",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.16/cannon-smash-alpha1-v1.16-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 24257728,
+              "sha256": "4953d6782b37ff10ce84f32104768050c2ea50e11cc556b073d62bc899db446f",
+              "notes": "Nouvel accueil : on est dans l'allée de la fête (plancher, cordon rouge, confettis), caméra droite, ciel simple sans grande roue. Boutons détaillés (volume, reflets, ombres). Les cibles de l'accueil se relèvent à l'infini et changent de forme.",
+              "date": "2026-09-24T12:22:39+00:00"
+            },
+            {
               "versionName": "1.15",
               "versionCode": 40,
               "engineVersion": "0.5.008",

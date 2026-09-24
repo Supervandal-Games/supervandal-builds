@@ -881,6 +881,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.10.0",
+              "versionCode": 20,
+              "engineVersion": "0.5.008",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "squishy-ball-android-alpha1-v0.10.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-v0.10.0/squishy-ball-alpha1-v0.10.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-latest/squishy-ball-alpha1.apk",
+              "size": 14843936,
+              "sha256": "34dbaf42c450e7333154c92537dd0ba17d27c0c8b8439725ab4478369ef9497f",
+              "notes": "25 niveaux dans le labo. Bumpers dans les murs : on les voit s'enfoncer ; maintiens l'écran pour charger, lâche pour sauter. Plots ronds de flipper. Le chrono est le score : centièmes, +3 s par chute, record par niveau, temps de chaque étoile. Nouvelle interface : pause, grille des niveaux, écran de sortie.",
+              "date": "2026-09-24T01:56:04+00:00"
+            },
+            {
               "versionName": "0.9.0",
               "versionCode": 19,
               "engineVersion": "0.5.008",

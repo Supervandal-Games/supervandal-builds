@@ -1779,6 +1779,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "2.9",
+              "versionCode": 14,
+              "engineVersion": "0.5.008",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "superdiscount-delivery-android-alpha1-v2.9",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superdiscount-delivery-android-alpha1-v2.9/superdiscount-delivery-alpha1-v2.9-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superdiscount-delivery-android-alpha1-latest/superdiscount-delivery-alpha1.apk",
+              "size": 17738972,
+              "sha256": "ef1e6f67f65a42b2fb81cde1cd730515f07a2f2e8358fa639a6247ca8c7b4cc8",
+              "notes": "Passe de polish des interfaces : voile derriere les panneaux et pages qui arrivent en douceur, boutons a contour cartoon avec clic sonore et eclat au relachement, titres en degrade, niveaux en liste avec leur nom, onglet actif au classement, barres de progression des quetes, garage qui laisse voir le convoi, bilan Endless avec ton rang du jour en gros, etoiles qui popent.",
+              "date": "2026-09-24T01:16:05+00:00"
+            },
+            {
               "versionName": "2.8",
               "versionCode": 13,
               "engineVersion": "0.5.008",

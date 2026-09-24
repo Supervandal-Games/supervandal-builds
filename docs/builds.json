@@ -352,6 +352,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.22",
+              "versionCode": 45,
+              "engineVersion": "0.5.009",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.22",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.22/cannon-smash-alpha1-v1.22-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 28023996,
+              "sha256": "32c25c13d41ac2dbce2a519c0c9e4773fa15bf0c85084881a506e062824f1d12",
+              "notes": "Campagne épurée : plus de jungle. Un grand pré ouvert, la clôture et les bottes de foin devant, des collines pastel peintes derrière avec quelques arbres ronds et une petite grange rouge.",
+              "date": "2026-09-24T16:40:36+00:00"
+            },
+            {
               "versionName": "1.21",
               "versionCode": 44,
               "engineVersion": "0.5.009",

@@ -1270,6 +1270,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.28.1",
+              "versionCode": 43,
+              "engineVersion": "0.5.009",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "pinball-breaker-android-alpha1-v0.28.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.28.1/pinball-breaker-alpha1-v0.28.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
+              "size": 23211968,
+              "sha256": "2a8413636b75ad493563dbc51db185637855e861b6d118c070f32d771742df17",
+              "notes": "CORRECTIFS : RECOMMENCER ou MENU pendant un encaissement ne fait plus tourner les rouleaux sur la partie suivante (ni ouvrir le sas gratuitement). Les sauvetages et rollovers ne s'ecoulent plus pendant la pause. Le multibille de La Consigne respecte le plafond de 3 billes. Musique du tour 1 corrigee.",
+              "date": "2026-09-24T15:52:14+00:00"
+            },
+            {
               "versionName": "0.28.0",
               "versionCode": 42,
               "engineVersion": "0.5.009",

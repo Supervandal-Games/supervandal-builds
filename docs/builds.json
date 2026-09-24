@@ -1905,6 +1905,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "2.11",
+              "versionCode": 16,
+              "engineVersion": "0.5.009",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "superdiscount-delivery-android-alpha1-v2.11",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superdiscount-delivery-android-alpha1-v2.11/superdiscount-delivery-alpha1-v2.11-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superdiscount-delivery-android-alpha1-latest/superdiscount-delivery-alpha1.apk",
+              "size": 18885200,
+              "sha256": "5d0481d80211527009d8b0c2b5557b3ccf48a6a4d04c6cbd687804954714c50b",
+              "notes": "Niveaux plus courts et plus epiques : chaque niveau s'ouvre sur un atelier (grand virage, premier saut, slalom, mur), pente plus forte, tremplins et dos d'ane. Arrivees plus grandes en SABLE qui freine et secoue, avec dunes, cones et voitures garees. Voitures garees le long des routes (on peut les pousser). Sons et particules par roue selon le sol (fumee au derapage, sable, herbe). Pendentif accroche au bouton pause, 2 maillons, souple. Rendu plus doux : lumiere, metal, anti-crenelage, pneus gris sculptes. Texte des panneaux redresse.",
+              "date": "2026-09-24T14:36:31+00:00"
+            },
+            {
               "versionName": "2.10",
               "versionCode": 15,
               "engineVersion": "0.5.008",

@@ -1242,6 +1242,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.26.0",
+              "versionCode": 40,
+              "engineVersion": "0.5.009",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "pinball-breaker-android-alpha1-v0.26.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.26.0/pinball-breaker-alpha1-v0.26.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
+              "size": 23203760,
+              "sha256": "da9e0413c8db1f15968f89ba3ba26281493667a3d790ac5e30d9543966f2db94",
+              "notes": "VOS CARTES SUR LA TABLE : pendant le jeu, votre main est posee entre les batteurs et chaque carte SAUTE quand elle se declenche. ACCELERATEURS = canon : recul, coup de camera, bille incandescente. Les rouleaux du jackpot cliquettent de plus en plus vite. Panneau jackpot mieux cadre.",
+              "date": "2026-09-24T15:13:43+00:00"
+            },
+            {
               "versionName": "0.25.0",
               "versionCode": 39,
               "engineVersion": "0.5.009",

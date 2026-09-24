@@ -338,6 +338,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.14",
+              "versionCode": 39,
+              "engineVersion": "0.5.008",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.14",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.14/cannon-smash-alpha1-v1.14-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 22564204,
+              "sha256": "4e651ca4b19a35f9be9d906f0f6dc8b4386a77997b658e9553368a7f577fc0d2",
+              "notes": "Chargeurs en 3D en bas de l'ecran : tube de la carabine, cartouchiere du tromblon, bande de balles physique de la mitraillette (elle reagit a l'inclinaison et aux secousses). Toucher le bas de l'ecran (10 %) recharge ; un discret RECHARGER apparait quand le chargeur est vide. Flash de tir realiste et different selon l'arme. Arme un peu plus haute.",
+              "date": "2026-09-24T11:01:12+00:00"
+            },
+            {
               "versionName": "1.13",
               "versionCode": 38,
               "engineVersion": "0.5.008",

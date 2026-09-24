@@ -1228,6 +1228,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.24.1",
+              "versionCode": 38,
+              "engineVersion": "0.5.009",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "pinball-breaker-android-alpha1-v0.24.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.24.1/pinball-breaker-alpha1-v0.24.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
+              "size": 23182720,
+              "sha256": "06e47eddba94880c7234d692221f37cc5b61cdf68bf72db4637701734f4f62ed",
+              "notes": "CORRECTIF : plantage a l'arrivee sur un etage mecanique (Toboggan, Orbite, Tube, Nid, Bouchon) a partir du tour 2. NEUF NOUVELLES CARTES : Carambole, Plein fer, Retour de flamme, Rollover, Toit, Accelerateur, Raccourci d'or, Gros bumpers, Jumelles (rare). Collection a 34 cartes.",
+              "date": "2026-09-24T14:50:52+00:00"
+            },
+            {
               "versionName": "0.24.0",
               "versionCode": 37,
               "engineVersion": "0.5.008",

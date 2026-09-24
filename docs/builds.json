@@ -338,20 +338,6 @@
         "alpha1": {
           "builds": [
             {
-              "versionName": "1.17",
-              "versionCode": 42,
-              "engineVersion": "0.5.008",
-              "config": "Release",
-              "channel": "debug",
-              "tag": "cannon-smash-android-alpha1-v1.17",
-              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.17/cannon-smash-alpha1-v1.17-release.apk",
-              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
-              "size": 25598116,
-              "sha256": "925775c060c967b2fbdd0b7259391798374d1c33c4db4dbc9946fe0b8ce8a856",
-              "notes": "NOUVEAU : le WESTERN (chapitres 5, 10, 15, 20, 25, dès le niveau 41). Duels de réflexe : les cow-boys se lèvent les mains dans le dos, révèlent un revolver ou un bouquet - tire vite sur l'arme, jamais sur les fleurs. Score à la milliseconde. Menus boutique, quotidien, profil et classement refaits en plastique candy (les quêtes du jour affichent enfin leur progression).",
-              "date": "2026-09-24T12:59:18+00:00"
-            },
-            {
               "versionName": "1.16",
               "versionCode": 41,
               "engineVersion": "0.5.008",
@@ -1862,6 +1848,20 @@
       "tracks": {
         "alpha1": {
           "builds": [
+            {
+              "versionName": "2.10",
+              "versionCode": 15,
+              "engineVersion": "0.5.008",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "superdiscount-delivery-android-alpha1-v2.10",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superdiscount-delivery-android-alpha1-v2.10/superdiscount-delivery-alpha1-v2.10-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superdiscount-delivery-android-alpha1-latest/superdiscount-delivery-alpha1.apk",
+              "size": 17762496,
+              "sha256": "4a4fc30b1a08b0668636c1293689cde847b069b92d1cb0924f284dad381a17fe",
+              "notes": "Plus de boucle de son sur le bilan ni en pause. Le klaxon repart de zero a chaque appui. 5 sirenes au garage (rayon KLAXONS) : GYROPHARE, GENDARMERIE, POLICE, POMPIERS, BOULE DISCO - elles remplacent le klaxon et s'allument sur le toit quand tu klaxonnes. Le pendentif suit maintenant la physique du camion (il pend en ligne droite).",
+              "date": "2026-09-24T13:00:12+00:00"
+            },
             {
               "versionName": "2.9",
               "versionCode": 14,

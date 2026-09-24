@@ -1228,6 +1228,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.24.0",
+              "versionCode": 37,
+              "engineVersion": "0.5.008",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "pinball-breaker-android-alpha1-v0.24.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.24.0/pinball-breaker-alpha1-v0.24.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
+              "size": 21418868,
+              "sha256": "670ac8dc8549d09fa6a335c1c19c47b2855025330f76922e27739d30ed63ba51",
+              "notes": "INTERFACE FUNKY : boutons emailles or/bleu/corail, liserés neon, titres en degrade couchant, textes recentres dans les boutons. Jetons et pieces qui volent jusqu'aux compteurs, pluie de pieces au jackpot, le sas eclate en eclats chromes, entree des boss. Cartes reequilibrees (Pyromane, Glitch Addict, Sas dore, Aimant, Sniper, Trou noir, Elastique).",
+              "date": "2026-09-24T14:20:53+00:00"
+            },
+            {
               "versionName": "0.23.0",
               "versionCode": 36,
               "engineVersion": "0.5.008",

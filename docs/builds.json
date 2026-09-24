@@ -1228,6 +1228,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.25.0",
+              "versionCode": 39,
+              "engineVersion": "0.5.009",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "pinball-breaker-android-alpha1-v0.25.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.25.0/pinball-breaker-alpha1-v0.25.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
+              "size": 23201196,
+              "sha256": "c43cafdca1a5d1ecc3fcc98a827ca9444f7d5e2aa2c5b4b130c2f2a77ba5d7f1",
+              "notes": "5 MUSIQUES pour les etages mecaniques (Toboggan, Orbite, Tube, Nid, Bouchon). PAUSE : votre main en vraies cartes, plus rien ne transparait derriere le menu. Premier Pas plus lisible (briques multiplicateur et etoile au centre). Titres et boutons plus funky.",
+              "date": "2026-09-24T15:01:07+00:00"
+            },
+            {
               "versionName": "0.24.1",
               "versionCode": 38,
               "engineVersion": "0.5.009",

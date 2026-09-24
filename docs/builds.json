@@ -2133,6 +2133,31 @@
           "package": "com.supervandal.superdiscountdelivery.alpha1"
         }
       }
+    },
+    "rocket-flow": {
+      "title": "rocket-flow",
+      "tracks": {
+        "alpha1": {
+          "builds": [
+            {
+              "versionName": "0.1.0",
+              "versionCode": 1,
+              "engineVersion": "0.5.009",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "rocket-flow-android-alpha1-v0.1.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rocket-flow-android-alpha1-v0.1.0/rocket-flow-alpha1-v0.1.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rocket-flow-android-alpha1-latest/rocket-flow-alpha1.apk",
+              "size": 13144320,
+              "sha256": "dedcf947eb78fcdf6472f1d2d992b13fad4abc11ee8804a4aa28807f6ba4deae",
+              "notes": "Premier portage de Rocket Flow sur le Supervandal Engine : vol a un doigt, barres qui jouent la batterie, overdrive en camera poursuite, mort en deux explosions, rapport de vol, rembobinage VHS, Banana MKII a 1 km.",
+              "date": "2026-09-24T14:49:45+00:00"
+            }
+          ],
+          "appName": "Rocket Flow Alpha 1",
+          "package": "com.supervandal.rocketflow.alpha1"
+        }
+      }
     }
   }
 }

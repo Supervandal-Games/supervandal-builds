@@ -1312,6 +1312,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.29.0",
+              "versionCode": 44,
+              "engineVersion": "0.5.009",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "pinball-breaker-android-alpha1-v0.29.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.29.0/pinball-breaker-alpha1-v0.29.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
+              "size": 23215548,
+              "sha256": "f062749eb948a8b271e176e4dad2273db2105f7534abaf4b963629bc7068c744",
+              "notes": "GUI RECALEE : chiffres du jackpot centres dans leurs rouleaux, panneau jackpot a la taille de son contenu ; bandeaux (COMETE, KICKBACK...) centres sur leur pastille ; argent, OBJECTIF et bouton pause remis dans la barre du haut ; textes des cartes equilibres (plus de mot orphelin, +2 MULT jamais coupe) ; panneau d'etage recentre ; barre vide retiree du titre et de la collection.",
+              "date": "2026-09-24T23:12:59+00:00"
+            },
+            {
               "versionName": "0.28.1",
               "versionCode": 43,
               "engineVersion": "0.5.009",

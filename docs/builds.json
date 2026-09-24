@@ -1933,6 +1933,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "2.12",
+              "versionCode": 17,
+              "engineVersion": "0.5.009",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "superdiscount-delivery-android-alpha1-v2.12",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superdiscount-delivery-android-alpha1-v2.12/superdiscount-delivery-alpha1-v2.12-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superdiscount-delivery-android-alpha1-latest/superdiscount-delivery-alpha1.apk",
+              "size": 18884404,
+              "sha256": "2a606d665129a3ccff4d3c052fc77b1f9dcd795dbbaddb79bfb04eac8da193b6",
+              "notes": "Correctif : le klaxon marche de nouveau en course, et le craquement en jeu est corrige. Les sons de sable et d'herbe ajoutes en 2.11 occupaient trop de voix audio (une serie par roue) : ils sont maintenant une seule serie pour tout le convoi.",
+              "date": "2026-09-24T15:07:01+00:00"
+            },
+            {
               "versionName": "2.11",
               "versionCode": 16,
               "engineVersion": "0.5.009",

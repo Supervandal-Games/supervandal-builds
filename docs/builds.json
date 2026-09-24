@@ -338,6 +338,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.12",
+              "versionCode": 37,
+              "engineVersion": "0.5.008",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.12",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.12/cannon-smash-alpha1-v1.12-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 20277636,
+              "sha256": "8f4918c86b2138aa82b7a352db8270e201e2dd6bbd783cfb5db8d9914b47cdfa",
+              "notes": "Jauge de munitions plus fine et centree : toute la jauge sert de bouton recharger, les balles de part et d'autre du fusil, la jauge passe au rouge et affiche RECHARGER seulement quand le chargeur est vide.",
+              "date": "2026-09-24T00:49:55+00:00"
+            },
+            {
               "versionName": "1.11",
               "versionCode": 36,
               "engineVersion": "0.5.008",
@@ -1129,20 +1143,6 @@
       "tracks": {
         "alpha1": {
           "builds": [
-            {
-              "versionName": "0.22.0",
-              "versionCode": 35,
-              "engineVersion": "0.5.008",
-              "config": "Release",
-              "channel": "debug",
-              "tag": "pinball-breaker-android-alpha1-v0.22.0",
-              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.22.0/pinball-breaker-alpha1-v0.22.0-release.apk",
-              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
-              "size": 16859172,
-              "sha256": "bc116e54d9d455d84313e2922ad18c602cafd6eaca1a1d674c34e7d729caa803",
-              "notes": "CARTES LISIBLES : toucher une carte l'amene en grand avec son effet ecrit en clair et un bouton ACHETER (plus d'achat par erreur). Meme lecture dans la collection. Encre des cartes plus contrastee, boutique redescendue sous la barre du haut.",
-              "date": "2026-09-24T00:49:48+00:00"
-            },
             {
               "versionName": "0.21.0",
               "versionCode": 34,

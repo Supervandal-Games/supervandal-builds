@@ -1130,6 +1130,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.22.0",
+              "versionCode": 35,
+              "engineVersion": "0.5.008",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "pinball-breaker-android-alpha1-v0.22.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.22.0/pinball-breaker-alpha1-v0.22.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
+              "size": 16859172,
+              "sha256": "bc116e54d9d455d84313e2922ad18c602cafd6eaca1a1d674c34e7d729caa803",
+              "notes": "CARTES LISIBLES : toucher une carte l'amene en grand avec son effet ecrit en clair et un bouton ACHETER (plus d'achat par erreur). Meme lecture dans la collection. Encre des cartes plus contrastee, boutique redescendue sous la barre du haut.",
+              "date": "2026-09-24T00:49:48+00:00"
+            },
+            {
               "versionName": "0.21.0",
               "versionCode": 34,
               "engineVersion": "0.5.008",

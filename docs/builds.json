@@ -6,6 +6,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.2.0",
+              "versionCode": 6,
+              "engineVersion": "0.5.009",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "coaster-train-android-alpha1-v0.2.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.2.0/coaster-train-alpha1-v0.2.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-latest/coaster-train-alpha1.apk",
+              "size": 15620984,
+              "sha256": "e9c5c53111b7e4bc1695aab3b17b93ded2dd5cac2e8fb48b23e5bca82dd324b0",
+              "notes": "Nouveau jeu : la vallée à 8 gares (4 villes, carrière, briqueterie, forêt, scierie), 14,6 km de voie avec 2 loopings, hélices, viaducs et tunnels ; le monde est dessiné autour du tracé. Contrats de 3, 8 ou 16 wagons, manette unique, jauge de secousses, arrêt au quai noté, médailles et records. Nouveau train, voyageurs, cargaison, sons et interface.",
+              "date": "2026-09-24T15:21:32+00:00"
+            },
+            {
               "versionName": "0.1.4",
               "versionCode": 5,
               "engineVersion": "0.4.378",

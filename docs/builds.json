@@ -352,6 +352,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.21",
+              "versionCode": 44,
+              "engineVersion": "0.5.009",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.21",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.21/cannon-smash-alpha1-v1.21-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 28665500,
+              "sha256": "0f7b95d5ce01b7986caa0cf8050a08700b06cb552cb9e176d409cceda8b001f9",
+              "notes": "Le stand de tir a ses bandits : ils surgissent derrière le comptoir, des innocents cerclés de vert (les toucher = -500), une pile de caisses qui fait pivoter un bandit sur le côté. La campagne a ses épouvantails pendus à deux cordes (la tête fait tout éclater, chaque morceau paye le coup multiple) et ses lapins yo-yo. Tables allégées pour le téléphone.",
+              "date": "2026-09-24T16:14:17+00:00"
+            },
+            {
               "versionName": "1.20",
               "versionCode": 43,
               "engineVersion": "0.5.009",

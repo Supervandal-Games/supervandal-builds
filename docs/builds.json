@@ -1116,6 +1116,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.21.0",
+              "versionCode": 34,
+              "engineVersion": "0.5.008",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "pinball-breaker-android-alpha1-v0.21.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.21.0/pinball-breaker-alpha1-v0.21.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
+              "size": 16846620,
+              "sha256": "b9b464252c824b1d9fa8e47fd9a8b212c0490a2ce4c7fda49c12624ba9d59627",
+              "notes": "MUSIQUE PAR NIVEAU (elle etait retiree de l'APK a l'export). VRAIES CARTES 3D : distribuees face cachee, retournees, a toucher, a pencher, a glisser ; collection en classeur. Nouvelle interface (verre fume, or, corail), nouvelle palette (porcelaine, chrome), ombres portees, aberration chromatique seulement aux impacts. Premiers etages faciles avec un COULOIR RACCOURCI qui gagne l'etage. La fievre double les jetons. Bug du menu demo sans sortie corrige.",
+              "date": "2026-09-24T00:25:54+00:00"
+            },
+            {
               "versionName": "0.20.0",
               "versionCode": 33,
               "engineVersion": "0.5.008",

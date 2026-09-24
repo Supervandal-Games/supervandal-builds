@@ -923,6 +923,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.11.0",
+              "versionCode": 21,
+              "engineVersion": "0.5.008",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "squishy-ball-android-alpha1-v0.11.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-v0.11.0/squishy-ball-alpha1-v0.11.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-latest/squishy-ball-alpha1.apk",
+              "size": 15122424,
+              "sha256": "c766f8eab8495f5ed0d55f64f3e900c704b2aeb54387917d8e2c702bfc8df29f",
+              "notes": "Du son : impacts squishy, collage, bumpers, portes, acide, aspiration et victoire. Interface discrète et transparente, caméra un peu reculée : plus rien de caché. Bumpers automatiques. Fin de niveau : la balle est aspirée dans le tuyau. L'acide dissout la balle. Rendu plus PBR, formes arrondies.",
+              "date": "2026-09-24T14:08:37+00:00"
+            },
+            {
               "versionName": "0.10.0",
               "versionCode": 20,
               "engineVersion": "0.5.008",

@@ -338,6 +338,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.11",
+              "versionCode": 36,
+              "engineVersion": "0.5.008",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.11",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.11/cannon-smash-alpha1-v1.11-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 20330432,
+              "sha256": "6bb8c78cc8cc03516e99b36792c3332710512f0b70857d54831a040da6ed48e3",
+              "notes": "250 niveaux generes en 25 chapitres de 10 : niveau 1 avec 7 cibles dont 3 qui se relevent, niveau 2 avec 9 cibles qui se relevent, au moins 10 cibles partout, plus d'attente. Niveaux en etapes (rails puis ballons, pile puis ballons, finales en 3 etapes). Assiettes de ball-trap (chapitres campagne, decor a venir). Chamboule-tout : objets 50 % plus gros, plus legers, piles plus petites. HUD candy colore et anime, chargeur visible avec toutes les balles et gros bouton RECHARGER. Enseigne JOUER a ampoules.",
+              "date": "2026-09-24T00:36:00+00:00"
+            },
+            {
               "versionName": "1.10",
               "versionCode": 35,
               "engineVersion": "0.5.008",

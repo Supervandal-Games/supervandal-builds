@@ -6,6 +6,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.6.0",
+              "versionCode": 10,
+              "engineVersion": "0.5.025",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "coaster-train-android-alpha1-v0.6.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.6.0/coaster-train-alpha1-v0.6.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-latest/coaster-train-alpha1.apk",
+              "size": 21461212,
+              "sha256": "3839c5ae47aab4e181d4387c196c7b856db00e5e675c7dfdfb38f50ba71eca21",
+              "notes": "Niveaux v2 : le train roule vers la droite ; tracés 2,5D qui plongent vers la caméra et repartent, 60 à 120 s ; voyageurs uniquement ; marge d'arrêt ±25 m, heurtoir 28 m après la ligne ; klaxon = corde à tirer en haut à gauche (trompe d'air synthétisée) ; distance d'arrivée toujours affichée ; rendu retravaillé pour le pipeline sRGB (lumière, AO du train, matières) ; caméra de côté plongeante qui garde le train dans le cadre.",
+              "date": "2026-09-25T12:03:16+00:00"
+            },
+            {
               "versionName": "0.5.0",
               "versionCode": 9,
               "engineVersion": "0.5.015",

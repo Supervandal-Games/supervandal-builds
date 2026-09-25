@@ -2493,6 +2493,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "2.15",
+              "versionCode": 20,
+              "engineVersion": "0.5.031",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "superdiscount-delivery-android-alpha1-v2.15",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superdiscount-delivery-android-alpha1-v2.15/superdiscount-delivery-alpha1-v2.15-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superdiscount-delivery-android-alpha1-latest/superdiscount-delivery-alpha1.apk",
+              "size": 19613184,
+              "sha256": "d5859378b30bd6ef9f1d5d9062a1573008af919696e43106d8598b5cc1bb8b45",
+              "notes": "Tout casse ! Les lampadaires se brisent (poteau + tete), les panneaux perdent leur plaque, les enseignes SUPERDISCOUNT tombent, et les voitures garees (nouveau look retro) perdent leurs roues au choc. 4 nouvelles camionnettes au garage (LE CUBE, LE PICK-UP, LE MUFLE, LA PUCE) et 4 nouvelles remorques (cage, plateau a piquets, caisson, benne), en style blocky retro, meme physique pour toutes.",
+              "date": "2026-09-25T16:48:48+00:00"
+            },
+            {
               "versionName": "2.14",
               "versionCode": 19,
               "engineVersion": "0.5.029",

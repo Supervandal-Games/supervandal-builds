@@ -6,6 +6,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.5.0",
+              "versionCode": 9,
+              "engineVersion": "0.5.015",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "coaster-train-android-alpha1-v0.5.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.5.0/coaster-train-alpha1-v0.5.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-latest/coaster-train-alpha1.apk",
+              "size": 20638076,
+              "sha256": "f8793d3df5b04f0867acff907407b7a2d1e348cd2f079c2e84da0e2ac1b0e0b7",
+              "notes": "Mode Niveaux : 13 niveaux (départ, arrivée, chrono, arrêt de précision), étoiles, records, pièces et classements par niveau. Décors peints en couches (vue de côté, maquette, canyon, neige, néons, bonbons). Écran d'accueil Niveaux + Voyage libre. Convoi bloqué = on recommence.",
+              "date": "2026-09-25T04:55:50+00:00"
+            },
+            {
               "versionName": "0.4.0",
               "versionCode": 8,
               "engineVersion": "0.5.013",

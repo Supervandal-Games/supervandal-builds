@@ -464,6 +464,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.33",
+              "versionCode": 56,
+              "engineVersion": "0.5.031",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.33",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.33/cannon-smash-alpha1-v1.33-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 31148852,
+              "sha256": "8e958bd8d7d39b60a208a9e35f0acacd772db09248c6f001ba62c06c8aa78951",
+              "notes": "Stand de tir : 5 allées (2 courtes sur les côtés), 3 cibles debout en permanence, plus de cibles. Nouvelle arme : le SNIPER, culasse à chaque tir et lunette zoom au-dessus du pouce.",
+              "date": "2026-09-25T17:00:22+00:00"
+            },
+            {
               "versionName": "1.32",
               "versionCode": 55,
               "engineVersion": "0.5.030",

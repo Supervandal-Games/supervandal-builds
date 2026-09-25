@@ -2784,6 +2784,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.6.0",
+              "versionCode": 10,
+              "engineVersion": "0.5.031",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "rocket-flow-android-alpha1-v0.6.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rocket-flow-android-alpha1-v0.6.0/rocket-flow-alpha1-v0.6.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rocket-flow-android-alpha1-latest/rocket-flow-alpha1.apk",
+              "size": 14370736,
+              "sha256": "f8fd505d33a10799b91926789dfa019851327e3c01972d57202f5d6a66708475",
+              "notes": "Mode TRACKS (beta) : de vraies pistes musicales avec un depart, une arrivee et un chrono. Un seul tempo par track, depart sur le pas de tir ou dans le ciel (10 km, 100 km), rembobinage libre (le chrono continue), fantome et meilleur temps par track. 4 pistes de demo, une par pack d'instruments : Studio, Electro 808, Arcade 8-bit, Taiko.",
+              "date": "2026-09-25T16:57:17+00:00"
+            },
+            {
               "versionName": "0.5.0",
               "versionCode": 9,
               "engineVersion": "0.5.027",

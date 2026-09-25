@@ -394,6 +394,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.27",
+              "versionCode": 50,
+              "engineVersion": "0.5.025",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.27",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.27/cannon-smash-alpha1-v1.27-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 28089592,
+              "sha256": "90e4eb9380d5c50c9c5ed3db5ac83e2fa4b76123f2b80f4239395962aade8a45",
+              "notes": "Western : les silhouettes en bois volent en éclats (planche fendue dans le fil, bras et arme qui partent, échardes), le mécanisme vibre sous l'impact. Stand de tir : allées profondes (5 à 19 m), cibles basses sur leurs chariots, plus lentes, qui ralentissent aux bouts ; cibles fixes, qui arrivent, qui repartent, en décalé ; petits trous de papier qui ne restent plus sur la cible suivante.",
+              "date": "2026-09-25T11:52:55+00:00"
+            },
+            {
               "versionName": "1.26",
               "versionCode": 49,
               "engineVersion": "0.5.014",

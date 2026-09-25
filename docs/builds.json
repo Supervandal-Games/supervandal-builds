@@ -380,6 +380,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.26",
+              "versionCode": 49,
+              "engineVersion": "0.5.014",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.26",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.26/cannon-smash-alpha1-v1.26-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 27091140,
+              "sha256": "23483348acd71b2e4f24d6f6f2b63b0bca1da02f7d1c8c09e6ceea9ce80f7252",
+              "notes": "Stand de tir refait : plus de personnages. De vraies cibles de stand — la ronde ISSF (10 anneaux, la mouche) et la silhouette B-27 (ovales X-10-9-8-7) — qui paient au millimètre selon la zone touchée, sur quatre mécanismes : tourneur, escamotable, chariot au plafond, cible défilante. Décor de stand couvert, sobre et léger. Nouvelle capsule : la précision moyenne.",
+              "date": "2026-09-25T04:27:56+00:00"
+            },
+            {
               "versionName": "1.25",
               "versionCode": 48,
               "engineVersion": "0.5.014",

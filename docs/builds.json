@@ -1147,6 +1147,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.19.1",
+              "versionCode": 30,
+              "engineVersion": "0.5.029",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "squishy-ball-android-alpha1-v0.19.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-v0.19.1/squishy-ball-alpha1-v0.19.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-latest/squishy-ball-alpha1.apk",
+              "size": 16356576,
+              "sha256": "7dc0909dcf1381ea9af89594b0be6879aa663c9603b3ffdd24024bffeb272e54",
+              "notes": "Correctif : le son du point de reprise ne sonne plus à l'infini.",
+              "date": "2026-09-25T15:02:43+00:00"
+            },
+            {
               "versionName": "0.19.0",
               "versionCode": 29,
               "engineVersion": "0.5.028",

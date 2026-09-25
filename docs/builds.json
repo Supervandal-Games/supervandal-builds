@@ -1550,6 +1550,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.31.0",
+              "versionCode": 46,
+              "engineVersion": "0.5.028",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "pinball-breaker-android-alpha1-v0.31.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.31.0/pinball-breaker-alpha1-v0.31.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
+              "size": 23722512,
+              "sha256": "0e4e713270138a98baf360980d1c7aa8e168d3aefffd8c51c6a32f7b37a99501",
+              "notes": "CONSOMMABLES en boutique (utilisables meme main pleine, effet a l'etage suivant) : Pack de 3 billes 4 $, Bouclier 3 $, Dynamite 3 $, Elan 4 $. RACCOURCI VERROUILLE : le couloir ne s'ouvre qu'une fois la moitie de l'objectif encaissee. BOUTIQUE reorganisee (etiquettes de prix, prix en corail si trop cher). Retour du design de cartes classique.",
+              "date": "2026-09-25T14:10:54+00:00"
+            },
+            {
               "versionName": "0.30.0",
               "versionCode": 45,
               "engineVersion": "0.5.026",

@@ -1091,6 +1091,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.16.0",
+              "versionCode": 26,
+              "engineVersion": "0.5.025",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "squishy-ball-android-alpha1-v0.16.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-v0.16.0/squishy-ball-alpha1-v0.16.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-latest/squishy-ball-alpha1.apk",
+              "size": 16079132,
+              "sha256": "3059e59f7f364d68b7922d2aedf192444149f2a119d641212557092de9cc6375",
+              "notes": "Boutons : plus de gros « clac » au début (c'était le son de la porte, supprimé) : seuls les petits clics restent. Une balle collée contre un bouton le tient enfoncé : pousse, colle-toi, penche vers la porte, décolle et fonce. Niveau 4 : le dernier bouton est plus grand, la porte reste ouverte bien plus longtemps.",
+              "date": "2026-09-25T11:40:35+00:00"
+            },
+            {
               "versionName": "0.15.0",
               "versionCode": 25,
               "engineVersion": "0.5.014",

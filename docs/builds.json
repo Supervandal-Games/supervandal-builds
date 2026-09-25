@@ -436,6 +436,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.32",
+              "versionCode": 55,
+              "engineVersion": "0.5.030",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.32",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.32/cannon-smash-alpha1-v1.32-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 30690980,
+              "sha256": "04e334ae6625abd220dde02bd646a4e582946679170b7b77c3e38412508b78fd",
+              "notes": "Sons : une victoire et une défaite par décor (foire, campagne, stand de tir, western), nouveau clic de bouton, nouvelle pluie de pièces.",
+              "date": "2026-09-25T16:11:23+00:00"
+            },
+            {
               "versionName": "1.31",
               "versionCode": 54,
               "engineVersion": "0.5.030",

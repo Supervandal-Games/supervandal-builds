@@ -6,6 +6,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.7.1",
+              "versionCode": 12,
+              "engineVersion": "0.5.030",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "coaster-train-android-alpha1-v0.7.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.7.1/coaster-train-alpha1-v0.7.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-latest/coaster-train-alpha1.apk",
+              "size": 22136556,
+              "sha256": "12b21eaeac4e74e8709957adfa0384f19c7294ae9405aa728ce2356d4bfb4efe",
+              "notes": "Correctifs : rails qui disparaissaient sur Android (voies beaucoup moins détaillées en mémoire GPU, même rendu) ; la montée à chaîne ne freine plus : elle ne tire que si le train va moins vite qu'elle, sinon il garde son élan.",
+              "date": "2026-09-25T16:25:42+00:00"
+            },
+            {
               "versionName": "0.7.0",
               "versionCode": 11,
               "engineVersion": "0.5.030",

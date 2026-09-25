@@ -2991,6 +2991,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.3.2",
+              "versionCode": 5,
+              "engineVersion": "0.5.033",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "justice-dogs-android-alpha1-v0.3.2",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-v0.3.2/justice-dogs-alpha1-v0.3.2-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-latest/justice-dogs-alpha1.apk",
+              "size": 25561552,
+              "sha256": "6aec3c98e95e65a2d0ad5f8aa6f66909fedfafef39ca04d8e8ce069036dcf98f",
+              "notes": "Le tir part là où on touche : la visée compense le fisheye (avant, jusqu'à 70 px d'écart), plus de décalage au-dessus du pouce, une petite aide à la visée sur les bandits (jamais sur les civils), et les anneaux rouges sont posés pile sur les bandits. Les bandits des toits en escalier ne sont plus cachés derrière la marche haute.",
+              "date": "2026-09-25T19:23:20+00:00"
+            },
+            {
               "versionName": "0.3.1",
               "versionCode": 4,
               "engineVersion": "0.5.033",

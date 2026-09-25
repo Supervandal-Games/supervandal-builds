@@ -2434,6 +2434,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.4.2",
+              "versionCode": 8,
+              "engineVersion": "0.5.014",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "rocket-flow-android-alpha1-v0.4.2",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rocket-flow-android-alpha1-v0.4.2/rocket-flow-alpha1-v0.4.2-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rocket-flow-android-alpha1-latest/rocket-flow-alpha1.apk",
+              "size": 13954408,
+              "sha256": "f7b35046e237ce12db6fa43f9acd28f5b2078a010f8582c74a6c98921e9c2e9c",
+              "notes": "Voix de melodie : une par humeur du jour (cloche en majeur, marimba en mineur, koto en yo). Tout le vol est accorde en do : melodie, toms et jingles (l'ancienne voix jouait en la bemol contre des toms en do). Les nuances ecrites s'entendent : quartes et echo derriere la ligne.",
+              "date": "2026-09-25T04:01:05+00:00"
+            },
+            {
               "versionName": "0.4.1",
               "versionCode": 7,
               "engineVersion": "0.5.013",

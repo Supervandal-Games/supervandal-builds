@@ -2395,6 +2395,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "2.14",
+              "versionCode": 19,
+              "engineVersion": "0.5.029",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "superdiscount-delivery-android-alpha1-v2.14",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superdiscount-delivery-android-alpha1-v2.14/superdiscount-delivery-alpha1-v2.14-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superdiscount-delivery-android-alpha1-latest/superdiscount-delivery-alpha1.apk",
+              "size": 19384460,
+              "sha256": "dd0b413c295d9d6adc8060e41f834d13a8f27f52fb6be7154fa1b4ff2f007306",
+              "notes": "Plus de vitesse et plus d'elan : beaucoup moins de resistance de l'air, pente encore plus forte. Le son ne devrait plus gresiller : les bruits de roues tournent sur 13 voix au lieu de 38. Plus de pieces ni de chats. Les pietons restent. Beaucoup plus de voitures garees le long des routes (104). Etoiles un peu plus dures a obtenir.",
+              "date": "2026-09-25T15:27:32+00:00"
+            },
+            {
               "versionName": "2.13",
               "versionCode": 18,
               "engineVersion": "0.5.027",

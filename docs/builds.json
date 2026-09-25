@@ -1133,6 +1133,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.18.0",
+              "versionCode": 28,
+              "engineVersion": "0.5.027",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "squishy-ball-android-alpha1-v0.18.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-v0.18.0/squishy-ball-alpha1-v0.18.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-latest/squishy-ball-alpha1.apk",
+              "size": 16211928,
+              "sha256": "0b528f8805786a9874d1bd8578975d06d3baeb8411c2c599329e176938ccdaca",
+              "notes": "Effet 3D : le haut du labo reste collé au téléphone, c'est le fond qui bouge quand on penche (la caméra tourne autour du plafond, plus du sol).",
+              "date": "2026-09-25T13:33:57+00:00"
+            },
+            {
               "versionName": "0.17.0",
               "versionCode": 27,
               "engineVersion": "0.5.026",

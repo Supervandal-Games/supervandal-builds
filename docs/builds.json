@@ -1063,6 +1063,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.15.0",
+              "versionCode": 25,
+              "engineVersion": "0.5.014",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "squishy-ball-android-alpha1-v0.15.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-v0.15.0/squishy-ball-alpha1-v0.15.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-latest/squishy-ball-alpha1.apk",
+              "size": 15959396,
+              "sha256": "75e458de7e63bcc46fef7767e0814c8f0179a3e8fa2d77b749fa383a5e2be29a",
+              "notes": "Plus de vitre sur l'acide. Moins d'acide dans les niveaux à bumpers : les montées et les puits n'ont plus qu'un puits d'acide au centre (du sol le long des murs), des bandes rognées aux niveaux 15 à 25. Vitres au plafond dans les salles à bumpers : dessous, la balle ne sort pas, même téléphone retourné ; sans vitre, sortir par le haut est une chute. Les boutons muraux se poussent avec le poids de la balle : les frôler ne fait rien, il faut pencher fort (de plus en plus fort vers le fond), avec un petit clic tous les 2 mm, plus fort quand on pousse fort.",
+              "date": "2026-09-25T04:07:14+00:00"
+            },
+            {
               "versionName": "0.14.0",
               "versionCode": 24,
               "engineVersion": "0.5.012",

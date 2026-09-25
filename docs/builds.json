@@ -6,6 +6,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.4.0",
+              "versionCode": 8,
+              "engineVersion": "0.5.013",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "coaster-train-android-alpha1-v0.4.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.4.0/coaster-train-alpha1-v0.4.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-latest/coaster-train-alpha1.apk",
+              "size": 13519832,
+              "sha256": "52c75dddc17750444402368c0304493c92f36bdcd710e83568560d6314ed2ada",
+              "notes": "Physique refaite et mesurée : locomotive lourde, traction et freinage constants et raisonnables (0 à 100 km/h en 6 s avec 2 wagons, 14 s avec 16 ; 130 à 160 km/h sur le plat en plein gaz ; roue libre qui garde l'élan ; freinage 100 à 0 en 40 à 70 m). Plus de vitesses folles. Tracé retouché pour cette physique (16,5 km, loopings et plongeons franchissables avec 16 wagons).",
+              "date": "2026-09-25T03:25:34+00:00"
+            },
+            {
               "versionName": "0.3.0",
               "versionCode": 7,
               "engineVersion": "0.5.009",

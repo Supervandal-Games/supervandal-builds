@@ -2378,6 +2378,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.3.2",
+              "versionCode": 5,
+              "engineVersion": "0.5.012",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "rocket-flow-android-alpha1-v0.3.2",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rocket-flow-android-alpha1-v0.3.2/rocket-flow-alpha1-v0.3.2-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rocket-flow-android-alpha1-latest/rocket-flow-alpha1.apk",
+              "size": 13869192,
+              "sha256": "203b6f1eee5ed48e4ab701e849b6fa2efd6b657460e6a36fa0f09b66252e2a83",
+              "notes": "Fluidite : chaque image est calculee depuis l'etat interpole de la simulation (plus d'a-coups sur les barres, 0 saccade mesuree en vol) ; option IMAGES/S 60 ou 120 dans le menu pause. Le niveau demarre au decollage : plus de musique du niveau sous le theme du menu, et le fantome vole en rythme avec les instruments. Sauvegarde et fantome ecrits hors du fil principal, bannieres sans reconstruction de texte, ciel transparent plus dessine. Menu DEBUG > Print Logs : chaque image lente est journalisee avec sa cause.",
+              "date": "2026-09-25T02:44:50+00:00"
+            },
+            {
               "versionName": "0.3.1",
               "versionCode": 4,
               "engineVersion": "0.5.009",

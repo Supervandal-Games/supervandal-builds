@@ -2718,6 +2718,31 @@
           "package": "com.supervandal.rocketflow.alpha1"
         }
       }
+    },
+    "justice-dogs": {
+      "title": "justice-dogs",
+      "tracks": {
+        "alpha1": {
+          "builds": [
+            {
+              "versionName": "0.1.0",
+              "versionCode": 1,
+              "engineVersion": "0.5.027",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "justice-dogs-android-alpha1-v0.1.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-v0.1.0/justice-dogs-alpha1-v0.1.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-latest/justice-dogs-alpha1.apk",
+              "size": 22233756,
+              "sha256": "0d2a1b2fde31731834a47ebcb6241b0065986683e5a9207f1b2539a419d067d2",
+              "notes": "Première alpha de Justice Dogs : 8 niveaux du chapitre Centre-Ville. Appuie, vise, relâche pour tirer par la fenêtre de la voiture de patrouille. Les bandits (masque, maillot rayé) rapportent, les civils coûtent en « réparation d'image ». Vitres qui éclatent, rapport d'intervention en fin de niveau.",
+              "date": "2026-09-25T13:34:57+00:00"
+            }
+          ],
+          "appName": "Justice Dogs Alpha 1",
+          "package": "com.supervandal.justicedogs.alpha1"
+        }
+      }
     }
   }
 }

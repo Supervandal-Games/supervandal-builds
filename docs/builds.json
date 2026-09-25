@@ -2392,6 +2392,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.4.0",
+              "versionCode": 6,
+              "engineVersion": "0.5.012",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "rocket-flow-android-alpha1-v0.4.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rocket-flow-android-alpha1-v0.4.0/rocket-flow-alpha1-v0.4.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rocket-flow-android-alpha1-latest/rocket-flow-alpha1.apk",
+              "size": 13885256,
+              "sha256": "8ae3ad42562f7182195cc97cdbc6bf540860573ffe99c8b397dd00b70c63b190",
+              "notes": "Niveau v2 : le coeur de chaque kilometre est compose au lieu d'etre tire au hasard. 12 grooves ecrits a la main (rock, boom-bap, marche, house, funk, shuffle, breakbeat, tribal, galop, stomp, drill, jungle) en 8 mesures : entree, groove, variation, retour, break. Ce qu'on entend est ce qui est ecrit, et ce qui est ecrit se surfe. Melodies : un mode par jour et une accroche par kilometre, enoncee puis repondue sur la tonique. Les tunnels de fin de kilometre ne changent pas. Nouveau monde donc nouveau fantome du jour.",
+              "date": "2026-09-25T03:04:29+00:00"
+            },
+            {
               "versionName": "0.3.2",
               "versionCode": 5,
               "engineVersion": "0.5.012",

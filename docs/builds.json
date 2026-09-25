@@ -2420,6 +2420,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.4.1",
+              "versionCode": 7,
+              "engineVersion": "0.5.013",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "rocket-flow-android-alpha1-v0.4.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rocket-flow-android-alpha1-v0.4.1/rocket-flow-alpha1-v0.4.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rocket-flow-android-alpha1-latest/rocket-flow-alpha1.apk",
+              "size": 13915472,
+              "sha256": "9c82cdd09f185d53d37f35fd95e2e69ca02af0cef766664baf79234fb90aea78",
+              "notes": "Nouvelle batterie : une grosse caisse qui frappe (sub, attaque, claquement lisible sur un haut-parleur de telephone), une identite par instrument, 4 variantes chacun (une barre garde son son, ses voisines different), des toms accordes qui font une petite melodie, micro-variations a chaque coup, et moins de voix audio (8 par coup complet au lieu de 14). Corrections : un vol rembobine ne compte plus deux fois dans le carnet, les boucles moteur ne repartent plus trop aigues, l'accroche 'drive' retrouve sa note finale, deux kilometres voisins n'ont plus le meme groove, un vol commence avant minuit UTC ne compte plus pour le lendemain, annuler la bande ramene l'epave.",
+              "date": "2026-09-25T03:43:38+00:00"
+            },
+            {
               "versionName": "0.4.0",
               "versionCode": 6,
               "engineVersion": "0.5.012",

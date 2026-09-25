@@ -6,6 +6,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.7.2",
+              "versionCode": 13,
+              "engineVersion": "0.5.031",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "coaster-train-android-alpha1-v0.7.2",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.7.2/coaster-train-alpha1-v0.7.2-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-latest/coaster-train-alpha1.apk",
+              "size": 22229408,
+              "sha256": "96e1d6fe7d3c8b0d269944600e9f7d1c42384bd07ec4821072c8b0b7013b2f8c",
+              "notes": "Correctif : la voie invisible (vraie cause trouvée : un réglage de densité trop bas que le moteur remplaçait en silence par une valeur énorme, la voie n'était plus dessinée). Montée à chaîne : ne tire que si le train va moins vite qu'elle.",
+              "date": "2026-09-25T17:23:38+00:00"
+            },
+            {
               "versionName": "0.7.1",
               "versionCode": 12,
               "engineVersion": "0.5.030",

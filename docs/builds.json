@@ -2297,6 +2297,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "2.13",
+              "versionCode": 18,
+              "engineVersion": "0.5.027",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "superdiscount-delivery-android-alpha1-v2.13",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superdiscount-delivery-android-alpha1-v2.13/superdiscount-delivery-alpha1-v2.13-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superdiscount-delivery-android-alpha1-latest/superdiscount-delivery-alpha1.apk",
+              "size": 19262512,
+              "sha256": "98085149a12dfcb9cf81de1f793d50094b31708332c41e32355d21426b4bad09",
+              "notes": "La route est vivante ! Des pieces a ramasser (vraies pieces dans ton porte-monnaie) sur les trajectoires risquees, et meme en l'air au-dessus des sauts. Des pietons et des chats en carton, certains traversent la route : les ecraser coute des points et te ralentit. Rouler dans les champs coute des points (HORS ROUTE). Le chrono rapporte deux fois plus : fonce ! 4 nouveaux niveaux (12 en tout). Rendu adapte au nouveau moteur (lumiere, ombrage).",
+              "date": "2026-09-25T13:04:25+00:00"
+            },
+            {
               "versionName": "2.12",
               "versionCode": 17,
               "engineVersion": "0.5.009",

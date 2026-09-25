@@ -208,6 +208,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.4.0",
+              "versionCode": 21,
+              "engineVersion": "0.5.034",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "not-rocket-science-android-alpha1-v0.4.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/not-rocket-science-android-alpha1-v0.4.0/not-rocket-science-alpha1-v0.4.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/not-rocket-science-android-alpha1-latest/not-rocket-science-alpha1.apk",
+              "size": 17887617,
+              "sha256": "80ea1d749c8a7e040d031d34d78d1bfeafb5046cdb64a6b4bc31633efef52d2e",
+              "notes": "Nouveau chapitre en solo : LE GRAND LARGE, 8 missions de plus (16 en tout) — le port, les moulins, la régate, les dirigeables, la crête, la tempête, le remorquage et la grande bataille. Nouvelles cibles : dirigeables qui croisent dans le ciel, moulins dont les ailes tournent au vent, voiliers en course, cargo chargé de conteneurs. Le menu des missions a un onglet par chapitre ; le chapitre 2 s'ouvre après la mission 8.",
+              "date": "2026-09-25T20:02:24+00:00"
+            },
+            {
               "versionName": "0.3.0",
               "versionCode": 20,
               "engineVersion": "0.5.031",

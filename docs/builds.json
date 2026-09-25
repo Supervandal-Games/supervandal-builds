@@ -408,6 +408,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.28",
+              "versionCode": 51,
+              "engineVersion": "0.5.027",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.28",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.28/cannon-smash-alpha1-v1.28-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 29459820,
+              "sha256": "ff86cec281319c78f3a961197f74188b63d8cdc2755eddc9e203b921b5a78ef0",
+              "notes": "Comptoirs uniques par décor, détaillés et destructibles (fête foraine, campagne, stand de tir, western) : le dessus éclate, les panneaux cassent et révèlent la structure. Comptoir abaissé : l'espace de jeu gagne un quart de l'écran. Stand de tir : les cibles viennent plus près.",
+              "date": "2026-09-25T13:08:13+00:00"
+            },
+            {
               "versionName": "1.27",
               "versionCode": 50,
               "engineVersion": "0.5.025",

@@ -2748,10 +2748,24 @@
       }
     },
     "justice-dogs": {
-      "title": "justice-dogs",
+      "title": "Justice Dogs",
       "tracks": {
         "alpha1": {
           "builds": [
+            {
+              "versionName": "0.2.0",
+              "versionCode": 2,
+              "engineVersion": "0.5.029",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "justice-dogs-android-alpha1-v0.2.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-v0.2.0/justice-dogs-alpha1-v0.2.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-latest/justice-dogs-alpha1.apk",
+              "size": 22389744,
+              "sha256": "95ada4b22b4bbeac25db8c7df274ae6855b94285743a017340d171c3bd773826",
+              "notes": "Virage punk (R3) : look vidéo de skate VX1000 (fisheye, grain, caméra à l'épaule, brume), décors salis et taggés, voiture beaucoup plus rapide avec drifts et bullet time sur les grosses rencontres (passage en trombe sur les petites), une mini-cinématique au début et à la fin de chaque niveau.",
+              "date": "2026-09-25T14:31:19+00:00"
+            },
             {
               "versionName": "0.1.0",
               "versionCode": 1,

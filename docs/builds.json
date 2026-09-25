@@ -6,6 +6,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.7.0",
+              "versionCode": 11,
+              "engineVersion": "0.5.030",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "coaster-train-android-alpha1-v0.7.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.7.0/coaster-train-alpha1-v0.7.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-latest/coaster-train-alpha1.apk",
+              "size": 22126088,
+              "sha256": "b1fe82ee063e34d8aa384b9c5f24debb9cefcc9c06b85906ff8619499cf4a81c",
+              "notes": "Niveaux v3 : 13 vraies montagnes russes (coaster familial, bois, looper, souris sauvage, train de la mine, hyper, alpin...), 100 à 170 s, montées à chaîne (cliquetis), chutes, bosses d'airtime, loopings, tire-bouchons, hélices en profondeur, splashes ; puissance propre à chaque niveau ; caméra v3 sur rail qui respire, recule avec 16 wagons et joue des moments (plan large, passage au premier plan) ; passagers en 3 poses (calme, sensations, panique) ; les inversions sont des sensations, pas de l'inconfort ; AO corrigée sur tous les décors.",
+              "date": "2026-09-25T15:39:34+00:00"
+            },
+            {
               "versionName": "0.6.0",
               "versionCode": 10,
               "engineVersion": "0.5.025",

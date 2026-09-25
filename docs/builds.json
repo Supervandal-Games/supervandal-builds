@@ -422,6 +422,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.30",
+              "versionCode": 53,
+              "engineVersion": "0.5.029",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.30",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.30/cannon-smash-alpha1-v1.30-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 29603696,
+              "sha256": "0a5496036445c9a8d0e26ebb7e756fa0d11dddba250e244d4d7cd48a7fdc62d9",
+              "notes": "Campagne : l'épouvantail meurt aussi au corps (bras/jambes 25, corps 50, tête 100) ; le lapin : corps 50, tête 100 et démembrement ; assiettes deux fois plus rapides et plus faciles à toucher.",
+              "date": "2026-09-25T15:30:59+00:00"
+            },
+            {
               "versionName": "1.29",
               "versionCode": 52,
               "engineVersion": "0.5.029",

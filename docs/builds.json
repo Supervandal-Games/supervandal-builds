@@ -366,6 +366,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.24",
+              "versionCode": 47,
+              "engineVersion": "0.5.012",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.24",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.24/cannon-smash-alpha1-v1.24-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 28107544,
+              "sha256": "2706373aba6b70c9cc05eee3460121a8eddf31f2b239eebfaa24de2297dcce36",
+              "notes": "Western : le duel s'arrête dès le dernier bandit réglé. Chrono au millième : le bandit est reconnu dès que son bras armé bouge, le temps part à la fin du geste. Revolvers pointés sur toi, cerclés de rouge. Quatre vrais bouquets (un seul rouge). Carte de victoire : réflexe moyen.",
+              "date": "2026-09-25T02:49:09+00:00"
+            },
+            {
               "versionName": "1.23",
               "versionCode": 46,
               "engineVersion": "0.5.010",

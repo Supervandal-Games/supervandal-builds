@@ -1035,6 +1035,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.14.0",
+              "versionCode": 24,
+              "engineVersion": "0.5.012",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "squishy-ball-android-alpha1-v0.14.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-v0.14.0/squishy-ball-alpha1-v0.14.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-latest/squishy-ball-alpha1.apk",
+              "size": 15734356,
+              "sha256": "89bd7ba9013bc5ca31fd8ce5aa255d7222f6b66bf51e80a65ff7139d39dbb5fc",
+              "notes": "Des vitres sur l'acide : on roule dessus, on voit l'acide dessous. Cadre d'acier pour voir où elles s'arrêtent, reflets cartoon qui glissent quand on penche et s'effacent. Les niveaux de la fin sont un peu plus accessibles : fonds de puits vitrés (niveaux 9, 12, 13, 15, 23, 24), demi-vitres sur les traversées à plat (8, 13, 15, 17, 19, 25), un peu moins d'acide aux niveaux 15, 16 et 17.",
+              "date": "2026-09-25T03:08:01+00:00"
+            },
+            {
               "versionName": "0.13.0",
               "versionCode": 23,
               "engineVersion": "0.5.009",

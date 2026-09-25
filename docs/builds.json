@@ -366,6 +366,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.23",
+              "versionCode": 46,
+              "engineVersion": "0.5.010",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.23",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.23/cannon-smash-alpha1-v1.23-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 28043464,
+              "sha256": "d3c314beeb62803d86d59ffa491ae211ea19ef3c5746c75f9d9ce30892f5e103",
+              "notes": "Les décors se mélangent : fini les dix duels western d'affilée, jamais deux fois le même décor de suite. Les niveaux 1 à 4 montrent chacun un décor : fête foraine, campagne, stand de tir, western.",
+              "date": "2026-09-25T02:14:23+00:00"
+            },
+            {
               "versionName": "1.22",
               "versionCode": 45,
               "engineVersion": "0.5.009",

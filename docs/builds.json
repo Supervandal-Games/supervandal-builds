@@ -2560,6 +2560,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.5.0",
+              "versionCode": 9,
+              "engineVersion": "0.5.027",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "rocket-flow-android-alpha1-v0.5.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rocket-flow-android-alpha1-v0.5.0/rocket-flow-alpha1-v0.5.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rocket-flow-android-alpha1-latest/rocket-flow-alpha1.apk",
+              "size": 14117608,
+              "sha256": "677372d4582d11866caa9f7d3922ab57046a247abed737031b7ce1a98340edc4",
+              "notes": "Rendu repense pour la lumiere lineaire du moteur : le ciel eclaire le monde (dessus, horizon, dessous), les lisers suivent le ciel, les tetes de barres s'allument au rythme (bloom HDR), overdrive en nuit neon, explosion de feu, humeurs du jour cle chaude et remplissage froid, ombres des modeles restaurees.",
+              "date": "2026-09-25T13:05:42+00:00"
+            },
+            {
               "versionName": "0.4.2",
               "versionCode": 8,
               "engineVersion": "0.5.014",

@@ -2826,6 +2826,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.7.0",
+              "versionCode": 11,
+              "engineVersion": "0.5.033",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "rocket-flow-android-alpha1-v0.7.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rocket-flow-android-alpha1-v0.7.0/rocket-flow-alpha1-v0.7.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rocket-flow-android-alpha1-latest/rocket-flow-alpha1.apk",
+              "size": 14537488,
+              "sha256": "fd7f4644f3388e0bd78d23ef2d1fb2420ed451f6b47281e5cd97468e3f914877",
+              "notes": "L'EDITEUR DE TRACKS : TRACKS > MES TRACKS > + NOUVELLE TRACK. Touche la bande pour poser un instrument (le meme une 2e fois l'enleve), glisse pour monter, ZOOM. Arrivee, rubans de plein, zones de melodie, feuille MESURE (copier, coller, inserer, grooves du jeu), annuler, options (tempo, depart, pack, ambiance). ECOUTER joue la track par la vraie simulation ; ESSAI EN VOL la vole et la touche EDITEUR ramene a l'endroit du crash. 16 tracks sauvegardees.",
+              "date": "2026-09-25T18:09:40+00:00"
+            },
+            {
               "versionName": "0.6.0",
               "versionCode": 10,
               "engineVersion": "0.5.031",

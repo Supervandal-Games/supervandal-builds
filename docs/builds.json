@@ -1357,6 +1357,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.23.1",
+              "versionCode": 35,
+              "engineVersion": "0.5.034",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "squishy-ball-android-alpha1-v0.23.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-v0.23.1/squishy-ball-alpha1-v0.23.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-latest/squishy-ball-alpha1.apk",
+              "size": 17244888,
+              "sha256": "28dad100c5f7470454fb0257360b3f2905bda856b025de6a0a6ef54209d89d51",
+              "notes": "MSAA explicitement désactivé (1 échantillon, PC et Android). Rien d'autre ne change par rapport à 0.23.0 (bumpers à ressort).",
+              "date": "2026-09-26T11:51:10+00:00"
+            },
+            {
               "versionName": "0.23.0",
               "versionCode": 34,
               "engineVersion": "0.5.034",

@@ -2980,6 +2980,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.8.1",
+              "versionCode": 13,
+              "engineVersion": "0.5.034",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "rocket-flow-android-alpha1-v0.8.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rocket-flow-android-alpha1-v0.8.1/rocket-flow-alpha1-v0.8.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rocket-flow-android-alpha1-latest/rocket-flow-alpha1.apk",
+              "size": 14570048,
+              "sha256": "e7b95c0f71e1ae8e1c25c7c052692a561669270ec2ecc2a20d8d0e8eebc9c4b0",
+              "notes": "Fluidité à 60 images/s : le temps de chaque image est calé sur l'écran (la colonne ne tremble plus), et la flamme ne décroche plus de la tuyère une image sur deux. 120 images/s inchangé.",
+              "date": "2026-09-26T10:55:18+00:00"
+            },
+            {
               "versionName": "0.8.0",
               "versionCode": 12,
               "engineVersion": "0.5.034",

@@ -3092,6 +3092,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.8.3",
+              "versionCode": 15,
+              "engineVersion": "0.5.034",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "rocket-flow-android-alpha1-v0.8.3",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rocket-flow-android-alpha1-v0.8.3/rocket-flow-alpha1-v0.8.3-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rocket-flow-android-alpha1-latest/rocket-flow-alpha1.apk",
+              "size": 14611704,
+              "sha256": "e6985cc2cd1d23398096ed9b69c7c760b9ef7a3738236cb393e651572f0641f5",
+              "notes": "Menus repensés : le titre montre les modes (Monde du jour, TRACKS, ÉDITEUR, réglages, TOP) ; les tracks en cartes (tempo, départ, longueur, meilleur temps) ; une fiche sur le pas de tir ; SUIVANTE après une track finie ; RECOMMENCER dans la pause ; retour à la liste depuis le rapport.",
+              "date": "2026-09-26T14:07:54+00:00"
+            },
+            {
               "versionName": "0.8.2",
               "versionCode": 14,
               "engineVersion": "0.5.034",

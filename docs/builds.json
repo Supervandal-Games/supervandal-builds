@@ -222,6 +222,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.5.0",
+              "versionCode": 22,
+              "engineVersion": "0.5.034",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "not-rocket-science-android-alpha1-v0.5.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/not-rocket-science-android-alpha1-v0.5.0/not-rocket-science-alpha1-v0.5.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/not-rocket-science-android-alpha1-latest/not-rocket-science-alpha1.apk",
+              "size": 17900901,
+              "sha256": "00d685f41ca060b10a9efb59e0dfefb97b81ff0a94f5ad62ce6d7ea655702b15",
+              "notes": "Plus aucun écran figé : les missions se chargent en arrière-plan avec une barre de progression, le menu d'accueil répond tout de suite et l'arène apparaît en fondu (le moteur dessine maintenant le terrain par régions : bien moins d'appels de dessin, plus de FPS). Flou de vitesse pendant le vol de l'obus, plus fort en accéléré x3, et un coup de flou à l'impact. Le duel a maintenant des arbres autour des canons, que les obus renversent. Le retour du solo ramène l'arène derrière le menu.",
+              "date": "2026-09-26T10:27:22+00:00"
+            },
+            {
               "versionName": "0.4.0",
               "versionCode": 21,
               "engineVersion": "0.5.034",

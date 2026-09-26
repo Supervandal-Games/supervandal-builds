@@ -2591,6 +2591,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "2.16",
+              "versionCode": 21,
+              "engineVersion": "0.5.034",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "superdiscount-delivery-android-alpha1-v2.16",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superdiscount-delivery-android-alpha1-v2.16/superdiscount-delivery-alpha1-v2.16-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superdiscount-delivery-android-alpha1-latest/superdiscount-delivery-alpha1.apk",
+              "size": 19661616,
+              "sha256": "6fcc88896eecdcf28cc5b2a18e618204071e4e6bd078f23bfcf7e76564d80b7a",
+              "notes": "Rendu : lumiere du ciel et du sol (les vehicules ont un dessus et un dessous), vrais reflets du ciel sur la peinture et le chrome, liseré doux autour des vehicules et des pietons, anti-crenelage MSAA 4x (bords nets sans flouter les textes). Flou de vitesse : au-dela de 70 km/h le decor file autour du camion.",
+              "date": "2026-09-26T10:02:56+00:00"
+            },
+            {
               "versionName": "2.15",
               "versionCode": 20,
               "engineVersion": "0.5.031",

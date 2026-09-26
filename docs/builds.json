@@ -6,6 +6,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.8.0",
+              "versionCode": 15,
+              "engineVersion": "0.5.034",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "coaster-train-android-alpha1-v0.8.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.8.0/coaster-train-alpha1-v0.8.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-latest/coaster-train-alpha1.apk",
+              "size": 23235912,
+              "sha256": "221f6bfc7f64d7670ec287a101de62a09e64c005dbf0181d162af526cfc79998",
+              "notes": "Build de test 0.8.0 - moteur v0.5.034.",
+              "date": "2026-09-26T10:02:38+00:00"
+            },
+            {
               "versionName": "0.7.3",
               "versionCode": 14,
               "engineVersion": "0.5.033",

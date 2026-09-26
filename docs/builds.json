@@ -3355,6 +3355,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.8.0",
+              "versionCode": 10,
+              "engineVersion": "0.5.039",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "justice-dogs-android-alpha1-v0.8.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-v0.8.0/justice-dogs-alpha1-v0.8.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-latest/justice-dogs-alpha1.apk",
+              "size": 45752952,
+              "sha256": "6862a9e7829e985955fb60833c6dbbdcad0b340cce51133f123cc1fbd9634be4",
+              "notes": "Nouveaux lieux : la Ruelle des Chats (escaliers de secours, grillage, la bande qui sort du garage quand le rideau se lève), le Square Canin (haies, vieux arbres, fontaine, kiosque) et le Super Croc (parking, vitrine qu'on traverse à la balle, tireurs sur le toit). Nouveaux ennemis : fuyards qui traversent le cadre avec le butin, taupes qui passent d'une haie à l'autre, bandits penchés derrière les troncs, bande qui marche droit sur vous. Mission 6 : panique au supermarché. Plus fluide : le trottoir d'en face n'est plus chargé en jeu.",
+              "date": "2026-09-26T20:40:08+00:00"
+            },
+            {
               "versionName": "0.7.0",
               "versionCode": 9,
               "engineVersion": "0.5.035",

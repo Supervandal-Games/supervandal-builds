@@ -1914,6 +1914,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.34.0",
+              "versionCode": 50,
+              "engineVersion": "0.5.034",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "pinball-breaker-android-alpha1-v0.34.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.34.0/pinball-breaker-alpha1-v0.34.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
+              "size": 25095584,
+              "sha256": "3fe791ab93db4024bf57148531d427638c84a188f9d54edd0a91cce538743c22",
+              "notes": "3 MACHINES ! JOUER ouvre la rangee des flippers : NEON (rampe metallique a chaque etage, glitch), FONDERIE (poches de verrouillage et multibille, briques explosives) et ABYSSES (tubes qui lachent la bille au sommet du mur). Battez les 3 boss d'une machine pour debloquer la suivante. Chaque machine a son plateau, ses couleurs, ses niveaux et ses bumpers. La rampe n'aspire plus : il faut un vrai tir, et un poteau sort de la table pour la fermer.",
+              "date": "2026-09-26T13:32:23+00:00"
+            },
+            {
               "versionName": "0.33.0",
               "versionCode": 49,
               "engineVersion": "0.5.034",

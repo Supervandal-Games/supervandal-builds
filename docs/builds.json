@@ -264,6 +264,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.7.0",
+              "versionCode": 24,
+              "engineVersion": "0.5.035",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "not-rocket-science-android-alpha1-v0.7.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/not-rocket-science-android-alpha1-v0.7.0/not-rocket-science-alpha1-v0.7.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/not-rocket-science-android-alpha1-latest/not-rocket-science-alpha1.apk",
+              "size": 18360325,
+              "sha256": "cbfb18bde3553e099948df5cfa206a1547f5989e3f02d5c201876a010aafb40e",
+              "notes": "Passe de polish sur la visée, plus discrète et plus lisible : les commandes deviennent trois pilules de verre fumé aux flèches fines, chaque nombre au-dessus de sa commande (toujours une décimale, direction signée), FEU et la munition dans la même famille. Les messages arrivent en fondu dans le tiers haut, « NOUVEAU » s'éteint seul après 3 s, la ligne du dernier tir et la consigne du duel sont posées sur une pastille lisible. Marqueurs de cibles plus fins, distances empilées au lieu de se chevaucher, un anneau là où est tombé le dernier obus, vitesse et altitude discrètes sous la barre du haut, chargement sur fond encre. Duel : plus de chiffres de débogage en haut à gauche. Moteur 0.5.035 : en ligne, les points de vie sont tenus par l'hôte.",
+              "date": "2026-09-26T17:07:55+00:00"
+            },
+            {
               "versionName": "0.6.0",
               "versionCode": 23,
               "engineVersion": "0.5.034",

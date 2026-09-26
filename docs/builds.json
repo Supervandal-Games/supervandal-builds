@@ -3173,6 +3173,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.5.0",
+              "versionCode": 7,
+              "engineVersion": "0.5.034",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "justice-dogs-android-alpha1-v0.5.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-v0.5.0/justice-dogs-alpha1-v0.5.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-latest/justice-dogs-alpha1.apk",
+              "size": 26933272,
+              "sha256": "235f724a3efb7526754ac23ab272c3de704a947983c78088fc90b6a90ce6f4aa",
+              "notes": "Lisibilité et finitions : les bandits apparaissent plus près et plus grands, la voiture ralentit tant qu'un bandit est debout, la première vague surgit dans la glissade au ralenti ; aux fenêtres et aux balcons, les bandits s'accroupissent au lieu de glisser et tomber ; chaque scène tient dans l'écran ; l'étoile du tir tombe sur l'impact ; textes centrés dans leurs capsules ; nouveaux menus Quotidien, Boutique, Profil et Classement façon Cannon Smash ; une collection de 8 trophées du commissariat.",
+              "date": "2026-09-26T11:38:05+00:00"
+            },
+            {
               "versionName": "0.4.0",
               "versionCode": 6,
               "engineVersion": "0.5.034",

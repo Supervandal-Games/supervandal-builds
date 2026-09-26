@@ -3313,6 +3313,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.6.0",
+              "versionCode": 8,
+              "engineVersion": "0.5.034",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "justice-dogs-android-alpha1-v0.6.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-v0.6.0/justice-dogs-alpha1-v0.6.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-latest/justice-dogs-alpha1.apk",
+              "size": 26931356,
+              "sha256": "3fa004874833732f8b1754633e6d71e81837ea26db9bd6833e9aadbfaa35a5c6",
+              "notes": "Nouveau rythme : chaque mission enchaîne des moments pour rouler, des travellings lents le long des façades où les bandits surgissent aux fenêtres, et des arrêts face à un immeuble où la caméra ne bouge plus (embuscades et braquage, façon stand de tir). Fini le yo-yo et le zoom de la caméra, ennemis bien plus grands à l'écran, image plus nette. Nouveaux panneaux : étiquette verte ARRÊTÉ ! ou orange NEUTRALISÉ ! avec les points, rouge pour un civil touché ou un tir encaissé.",
+              "date": "2026-09-26T14:18:43+00:00"
+            },
+            {
               "versionName": "0.5.0",
               "versionCode": 7,
               "engineVersion": "0.5.034",

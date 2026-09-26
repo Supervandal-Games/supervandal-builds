@@ -2675,6 +2675,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "2.17",
+              "versionCode": 22,
+              "engineVersion": "0.5.034",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "superdiscount-delivery-android-alpha1-v2.17",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superdiscount-delivery-android-alpha1-v2.17/superdiscount-delivery-alpha1-v2.17-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superdiscount-delivery-android-alpha1-latest/superdiscount-delivery-alpha1.apk",
+              "size": 19661572,
+              "sha256": "b513ef1e9e4da65da8ac79c5884221f40056e41db7ad6645b49237538207c1c5",
+              "notes": "Anti-crenelage MSAA desactive (retour au lissage FXAA de la 2.15). Le reste du rendu de la 2.16 est inchange.",
+              "date": "2026-09-26T11:50:32+00:00"
+            },
+            {
               "versionName": "2.16",
               "versionCode": 21,
               "engineVersion": "0.5.034",

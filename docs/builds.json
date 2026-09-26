@@ -3341,6 +3341,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.7.0",
+              "versionCode": 9,
+              "engineVersion": "0.5.035",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "justice-dogs-android-alpha1-v0.7.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-v0.7.0/justice-dogs-alpha1-v0.7.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-latest/justice-dogs-alpha1.apk",
+              "size": 27095184,
+              "sha256": "9c4066a65309d4e297b0930d8f419c488765c2232b463d0c14312c2117c29982",
+              "notes": "Choisis ta mission : la pastille de l'accueil ouvre l'écran MISSIONS, toute mission déjà atteinte se rejoue (étoiles gagnées, cadenas sur la suite). Nouvelle touche pause en partie : REPRENDRE, RECOMMENCER, ACCUEIL. Les boutons s'enfoncent avec leur texte ; quêtes accomplies à jauge pleine ; plus de ligne vide au classement ; le tampon du rapport ne cache plus les étoiles.",
+              "date": "2026-09-26T16:52:04+00:00"
+            },
+            {
               "versionName": "0.6.0",
               "versionCode": 8,
               "engineVersion": "0.5.034",

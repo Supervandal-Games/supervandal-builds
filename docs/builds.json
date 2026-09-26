@@ -1343,6 +1343,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.23.0",
+              "versionCode": 34,
+              "engineVersion": "0.5.034",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "squishy-ball-android-alpha1-v0.23.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-v0.23.0/squishy-ball-alpha1-v0.23.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-latest/squishy-ball-alpha1.apk",
+              "size": 17244960,
+              "sha256": "1167638e53e6f61ffd7a6c9cc471d209fb61dbb9636c0fe8d0a4dcd416b1ea01",
+              "notes": "Bumpers à ressort : il faut les POUSSER avec le poids de la balle (pencher vers eux, ou arriver vite dessus) ; les frôler ne fait rien. Collé devant en appuyant, il cogne quand même, pof pof, deux fois par seconde : la balle s'étire et revient. Décolle-toi au bon moment pour être lancé. Vaut aussi pour les plots ronds du flipper.",
+              "date": "2026-09-26T10:31:17+00:00"
+            },
+            {
               "versionName": "0.22.0",
               "versionCode": 33,
               "engineVersion": "0.5.034",

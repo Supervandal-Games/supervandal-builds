@@ -278,6 +278,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.8.0",
+              "versionCode": 27,
+              "engineVersion": "0.5.046",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "not-rocket-science-android-alpha1-v0.8.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/not-rocket-science-android-alpha1-v0.8.0/not-rocket-science-alpha1-v0.8.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/not-rocket-science-android-alpha1-latest/not-rocket-science-alpha1.apk",
+              "size": 23299554,
+              "sha256": "3e6da5fae7be668bab03f8fa5ac242c82c5e5798330d0bd4372772173b351e60",
+              "notes": "Labo, étape 1 : les pièces se vissent… ou pas. Une bride se visse sur une bride ; un boulet ne se visse à rien. Quatre boulets dans le tube partent en un seul tir, se percutent à la sortie et partent en gerbe, en vraie physique ; chacun coûte un obus. Le labo montre les joints vissés (bande ambre) et le nombre de corps. En haut à droite du labo, l'interrupteur ALPHA : TOUT OUVERT (toutes les pièces, par défaut) ou PROGRESSION (pièces à rencontrer en mission). Moteur 0.5.046.",
+              "date": "2026-09-27T18:09:07+00:00"
+            },
+            {
               "versionName": "0.7.2",
               "versionCode": 26,
               "engineVersion": "0.5.046",

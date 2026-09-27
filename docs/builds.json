@@ -264,6 +264,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.7.2",
+              "versionCode": 26,
+              "engineVersion": "0.5.046",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "not-rocket-science-android-alpha1-v0.7.2",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/not-rocket-science-android-alpha1-v0.7.2/not-rocket-science-alpha1-v0.7.2-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/not-rocket-science-android-alpha1-latest/not-rocket-science-alpha1.apk",
+              "size": 23242530,
+              "sha256": "cfa276343283ce933debe13ccef6e8a842f87bc348be07e30d7558f82c3ad4e4",
+              "notes": "Console de visée plus compacte et plus discrète : textes et boutons réduits d'un cran, le nombre de chaque commande dans sa pilule, FEU devient un disque rouge. La munition passe dans un petit bouton rond à côté de FEU (l'icône seule) qui ouvre un menu : chaque munition avec son nom et son coût (obus en solo, tours de recharge en duel), un appui pour choisir. Plus de terrain visible au-dessus des commandes. Moteur 0.5.046.",
+              "date": "2026-09-27T13:03:45+00:00"
+            },
+            {
               "versionName": "0.7.1",
               "versionCode": 25,
               "engineVersion": "0.5.043",

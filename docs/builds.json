@@ -1497,6 +1497,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.24.2",
+              "versionCode": 39,
+              "engineVersion": "0.5.046",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "squishy-ball-android-alpha1-v0.24.2",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-v0.24.2/squishy-ball-alpha1-v0.24.2-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-latest/squishy-ball-alpha1.apk",
+              "size": 57880889,
+              "sha256": "d154982f59a2aa539a54a962c3b3a8f2f19c0253e34f327c770037a4cf2c4258",
+              "notes": "Correction : les niveaux se débloquent de nouveau au-delà du niveau 4 (le projet croyait n'en avoir que 3). Les anciennes sauvegardes retrouvent tous les niveaux déjà réussis, plus le suivant.",
+              "date": "2026-09-27T14:01:28+00:00"
+            },
+            {
               "versionName": "0.24.1",
               "versionCode": 38,
               "engineVersion": "0.5.046",

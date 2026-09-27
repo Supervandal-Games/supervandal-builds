@@ -1455,6 +1455,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.23.2",
+              "versionCode": 36,
+              "engineVersion": "0.5.042",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "squishy-ball-android-alpha1-v0.23.2",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-v0.23.2/squishy-ball-alpha1-v0.23.2-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-latest/squishy-ball-alpha1.apk",
+              "size": 57817104,
+              "sha256": "1900943e9ae22fda7e500dea70b8887aa719a5137d00af279afc3791d76d8c7c",
+              "notes": "Bumpers : ils tapent DÈS la première poussée (plus d'attente avant le premier coup) et sont beaucoup plus sensibles (une légère inclinaison vers eux ou une arrivée même lente suffit). L'attente de 0,5 s vient après le coup. Les frôler ne fait toujours rien.",
+              "date": "2026-09-27T10:00:02+00:00"
+            },
+            {
               "versionName": "0.23.1",
               "versionCode": 35,
               "engineVersion": "0.5.034",

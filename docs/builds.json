@@ -2026,6 +2026,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.37.1",
+              "versionCode": 55,
+              "engineVersion": "0.5.046",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "pinball-breaker-android-alpha1-v0.37.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.37.1/pinball-breaker-alpha1-v0.37.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
+              "size": 32957197,
+              "sha256": "5abc9e638df407a3a375969becc4ee65d83306015885143c880e9fe2452f276c",
+              "notes": "Bumpers toujours symetriques par rapport a la table (un seul = au centre, deux = en miroir), et trois bumpers seulement au dernier tour.",
+              "date": "2026-09-27T13:49:15+00:00"
+            },
+            {
               "versionName": "0.37.0",
               "versionCode": 54,
               "engineVersion": "0.5.046",

@@ -1984,6 +1984,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.37.0",
+              "versionCode": 54,
+              "engineVersion": "0.5.046",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "pinball-breaker-android-alpha1-v0.37.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.37.0/pinball-breaker-alpha1-v0.37.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
+              "size": 32957197,
+              "sha256": "d58ba750df3b22f4b47768149d15e3b8bfb8bb5c7754017ab2888c85b946d855",
+              "notes": "KICKBACKS COMPTES : un bloc cyan se dresse dans chaque gouttiere avec son nombre de charges dessous (corail a 0). Chaque brique kickback ajoute +1 des deux cotes (9 max). BALL SAVER : les secondes s'additionnent (99 max) et le compte a rebours est incruste au centre de la table.",
+              "date": "2026-09-27T12:49:16+00:00"
+            },
+            {
               "versionName": "0.36.0",
               "versionCode": 53,
               "engineVersion": "0.5.044",

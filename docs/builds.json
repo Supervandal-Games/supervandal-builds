@@ -3330,6 +3330,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.9.0",
+              "versionCode": 17,
+              "engineVersion": "0.5.046",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "rocket-flow-android-alpha1-v0.9.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rocket-flow-android-alpha1-v0.9.0/rocket-flow-alpha1-v0.9.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rocket-flow-android-alpha1-latest/rocket-flow-alpha1.apk",
+              "size": 22326385,
+              "sha256": "427020f175ca000061de8611c83fd018f8eff294ed2e24e500c6def13a0b5fbc",
+              "notes": "Le HANGAR (touche FUSÉE du titre) : choisis ta fusée, repeins-la (16 teintes par peinture, ORIGINE). 14 fusées, 9 nouvelles : Mercure, Saturne, Soyouz, Faucon, Chien, Diamant, Atome, Cochon (il éclate en pièces), Vostok. Chacune a sa flamme (jusqu'à 5 tuyères), ses particules et sa lumière ; Banana, Bullfrog, Dart et V2 ont leurs propres sons moteur. Nouvelle échelle : Dart 500 m, V2 1 km, Banana 1,5 km, Mercure 2 km...",
+              "date": "2026-09-27T14:19:25+00:00"
+            },
+            {
               "versionName": "0.8.4",
               "versionCode": 16,
               "engineVersion": "0.5.044",

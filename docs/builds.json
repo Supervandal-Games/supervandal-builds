@@ -3190,6 +3190,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.8.4",
+              "versionCode": 16,
+              "engineVersion": "0.5.044",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "rocket-flow-android-alpha1-v0.8.4",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rocket-flow-android-alpha1-v0.8.4/rocket-flow-alpha1-v0.8.4-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rocket-flow-android-alpha1-latest/rocket-flow-alpha1.apk",
+              "size": 20459953,
+              "sha256": "0945cf3e9ce23071c2f27c614ef06e66fcc7a6e1053406a3ef02934ef5454aef",
+              "notes": "Tempo : le jeu vit sur l'horloge et le BPM central du moteur. Batterie et mélodie sont placées sur le temps, à l'échantillon près (plus de décalage d'une image). La loupiote du cockpit bat la mesure (sur le pas de tir aussi), premier temps plus fort.",
+              "date": "2026-09-27T11:51:31+00:00"
+            },
+            {
               "versionName": "0.8.3",
               "versionCode": 15,
               "engineVersion": "0.5.034",

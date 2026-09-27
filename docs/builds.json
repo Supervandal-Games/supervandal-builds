@@ -3551,6 +3551,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.9.1",
+              "versionCode": 13,
+              "engineVersion": "0.5.046",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "justice-dogs-android-alpha1-v0.9.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-v0.9.1/justice-dogs-alpha1-v0.9.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-latest/justice-dogs-alpha1.apk",
+              "size": 45629301,
+              "sha256": "ae72006dd14b8a1a4a8ae378f4e054a39420b278021ef459935092511e96e32e",
+              "notes": "Retours sur la 0.9.0 : quand la poursuite est réglée (aucun fuyard, ou le dernier arrêté ou enfui), la mission se termine aussitôt — fini le trottoir vide. Le bouton pause passe tout en haut à gauche, loin du pouce qui tire. Plus aucun ralenti quand on touche une cible : le son d'arrestation monte d'un cran à chaque maillon de la série, et le dernier bandit d'une vague sonne un petit carillon.",
+              "date": "2026-09-27T14:09:18+00:00"
+            },
+            {
               "versionName": "0.9.0",
               "versionCode": 12,
               "engineVersion": "0.5.046",

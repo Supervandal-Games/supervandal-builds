@@ -3719,6 +3719,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.15.0",
+              "versionCode": 19,
+              "engineVersion": "0.5.047",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "justice-dogs-android-alpha1-v0.15.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-v0.15.0/justice-dogs-alpha1-v0.15.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-latest/justice-dogs-alpha1.apk",
+              "size": 58211509,
+              "sha256": "3a86d692f313fcb5a635aecdd3fd9068dae6d3bf8b7ab39a3028bc1429e4229b",
+              "notes": "Nouveau : OPÉRATION CHACAL, un second pack de missions commando (onglet CHACAL dans l'écran MISSIONS, ouvert d'emblée). Les Chacals : chacals, hyènes, sangliers, crocodiles et rats en treillis, béret et fusil ; leurs otages. La piste militaire en drive-by, et la mission 1 : PRENDRE LE CHECKPOINT (la barrière, la guérite, le nid de sacs de sable, les conteneurs, le mirador). Les 7 autres missions du pack arrivent.",
+              "date": "2026-09-27T23:30:42+00:00"
+            },
+            {
               "versionName": "0.14.0",
               "versionCode": 18,
               "engineVersion": "0.5.046",

@@ -3607,6 +3607,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.11.0",
+              "versionCode": 15,
+              "engineVersion": "0.5.046",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "justice-dogs-android-alpha1-v0.11.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-v0.11.0/justice-dogs-alpha1-v0.11.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-latest/justice-dogs-alpha1.apk",
+              "size": 48954293,
+              "sha256": "11634bc2676404bc22cc884fd31898ff1689a53a8bbcdf8f58882f9bcb808353",
+              "notes": "Mission 7 : la TROMPE TOWER. Le gratte-ciel doré : on commence sur le parvis (les lettres géantes, le hall vitré), puis la caméra MONTE le long de la façade jusqu'au sommet (le chef au penthouse, les bureaux éclairés) et redescend par paliers de trois étages jusqu'à la porte. Bandits et employés aux fenêtres éclairées ; les vitres sombres, c'est du décor.",
+              "date": "2026-09-27T15:04:26+00:00"
+            },
+            {
               "versionName": "0.10.0",
               "versionCode": 14,
               "engineVersion": "0.5.046",

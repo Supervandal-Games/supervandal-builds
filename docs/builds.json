@@ -3344,6 +3344,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.10.0",
+              "versionCode": 18,
+              "engineVersion": "0.5.046",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "rocket-flow-android-alpha1-v0.10.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rocket-flow-android-alpha1-v0.10.0/rocket-flow-alpha1-v0.10.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rocket-flow-android-alpha1-latest/rocket-flow-alpha1.apk",
+              "size": 24186029,
+              "sha256": "252c36eed636564f8434066ec4426c06685aa7b672a43adb089135768ae181c6",
+              "notes": "24 fusées ! 10 nouvelles : Comète, Requin, Tsar, Chat, Inox, Poule, Europa, Pieuvre, Navette et la Licorne à 100 km. Chaque fusée a maintenant ses propres sons de moteur (grondement, cri, lancement), sa flamme, ses particules et ses débris : le Cochon éclate en pièces, la Poule en plumes et en œufs, la Pieuvre crache de l'encre, la Licorne laisse une traînée arc-en-ciel. Le gameplay est identique pour toutes : c'est purement visuel.",
+              "date": "2026-09-27T15:01:50+00:00"
+            },
+            {
               "versionName": "0.9.0",
               "versionCode": 17,
               "engineVersion": "0.5.046",

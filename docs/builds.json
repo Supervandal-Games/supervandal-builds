@@ -264,6 +264,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.7.1",
+              "versionCode": 25,
+              "engineVersion": "0.5.043",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "not-rocket-science-android-alpha1-v0.7.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/not-rocket-science-android-alpha1-v0.7.1/not-rocket-science-alpha1-v0.7.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/not-rocket-science-android-alpha1-latest/not-rocket-science-alpha1.apk",
+              "size": 22991454,
+              "sha256": "1f30254c6b83c1a46d78f7095749e0f2d859bc47fe94f1e3e55dd4614fae412e",
+              "notes": "Réexport complet sur le moteur 0.5.043 : la 0.7.0 avait été construite pendant un chantier moteur et pouvait se comporter de travers sur téléphone. Au passage : appuyer sur JOUER ne régénère plus le terrain (fini le long gel au lancement du duel, et on joue bien sur la carte affichée), la molette de visée suit le bon doigt quand deux doigts touchent l'écran, et le moteur apporte ses correctifs Android (tactile multi-doigts et tapes brèves, sortie de l'appli, cadence d'image, scripts du duel identiques à l'éditeur).",
+              "date": "2026-09-27T10:41:57+00:00"
+            },
+            {
               "versionName": "0.7.0",
               "versionCode": 24,
               "engineVersion": "0.5.035",

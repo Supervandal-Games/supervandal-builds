@@ -3607,6 +3607,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.13.0",
+              "versionCode": 17,
+              "engineVersion": "0.5.046",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "justice-dogs-android-alpha1-v0.13.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-v0.13.0/justice-dogs-alpha1-v0.13.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-latest/justice-dogs-alpha1.apk",
+              "size": 51256053,
+              "sha256": "df48214a19d400afb03362a015cecabc30b6a90137104e1acf90970052db45d3",
+              "notes": "Mission 4 : braquage à LA PAUSE, le bureau de poste. Les bandits jaillissent des gros cartons du parvis... et ressortent dans un autre ! Le guichetier en pause sur le pas de la porte (on ne tire pas sur le guichetier), les guichets derrière la vitre (FERMÉ, c'est la pause), la consigne à colis, la camionnette jaune, le chef qui sort par la porte.",
+              "date": "2026-09-27T15:45:16+00:00"
+            },
+            {
               "versionName": "0.12.0",
               "versionCode": 16,
               "engineVersion": "0.5.046",

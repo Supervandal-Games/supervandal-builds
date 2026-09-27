@@ -3355,6 +3355,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.8.1",
+              "versionCode": 11,
+              "engineVersion": "0.5.042",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "justice-dogs-android-alpha1-v0.8.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-v0.8.1/justice-dogs-alpha1-v0.8.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-latest/justice-dogs-alpha1.apk",
+              "size": 47178104,
+              "sha256": "620f6509b33ee4d5fc50ce792f0c29b5a50fb5ae11e4d52253bec44ba11fff57",
+              "notes": "Correctif : la 0.8.0 ne démarrait pas (ses scènes avaient été préparées par une version du moteur plus ancienne que celle du jeu). Contenu identique : la Ruelle des Chats, le Square Canin, le Super Croc et la mission 6 au supermarché.",
+              "date": "2026-09-27T09:56:04+00:00"
+            },
+            {
               "versionName": "0.8.0",
               "versionCode": 10,
               "engineVersion": "0.5.039",

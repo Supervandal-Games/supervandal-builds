@@ -3495,6 +3495,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.9.0",
+              "versionCode": 12,
+              "engineVersion": "0.5.046",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "justice-dogs-android-alpha1-v0.9.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-v0.9.0/justice-dogs-alpha1-v0.9.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-latest/justice-dogs-alpha1.apk",
+              "size": 45628281,
+              "sha256": "88fd918b330df5d49061df42fab895a5989096c57bf31a835f401645ab6d56f2",
+              "notes": "Nouveau schéma de mission en trois temps : le défilement (caméra fixe, cibles sur les trois étages), le décor, puis la poursuite des bandits ratés au décor, qui s'enfuient sur le trottoir parmi les passants (moins de points, temps compté ; aucun fuyard = prime). Fenêtres et balcons refaits : un bandit n'apparaît qu'à une fenêtre ouverte (volets rabattus) ou sort sur un balcon à grille en fer forgé — fini les vitres opaques et les pieds qui dépassent. Décors : Ruelle des Chats (mission 2), Square Canin (3), Super Croc (6) ; braquages de rue provisoires pour 1, 4, 5, 7 et 8 en attendant leurs décors.",
+              "date": "2026-09-27T13:31:38+00:00"
+            },
+            {
               "versionName": "0.8.1",
               "versionCode": 11,
               "engineVersion": "0.5.042",

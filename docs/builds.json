@@ -1984,6 +1984,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.36.0",
+              "versionCode": 53,
+              "engineVersion": "0.5.044",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "pinball-breaker-android-alpha1-v0.36.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.36.0/pinball-breaker-alpha1-v0.36.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
+              "size": 32812109,
+              "sha256": "0dfd6a8cce7ad9b0987f6adb060fc0c06e1e311bc7a04020c257917345eb95ab",
+              "notes": "Nouvelles briques de securite dans chaque niveau : KICKBACK (cyan, recharge les kickbacks - les poteaux charges et le tir sont cyan aussi) et BALL SAVER (chrome au bouclier, une barre nacree s'allume en travers de la goulotte tant qu'il tient). Nombreuses au debut, plus rares ensuite.",
+              "date": "2026-09-27T11:57:31+00:00"
+            },
+            {
               "versionName": "0.35.0",
               "versionCode": 52,
               "engineVersion": "0.5.043",

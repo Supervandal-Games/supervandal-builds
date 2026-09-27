@@ -618,6 +618,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.38",
+              "versionCode": 61,
+              "engineVersion": "0.5.046",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.38",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.38/cannon-smash-alpha1-v1.38-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 68719749,
+              "sha256": "7a064df114d3c4ad4feca64cdd7b6a5d56ef6e71b52f6270b055f4e994c66efb",
+              "notes": "Stand de tir sans arrêt sur image ; ballons plus petits qui se cognent en 3D ; au western, parfois une main tardive (le gun arrive quand on croit que c'est fini) ; décor forain fermé.",
+              "date": "2026-09-27T12:58:07+00:00"
+            },
+            {
               "versionName": "1.37",
               "versionCode": 60,
               "engineVersion": "0.5.034",

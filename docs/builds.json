@@ -3593,6 +3593,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.10.0",
+              "versionCode": 14,
+              "engineVersion": "0.5.046",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "justice-dogs-android-alpha1-v0.10.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-v0.10.0/justice-dogs-alpha1-v0.10.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-latest/justice-dogs-alpha1.apk",
+              "size": 47950581,
+              "sha256": "01161af5d80d9569dd0d23958796d5bb2ebad44fdccd3813d813cd5d459584e7",
+              "notes": "Deux nouveaux décors. Mission 1 : AU BON CROC, la boulangerie — la file du matin devant la vitrine, avec des bandits qui attendent parmi les clients puis dégainent ; les comptoirs derrière les vitrines, le balcon du boulanger, le braqueur qui file avec le sac de croissants. Mission 8 : CRÉDIT CANIN, le casse du siècle — les marches, les bandits qui se penchent derrière les colonnes, la balustrade de l'attique, le hall et son coffre grand ouvert derrière les hautes fenêtres, le chef qui sort par la grande porte.",
+              "date": "2026-09-27T14:34:24+00:00"
+            },
+            {
               "versionName": "0.9.1",
               "versionCode": 13,
               "engineVersion": "0.5.046",

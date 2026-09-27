@@ -1970,6 +1970,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.35.0",
+              "versionCode": 52,
+              "engineVersion": "0.5.043",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "pinball-breaker-android-alpha1-v0.35.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.35.0/pinball-breaker-alpha1-v0.35.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
+              "size": 32733197,
+              "sha256": "4260b2db39c36ea28d24daa33971e9e43fb54d9ac9c6f01a07e3f707e8fbfef7",
+              "notes": "Sortie plus large au debut (4 briques sur le premier tour de NEON), puis de plus en plus etroite ; les sorties sur les cotes se tirent directement au lancer. La rampe est fermee par un petit mur qui sort d'une fente de la table (lampes rouges) et s'y enfonce quand l'objectif est atteint (lampes vertes).",
+              "date": "2026-09-27T10:34:46+00:00"
+            },
+            {
               "versionName": "0.34.1",
               "versionCode": 51,
               "engineVersion": "0.5.042",

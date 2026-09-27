@@ -1497,6 +1497,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.24.1",
+              "versionCode": 38,
+              "engineVersion": "0.5.046",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "squishy-ball-android-alpha1-v0.24.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-v0.24.1/squishy-ball-alpha1-v0.24.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-latest/squishy-ball-alpha1.apk",
+              "size": 57880633,
+              "sha256": "222b8d5eca05e9b7594a0ce784e9715be841dbfac12f1f9cd8d0336d708abd4a",
+              "notes": "Portes : elles suivent de nouveau leur bouton strictement 1 pour 1 (plus de porte grande ouverte à mi-course). Les délais longs et les boutons faciles à enfoncer de la 0.24.0 restent.",
+              "date": "2026-09-27T13:51:05+00:00"
+            },
+            {
               "versionName": "0.24.0",
               "versionCode": 37,
               "engineVersion": "0.5.046",

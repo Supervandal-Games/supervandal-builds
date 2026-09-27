@@ -1970,6 +1970,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.34.1",
+              "versionCode": 51,
+              "engineVersion": "0.5.042",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "pinball-breaker-android-alpha1-v0.34.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.34.1/pinball-breaker-alpha1-v0.34.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
+              "size": 32764084,
+              "sha256": "305aba90618e2f925a5336f7973800fd28d0d01a7562fb5bdbf254d970e0d290",
+              "notes": "Cartes de nouveau nettes et contrastees (plus de voile laiteux ni de halo) ; lumieres des bumpers, lampes et caoutchoucs recalees pour le rendu sRGB. Plus de jetons qui s'envolent du point d'impact (on croyait que la bille se dedoublait) : le compteur pulse a la place.",
+              "date": "2026-09-27T10:14:36+00:00"
+            },
+            {
               "versionName": "0.34.0",
               "versionCode": 50,
               "engineVersion": "0.5.034",

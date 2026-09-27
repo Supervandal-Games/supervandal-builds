@@ -3719,6 +3719,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.16.0",
+              "versionCode": 20,
+              "engineVersion": "0.5.047",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "justice-dogs-android-alpha1-v0.16.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-v0.16.0/justice-dogs-alpha1-v0.16.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-latest/justice-dogs-alpha1.apk",
+              "size": 59963061,
+              "sha256": "08e011cd69ae608125556db6b047c222192ebd33728082554db23776b026b746",
+              "notes": "OPÉRATION CHACAL, missions 2 et 3. L'APPEL DE LA CASERNE : un rang au garde-à-vous sur la place d'armes (des prisonniers, et des Chacals qui dégainent), le dortoir, le balcon de l'officier, le château d'eau. LE PORT DES CONTREBANDIERS : un mur de conteneurs sur trois niveaux, des Chacals qui sortent ou se penchent des portes, le chariot élévateur, le portique, le cargo.",
+              "date": "2026-09-27T23:39:28+00:00"
+            },
+            {
               "versionName": "0.15.0",
               "versionCode": 19,
               "engineVersion": "0.5.047",

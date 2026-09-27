@@ -3607,6 +3607,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.14.0",
+              "versionCode": 18,
+              "engineVersion": "0.5.046",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "justice-dogs-android-alpha1-v0.14.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-v0.14.0/justice-dogs-alpha1-v0.14.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-latest/justice-dogs-alpha1.apk",
+              "size": 52259381,
+              "sha256": "bc998970c6b9c9be69cdd434d333daa8addfec6633caf526ef4138a6b38aeea3",
+              "notes": "Mission 5 : VOL DE CUIVRE au Chantier du siècle. L'échafaudage sur trois planchers (des voleurs y courent avec le cuivre, des ouvriers y marchent : on ne tire pas sur les ouvriers), la palissade (fin des travaux : 1987), le chef qui sort par le portail, et la charge de la grue qui se balance le long de la rue avec un bandit dessus. Les huit missions ont maintenant chacune leur décor.",
+              "date": "2026-09-27T16:02:08+00:00"
+            },
+            {
               "versionName": "0.13.0",
               "versionCode": 17,
               "engineVersion": "0.5.046",

@@ -3607,6 +3607,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.12.0",
+              "versionCode": 16,
+              "engineVersion": "0.5.046",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "justice-dogs-android-alpha1-v0.12.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-v0.12.0/justice-dogs-alpha1-v0.12.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-latest/justice-dogs-alpha1.apk",
+              "size": 50080757,
+              "sha256": "8756e55ccb4254457e33ec17d79d5d0c6bda9e9ad238be96b149a7c18f66ab65",
+              "notes": "Mission 6 : le SUPER CROC EN ANGLE. La voiture prend le virage et s'arrête à mi-virage, face à l'angle : le parking s'ouvre en V jusqu'au magasin (les voitures garées, l'abri à chariots, les caisses derrière la vitrine, le toit), une grande barre d'immeubles derrière, des voleurs qui traversent avec le butin, le chef qui sort par les portes.",
+              "date": "2026-09-27T15:31:03+00:00"
+            },
+            {
               "versionName": "0.11.0",
               "versionCode": 15,
               "engineVersion": "0.5.046",

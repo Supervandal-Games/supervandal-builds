@@ -1483,6 +1483,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.24.0",
+              "versionCode": 37,
+              "engineVersion": "0.5.046",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "squishy-ball-android-alpha1-v0.24.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-v0.24.0/squishy-ball-alpha1-v0.24.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/squishy-ball-android-alpha1-latest/squishy-ball-alpha1.apk",
+              "size": 57880697,
+              "sha256": "86951e998b4840a089677510b05886bf8d7c97bff08b0f10fa3e0dd76b48a44e",
+              "notes": "Portes plus généreuses : les boutons s'enfoncent bien plus facilement (une petite inclinaison suffit), les portes restent ouvertes 2,5 fois plus longtemps, et une porte est grande ouverte dès que son bouton est enfoncé à moitié. Niveaux 21 et 25 : les petits boutons suivis d'un détour sont devenus grands. Caméra : elle suit seulement l'orientation du téléphone ; secouer pousse toujours la balle, mais ne secoue plus l'image.",
+              "date": "2026-09-27T13:01:06+00:00"
+            },
+            {
               "versionName": "0.23.2",
               "versionCode": 36,
               "engineVersion": "0.5.042",

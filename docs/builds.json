@@ -3414,6 +3414,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.11.0",
+              "versionCode": 19,
+              "engineVersion": "0.5.047",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "rocket-flow-android-alpha1-v0.11.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rocket-flow-android-alpha1-v0.11.0/rocket-flow-alpha1-v0.11.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rocket-flow-android-alpha1-latest/rocket-flow-alpha1.apk",
+              "size": 24394541,
+              "sha256": "6a75c2caee916e7b0fd6ea345be163bf03d4bebbcee54054ad26bb6ecc916c8c",
+              "notes": "Musique : la melodie change de genre a chaque km dans l'infini - pop, 8-bit, lo-fi, house, trap, funk/disco, synthwave, reggaeton, et parfois blues, desert, espace ; l'ancienne melodie (zen) ne revient qu'une fois tous les 20 km, jamais au debut. 44 boucles ecrites a la main, chacune avec sa gamme (enfin des demi-tons) et ses accords ; une voix et un kit de batterie par genre. Tracks : un style par track (Premier envol pop, Minuit synthwave, Orbite basse 8-bit, Tambours du soir reggaeton) avec de nouvelles zones de melodie ; editeur : rangee STYLE dans OPTIONS, MOTIF par zone. Les zones de melodie sont environ deux fois moins meurtrieres qu'avant. Records des 4 tracks du jeu et fantomes de l'infini remis a zero (nouvelles partitions).",
+              "date": "2026-09-27T21:03:28+00:00"
+            },
+            {
               "versionName": "0.10.0",
               "versionCode": 18,
               "engineVersion": "0.5.046",

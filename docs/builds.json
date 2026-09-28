@@ -772,6 +772,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.45",
+              "versionCode": 68,
+              "engineVersion": "0.5.048",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.45",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.45/cannon-smash-alpha1-v1.45-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 78556054,
+              "sha256": "fb6b7e0f7bd5aa486f0daa0e2cd9d93e3a945ecd3e0b12eede543d86f0618db6",
+              "notes": "4 univers de 50 niveaux (Foire, Campagne, Western, Stand de tir) ouverts en chaine ; selecteur de niveau (toucher le nom sous JOUER) ; 3 choix a la victoire ; rang mondial a chaque victoire ; ballons et assiettes au loin dans le western.",
+              "date": "2026-09-28T14:50:57+00:00"
+            },
+            {
               "versionName": "1.44",
               "versionCode": 67,
               "engineVersion": "0.5.048",

@@ -758,6 +758,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.40",
+              "versionCode": 63,
+              "engineVersion": "0.5.047",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.40",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.40/cannon-smash-alpha1-v1.40-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 68890949,
+              "sha256": "13632534a7ef0edb1c06b23d07ce924c4c943e33dc9bd0badec459762bd7e990",
+              "notes": "Sniper : un tap, un tir, et un gros bang ; revolver : son propre bang ; stand de tir : impact papier (plus de ding) ; western : jamais moins de deux bandits, plus rythmé, chrono pris à l'appui du doigt, et une figure sans arme touchée est toujours un innocent (le bandit revient plus tard).",
+              "date": "2026-09-28T01:12:16+00:00"
+            },
+            {
               "versionName": "1.39",
               "versionCode": 62,
               "engineVersion": "0.5.046",

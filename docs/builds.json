@@ -772,6 +772,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.41",
+              "versionCode": 64,
+              "engineVersion": "0.5.048",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.41",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.41/cannon-smash-alpha1-v1.41-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 69268997,
+              "sha256": "fc78188b943cd932178e60f276f96dec9f87d34f22672642d204ba7f8f3de59e",
+              "notes": "Sniper et revolver : vrais bangs, audibles sur téléphone (rien sous 150 Hz) ; impact papier audible ; western : les bandits s'enchaînent en continu sur les trois emplacements ; zone de rechargement : recharge toujours, petit clic si plein ; le HUD du haut se traverse.",
+              "date": "2026-09-28T11:16:07+00:00"
+            },
+            {
               "versionName": "1.40",
               "versionCode": 63,
               "engineVersion": "0.5.047",

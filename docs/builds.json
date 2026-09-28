@@ -3512,6 +3512,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.13.0",
+              "versionCode": 21,
+              "engineVersion": "0.5.048",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "rocket-flow-android-alpha1-v0.13.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rocket-flow-android-alpha1-v0.13.0/rocket-flow-alpha1-v0.13.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rocket-flow-android-alpha1-latest/rocket-flow-alpha1.apk",
+              "size": 24802189,
+              "sha256": "c9abf86ffada30a354455153f3cb78684ae74230fe2e5121bd73812a64203f49",
+              "notes": "La basse se joue : quatre cordes a passer dans chaque km de l'infini (750-786 m). Une corde tue pendant l'attaque de sa note (rose), s'allume en ambre juste avant, reste bronze au repos. On entend la basse des le debut du km, on passe les cordes, puis elle s'eteint sur 200 m. Les tracks n'ont plus de basse en attendant l'outil BASSE de l'editeur. Fantomes de l'infini remis a zero.",
+              "date": "2026-09-28T12:03:59+00:00"
+            },
+            {
               "versionName": "0.12.0",
               "versionCode": 20,
               "engineVersion": "0.5.047",

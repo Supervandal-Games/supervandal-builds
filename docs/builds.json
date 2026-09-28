@@ -772,6 +772,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.42",
+              "versionCode": 65,
+              "engineVersion": "0.5.048",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.42",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.42/cannon-smash-alpha1-v1.42-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 69278409,
+              "sha256": "5aafe0d73054555fd4e3f05479b8b971d86189ef87970f48a3a421d397315237",
+              "notes": "Sniper : bang explosif, culasse légère et métallique (4 variantes) ; western : une figure touchée laisse son mécanisme se reposer avant la suivante.",
+              "date": "2026-09-28T12:17:34+00:00"
+            },
+            {
               "versionName": "1.41",
               "versionCode": 64,
               "engineVersion": "0.5.048",

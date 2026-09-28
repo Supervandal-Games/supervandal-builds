@@ -3887,6 +3887,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.24.0",
+              "versionCode": 28,
+              "engineVersion": "0.5.048",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "justice-dogs-android-alpha1-v0.24.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-v0.24.0/justice-dogs-alpha1-v0.24.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-latest/justice-dogs-alpha1.apk",
+              "size": 71924218,
+              "sha256": "047215450c666b392c45290ebb1e8d8602901d154c8bfd89ce85ea94ec372f69",
+              "notes": "Compte Supervandal : PROFIL ouvre la page commune à tous nos jeux (moi, amis, invitations) ; le classement gagne un onglet AMIS et la fiche d'un joueur au toucher d'une ligne. On joue toujours sans compte ; la connexion Google sur téléphone arrive dès que l'appli est déclarée.",
+              "date": "2026-09-28T14:25:33+00:00"
+            },
+            {
               "versionName": "0.23.0",
               "versionCode": 27,
               "engineVersion": "0.5.048",

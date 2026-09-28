@@ -4045,6 +4045,32 @@
           "package": "com.supervandal.justicedogs.alpha1"
         }
       }
+    },
+    "underglow": {
+      "title": "Underglow",
+      "description": "Drift de rue retro, camera au ras du bitume : quatre propositions de rendu, camera, conduite, decor et musique a noter.",
+      "tracks": {
+        "alpha1": {
+          "builds": [
+            {
+              "versionName": "0.1.0",
+              "versionCode": 1,
+              "engineVersion": "0.5.047",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "underglow-android-alpha1-v0.1.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/underglow-android-alpha1-v0.1.0/underglow-alpha1-v0.1.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/underglow-android-alpha1-latest/underglow-alpha1.apk",
+              "size": 22935013,
+              "sha256": "14e44e017e5ad9a07082f8b1da93534f559062602a4351ee2fa0635ab8e4062b",
+              "notes": "Premiere alpha : 4 propositions a noter (A MINUIT, B SEPIA, C CANYON, D VHS 94) + LABO pour croiser les axes. Glisser le pouce braque les roues ; le gaz est automatique.",
+              "date": "2026-09-28T00:12:31+00:00"
+            }
+          ],
+          "appName": "Underglow Alpha 1",
+          "package": "com.supervandal.underglow.alpha1"
+        }
+      }
     }
   }
 }

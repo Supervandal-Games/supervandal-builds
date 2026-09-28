@@ -1,0 +1,19 @@
+{
+  "project": "underglow",
+  "projectTitle": "Underglow",
+  "track": "alpha1",
+  "appName": "Underglow Alpha 1",
+  "package": "com.supervandal.underglow.alpha1",
+  "platform": "android",
+  "versionName": "0.1.0",
+  "versionCode": 1,
+  "engineVersion": "0.5.047",
+  "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/underglow-android-alpha1-v0.1.0/underglow-alpha1-v0.1.0-release.apk",
+  "apkUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/underglow-android-alpha1-v0.1.0/underglow-alpha1-v0.1.0-release.apk",
+  "size": 22935013,
+  "sha256": "14e44e017e5ad9a07082f8b1da93534f559062602a4351ee2fa0635ab8e4062b",
+  "date": "2026-09-28T00:12:31+00:00",
+  "channel": "debug",
+  "notes": "Premiere alpha : 4 propositions a noter (A MINUIT, B SEPIA, C CANYON, D VHS 94) + LABO pour croiser les axes. Glisser le pouce braque les roues ; le gaz est automatique.",
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/underglow/alpha1/"
+}

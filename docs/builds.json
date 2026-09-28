@@ -362,6 +362,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.12.0",
+              "versionCode": 31,
+              "engineVersion": "0.5.048",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "not-rocket-science-android-alpha1-v0.12.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/not-rocket-science-android-alpha1-v0.12.0/not-rocket-science-alpha1-v0.12.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/not-rocket-science-android-alpha1-latest/not-rocket-science-alpha1.apk",
+              "size": 24694622,
+              "sha256": "1a1ba755f8e41eaf07dfbe71ce116939074c94d7025131b703bc08c16ecd1e6a",
+              "notes": "Le labo passe à 8 pièces et reçoit le DÉCOUPLEUR, un outil (comme la chaîne) qui se pose sur n'importe quel joint : il tient les pièces soudées jusqu'à son bouton. En vol, un bouton par découpleur apparaît à gauche de l'écran, numéroté depuis le nez. Seul l'étage du bas brûle ; l'étage du dessus s'allume quand on largue celui du dessous, et l'anneau du bouton respire quand l'étage est vide. On peut aussi lâcher une charge (perforant, obus) depuis une fusée guidée au dernier moment : la caméra reste sur la partie du haut, ce qu'on largue s'éteint. Deux boulets découplés restent soudés jusqu'au bouton. Moteur 0.5.048.",
+              "date": "2026-09-28T18:58:18+00:00"
+            },
+            {
               "versionName": "0.11.0",
               "versionCode": 30,
               "engineVersion": "0.5.048",

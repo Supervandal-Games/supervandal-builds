@@ -4305,6 +4305,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.3.0",
+              "versionCode": 5,
+              "engineVersion": "0.5.048",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "underglow-android-alpha1-v0.3.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/underglow-android-alpha1-v0.3.0/underglow-alpha1-v0.3.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/underglow-android-alpha1-latest/underglow-alpha1.apk",
+              "size": 22774357,
+              "sha256": "42cf296c2928f01e0b9be820ff9249252b84f84dab0e22d0c6e27c889ff8c0b6",
+              "notes": "SIDEGLOW S0 : un seul jeu (TIENS LE FIL). Plus aucun envol : la voiture n'a plus de physique. La route se penche et se tord. Caméra sur le rail, plus basse quand elle penche. Fil à 9°, 3 vies, seul le drift rapporte, TROP SAGE. Records remis à zéro.",
+              "date": "2026-09-28T15:04:12+00:00"
+            },
+            {
               "versionName": "0.2.0",
               "versionCode": 4,
               "engineVersion": "0.5.048",

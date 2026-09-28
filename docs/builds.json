@@ -4455,6 +4455,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.2.0",
+              "versionCode": 2,
+              "engineVersion": "0.5.048",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "super-glider-android-alpha1-v0.2.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/super-glider-android-alpha1-v0.2.0/super-glider-alpha1-v0.2.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/super-glider-android-alpha1-latest/super-glider-alpha1.apk",
+              "size": 19611729,
+              "sha256": "e83f090b947ecd8dd64defd0b0825c2a0cd4f081422d3a436471f33df822ad09",
+              "notes": "Volets et manettes : volets a 3 crans (0 / 15 / 40) vraiment fonctionnels (15 = thermique, plus lent et moins de chute ; 40 = atterrissage, approche raide), manette VOLETS a gauche (pommeau profil d'aile) et manette TRAIN a droite (pommeau roue, voyant vert / ambre, bloquee au sol) : on les saisit au pouce et on les glisse, elles claquent dans leurs crans. Decor provisoire (le couloir aerien arrive en S1).",
+              "date": "2026-09-28T18:48:34+00:00"
+            },
+            {
               "versionName": "0.1.0",
               "versionCode": 1,
               "engineVersion": "0.5.048",

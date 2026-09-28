@@ -3859,6 +3859,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.21.0",
+              "versionCode": 25,
+              "engineVersion": "0.5.048",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "justice-dogs-android-alpha1-v0.21.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-v0.21.0/justice-dogs-alpha1-v0.21.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-latest/justice-dogs-alpha1.apk",
+              "size": 64030709,
+              "sha256": "d53cd946993636197302cb7ae8c3bf5dff91abca2a858b75f15c3d1754e0d154",
+              "notes": "Les pantins tombent en vrai : au coup fatal, la physique prend la main. Six pièces de contreplaqué épais (torse, tête, bras, jambes) reliées par des rotules, projetées en l'air puis qui retombent sur la route, un balcon, derrière un couvert. À la bavure, la tête s'envole ; un fût qui saute démonte tout.",
+              "date": "2026-09-28T12:59:03+00:00"
+            },
+            {
               "versionName": "0.20.0",
               "versionCode": 24,
               "engineVersion": "0.5.048",

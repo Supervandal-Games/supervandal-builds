@@ -800,6 +800,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.47",
+              "versionCode": 70,
+              "engineVersion": "0.5.049",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.47",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.47/cannon-smash-alpha1-v1.47-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 78702758,
+              "sha256": "0726ceeac283c3099c479b12908999efe275de1700c28935638caa5fed917e17",
+              "notes": "Toucher le nom du niveau ouvre le selecteur ; NIVEAU SUIVANT clair, seuls les univers ouverts proposes ; balles du revolver plus rapides ; reflexe du duel mesure depuis le geste ; ballons de la foire hors du comptoir, plus profonds, pousses par l'air ; niveaux plus remplis ; plus de trou au sol en campagne.",
+              "date": "2026-09-28T19:45:49+00:00"
+            },
+            {
               "versionName": "1.46",
               "versionCode": 69,
               "engineVersion": "0.5.048",

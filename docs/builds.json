@@ -4053,6 +4053,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.1.2",
+              "versionCode": 3,
+              "engineVersion": "0.5.047",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "underglow-android-alpha1-v0.1.2",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/underglow-android-alpha1-v0.1.2/underglow-alpha1-v0.1.2-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/underglow-android-alpha1-latest/underglow-alpha1.apk",
+              "size": 22935009,
+              "sha256": "272286f5ac22ddae5543e6adf687923b6dc6326ceeeaa1c22d0b2620d248e590",
+              "notes": "Premiere alpha : 4 propositions a noter (A MINUIT, B SEPIA, C CANYON, D VHS 94) + LABO pour croiser les axes. Glisser le pouce braque les roues ; le gaz est automatique. 0.1.2 : le rendu VHS 94 garde vraiment son ombrage toon sur telephone (0.1.0 et 0.1.1 l'affichaient a plat).",
+              "date": "2026-09-28T00:15:42+00:00"
+            },
+            {
               "versionName": "0.1.1",
               "versionCode": 2,
               "engineVersion": "0.5.047",

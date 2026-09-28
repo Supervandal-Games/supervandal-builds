@@ -772,6 +772,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.46",
+              "versionCode": 69,
+              "engineVersion": "0.5.048",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.46",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.46/cannon-smash-alpha1-v1.46-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 78588374,
+              "sha256": "fcb705eecd5febd4af4db74b641305b6c65ce8b69957cd7627d000e45bab9f9e",
+              "notes": "JOUER ne renvoie plus a la boutique (une defaite ne coute plus de vie pendant l'alpha) ; selecteur de niveaux redessine (onglets et cases plus grands).",
+              "date": "2026-09-28T15:05:17+00:00"
+            },
+            {
               "versionName": "1.45",
               "versionCode": 68,
               "engineVersion": "0.5.048",

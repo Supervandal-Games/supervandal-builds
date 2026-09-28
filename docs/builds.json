@@ -4169,6 +4169,32 @@
           "package": "com.supervandal.underglow.alpha1"
         }
       }
+    },
+    "mow-flow": {
+      "title": "Mow Flow",
+      "description": "Dessine d'un seul trait le chemin de ta tondeuse, lâche, et regarde-la tondre exactement ton geste.",
+      "tracks": {
+        "alpha1": {
+          "builds": [
+            {
+              "versionName": "0.1.0",
+              "versionCode": 1,
+              "engineVersion": "0.5.048",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "mow-flow-android-alpha1-v0.1.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/mow-flow-android-alpha1-v0.1.0/mow-flow-alpha1-v0.1.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/mow-flow-android-alpha1-latest/mow-flow-alpha1.apk",
+              "size": 38135677,
+              "sha256": "e516ae7303d7a947c2f6e76b3017fa182cfd78a479ce78a09fa628ec94836958",
+              "notes": "Première alpha : 25 jardins en France, aux Pays-Bas, en Angleterre, au Japon et au Maroc ; garage de 10 tondeuses et leurs peintures ; classement au centième par niveau.",
+              "date": "2026-09-28T02:04:15+00:00"
+            }
+          ],
+          "appName": "Mow Flow Alpha 1",
+          "package": "com.supervandal.mowflow.alpha1"
+        }
+      }
     }
   }
 }

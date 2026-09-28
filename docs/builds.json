@@ -3873,6 +3873,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.23.0",
+              "versionCode": 27,
+              "engineVersion": "0.5.048",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "justice-dogs-android-alpha1-v0.23.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-v0.23.0/justice-dogs-alpha1-v0.23.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-latest/justice-dogs-alpha1.apk",
+              "size": 64189941,
+              "sha256": "b61e86370f86da2983c8ea052d4a2dcf7ab5bdec2814e3c3ffacdf959c499ada",
+              "notes": "Huit pantins en chute libre à la fois. Passe de son : les pièces de bois claquent en tombant, les fûts ont leur vraie explosion, un boss touché sonne un cran plus haut à chaque balle et tombe sur un coup d'orchestre, la jeep SPEC OPS a son diesel.",
+              "date": "2026-09-28T14:09:22+00:00"
+            },
+            {
               "versionName": "0.22.0",
               "versionCode": 26,
               "engineVersion": "0.5.048",

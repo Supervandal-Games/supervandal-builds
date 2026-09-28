@@ -3761,6 +3761,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.19.0",
+              "versionCode": 23,
+              "engineVersion": "0.5.047",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "justice-dogs-android-alpha1-v0.19.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-v0.19.0/justice-dogs-alpha1-v0.19.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-latest/justice-dogs-alpha1.apk",
+              "size": 64376181,
+              "sha256": "cbef510b05f7ed750158018e30c96b2a1ad660280e01a037e49eefec282321b5",
+              "notes": "OPÉRATION CHACAL est complète : mission 16, le QG du Général. Le Général Chacal fait son discours au balcon de son palais : six coups pour l'interpeller (ses six étoiles en haut de l'écran), pendant que ses gardes arrivent de partout — et sa statue dorée dans la cour.",
+              "date": "2026-09-28T00:55:31+00:00"
+            },
+            {
               "versionName": "0.18.0",
               "versionCode": 22,
               "engineVersion": "0.5.047",

@@ -4303,6 +4303,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.2.0",
+              "versionCode": 2,
+              "engineVersion": "0.5.048",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "mow-flow-android-alpha1-v0.2.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/mow-flow-android-alpha1-v0.2.0/mow-flow-alpha1-v0.2.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/mow-flow-android-alpha1-latest/mow-flow-alpha1.apk",
+              "size": 38256961,
+              "sha256": "2b2cad7cef19ba65504a507af743544e397904a26d5ca2af9d401345e977310c",
+              "notes": "Vue du dessus au grand angle ; angles libres (la tondeuse freine dans les virages serrés) ; un obstacle se contourne, le choc se paie selon la vitesse ; un parking par jardin, +500 points si tu y reviens ; +20 % d'essence ; fiche de score en points ; les 25 jardins redessinés. Les étoiles et records de la 0.1.0 repartent de zéro.",
+              "date": "2026-09-28T13:43:16+00:00"
+            },
+            {
               "versionName": "0.1.0",
               "versionCode": 1,
               "engineVersion": "0.5.048",

@@ -772,6 +772,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.43",
+              "versionCode": 66,
+              "engineVersion": "0.5.048",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.43",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.43/cannon-smash-alpha1-v1.43-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 69409541,
+              "sha256": "9a2e4b09ea82e47ca3e3a80b93c42344a52c2bda6bbfe21d4aca11a6e13cdc95",
+              "notes": "Campagne : deux balles dans le corps du lapin et le torse de l'épouvantail, des cibles qui réagissent vraiment aux impacts ; nouveaux corbeaux de profil qui volent sur leur corde (tête 100, corps 50, d'un coup).",
+              "date": "2026-09-28T12:45:33+00:00"
+            },
+            {
               "versionName": "1.42",
               "versionCode": 65,
               "engineVersion": "0.5.048",

@@ -3554,6 +3554,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.15.0",
+              "versionCode": 23,
+              "engineVersion": "0.5.048",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "rocket-flow-android-alpha1-v0.15.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rocket-flow-android-alpha1-v0.15.0/rocket-flow-alpha1-v0.15.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rocket-flow-android-alpha1-latest/rocket-flow-alpha1.apk",
+              "size": 33956842,
+              "sha256": "caa584aef27021f8ac6afc9fc4e91ac222e1e825d03db6f73682411a8c30b6c1",
+              "notes": "Compte Supervandal et classements par track. Nouvelle touche PROFIL au titre : la page commune a tous les jeux Supervandal (connexion Google, Supervandal ID, amis, invitations). TOP devient CLASSEMENTS : l'altitude du jour et un classement mondial par track, onglets MONDE et AMIS, toucher une ligne ouvre la fiche du joueur (ajouter en ami). Le pas de tir d'une track affiche le record mondial et ta place, le rapport ton rang. Sans compte on joue comme avant : ton score est garde et publie des que tu te connectes.",
+              "date": "2026-09-28T14:20:03+00:00"
+            },
+            {
               "versionName": "0.14.0",
               "versionCode": 22,
               "engineVersion": "0.5.048",

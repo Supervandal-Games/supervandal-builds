@@ -334,6 +334,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.10.0",
+              "versionCode": 29,
+              "engineVersion": "0.5.047",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "not-rocket-science-android-alpha1-v0.10.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/not-rocket-science-android-alpha1-v0.10.0/not-rocket-science-alpha1-v0.10.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/not-rocket-science-android-alpha1-latest/not-rocket-science-alpha1.apk",
+              "size": 24076326,
+              "sha256": "b018487e600425e24652af2fa0f3206fc7cdeb44fc13f16bf869814203253deb",
+              "notes": "Labo, étape 3 : la CHAÎNE. Ce n'est pas une pièce : c'est un outil qui lie deux pièces libres. Touchez l'anneau entre deux pièces libres (deux boulets par exemple) : elles sont enchaînées ; retouchez pour défaire. La carte CHAÎNE montre les joints qu'on peut enchaîner. En vol, une vraie chaîne de 8 m : les deux corps tournoient l'un autour de l'autre (le boulet ramé des marins) et la chaîne fauche ballons, dirigeables et voiliers. Une chaîne coûte un obus. Moteur 0.5.047.",
+              "date": "2026-09-28T00:11:46+00:00"
+            },
+            {
               "versionName": "0.9.0",
               "versionCode": 28,
               "engineVersion": "0.5.046",

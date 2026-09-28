@@ -4483,6 +4483,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.3.1",
+              "versionCode": 4,
+              "engineVersion": "0.5.049",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "super-glider-android-alpha1-v0.3.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/super-glider-android-alpha1-v0.3.1/super-glider-alpha1-v0.3.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/super-glider-android-alpha1-latest/super-glider-alpha1.apk",
+              "size": 19922753,
+              "sha256": "4a2b1bac51c1981771cc26f39a47335283d0f34388cd7ccc2c3daab607491589",
+              "notes": "Ruban des aerodromes : les 3 prochains terrains en haut (nom, distance) avec une pastille verte (atteignable), orange (juste) ou rouge (trop loin), calculee en plane final avec le vent. Physique 4x plus legere (correctif moteur 0.5.049 verifie : plus aucune derive mains lachees). Poussieres d'air en points doux.",
+              "date": "2026-09-28T19:45:54+00:00"
+            },
+            {
               "versionName": "0.3.0",
               "versionCode": 3,
               "engineVersion": "0.5.049",

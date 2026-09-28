@@ -4469,6 +4469,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.3.0",
+              "versionCode": 3,
+              "engineVersion": "0.5.049",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "super-glider-android-alpha1-v0.3.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/super-glider-android-alpha1-v0.3.0/super-glider-alpha1-v0.3.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/super-glider-android-alpha1-latest/super-glider-alpha1.apk",
+              "size": 19917841,
+              "sha256": "15797c05e30b7f3cc6d7ea8ce3cfbf7f228b079a321d7b4e1880a47b81289059",
+              "notes": "Le couloir (S1, premiere passe) : un vrai monde genere, de la colline de depart jusqu'aux aerodromes (le prochain est annonce en haut : nom et distance) ; relief derriere, lac devant, villages, champs, forets, route. L'air est reel : thermiques qui naissent sur les champs chauds et derivent avec le vent (cumulus au-dessus), la face des montagnes porte quand le vent souffle dessus, poussieres d'air qui montent dans les ascendances. Le jour tourne (20 min) et boucle : le soir les thermiques s'eteignent, la nuit tombe. Un aide tient le bout d'aile au depart. Posé sur une piste = score plein, dans un champ = -30 %.",
+              "date": "2026-09-28T19:40:57+00:00"
+            },
+            {
               "versionName": "0.2.0",
               "versionCode": 2,
               "engineVersion": "0.5.048",

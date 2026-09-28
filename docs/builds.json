@@ -3733,6 +3733,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.17.0",
+              "versionCode": 21,
+              "engineVersion": "0.5.047",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "justice-dogs-android-alpha1-v0.17.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-v0.17.0/justice-dogs-alpha1-v0.17.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-latest/justice-dogs-alpha1.apk",
+              "size": 61487477,
+              "sha256": "89a780506f6762be40b4ce093c5d5a56aa2f94bde8338108267bdca8244c46f5",
+              "notes": "OPÉRATION CHACAL, missions 12 et 13 : la Raffinerie (passerelles, cuves, torchère — et les fûts rouges qui sautent : un tir, BOUM !, les Chacals autour sont soufflés, les fûts voisins suivent) et le Camp de la jungle (huttes sur pilotis, pont de corde, mirador, buissons).",
+              "date": "2026-09-28T00:03:14+00:00"
+            },
+            {
               "versionName": "0.16.0",
               "versionCode": 20,
               "engineVersion": "0.5.047",

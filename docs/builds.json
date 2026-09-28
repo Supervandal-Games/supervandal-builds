@@ -800,6 +800,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.48",
+              "versionCode": 71,
+              "engineVersion": "0.5.050",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.48",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.48/cannon-smash-alpha1-v1.48-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 78741222,
+              "sha256": "0db28d300e8e76fb795a4e2e4668cf8b489cb05d79238731118163326c2f9834",
+              "notes": "La fin du niveau attend les ballons et assiettes en l'air ; une demi-seconde de plus avant l'ecran de fin ; les ballons apparaissent et disparaissent toujours hors du cadre.",
+              "date": "2026-09-28T22:17:00+00:00"
+            },
+            {
               "versionName": "1.47",
               "versionCode": 70,
               "engineVersion": "0.5.049",

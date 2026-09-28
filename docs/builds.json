@@ -3859,6 +3859,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.22.0",
+              "versionCode": 26,
+              "engineVersion": "0.5.048",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "justice-dogs-android-alpha1-v0.22.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-v0.22.0/justice-dogs-alpha1-v0.22.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/justice-dogs-android-alpha1-latest/justice-dogs-alpha1.apk",
+              "size": 64180469,
+              "sha256": "9e706bec80f9ec0ebbe81ad9accc4154d8fa3be645a5cf6ee08f586423748859",
+              "notes": "La netteté : plus de scintillement sur les façades, les pancartes et les véhicules (plus aucune face collée dans le même plan qu'une autre), et les tags sont refaits en vrais graffitis peints (WOUF, GRRR, MIAOU, CROCS, ZBAM…).",
+              "date": "2026-09-28T13:27:55+00:00"
+            },
+            {
               "versionName": "0.21.0",
               "versionCode": 25,
               "engineVersion": "0.5.048",

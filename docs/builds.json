@@ -4497,6 +4497,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.5.0",
+              "versionCode": 8,
+              "engineVersion": "0.5.050",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "super-glider-android-alpha1-v0.5.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/super-glider-android-alpha1-v0.5.0/super-glider-alpha1-v0.5.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/super-glider-android-alpha1-latest/super-glider-alpha1.apk",
+              "size": 20233281,
+              "sha256": "ca81fc42f6b9f191c7c34d2886694ea64dbbe6d59d0b3471126a2c97cb3ac606",
+              "notes": "0.5.0 : le son et le planeur. SON : tout est synthétisé en direct et piloté par la physique - chaque demi-aile a son souffle dans son oreille (pression dynamique, incidence, décrochage : la bande s'ouvre, la résonance chante en vol propre et se déchire près du décrochage, la toile vibre au-dessus de la vitesse de croisière), les haubans sifflent leur vraie note éolienne (f = 0,2 V/d), tremblement du décrochage entendu et senti, craquements du bois quand la charge change (torsion, racines d'aile, siège), roues qui roulent selon leur vraie vitesse de jante et le sol (herbe, piste, sable), crissement au toucher, élastique qui grince puis claque, vario à énergie totale, campagne (vent dans l'herbe, oiseaux, cloche). PLANEUR : profils d'aile réels avec la toile qui se creuse entre les nervures, nacelle en contreplaqué, poutre en treillis bois, haubans et câbles, pilote avec bras et jambes. TRAIN : jambes oscillantes qui se replient vers l'arrière dans la nacelle, amortisseurs télescopiques, trappes, moyeux et pneus à crampons.",
+              "date": "2026-09-29T14:46:01+00:00"
+            },
+            {
               "versionName": "0.4.0",
               "versionCode": 7,
               "engineVersion": "0.5.050",

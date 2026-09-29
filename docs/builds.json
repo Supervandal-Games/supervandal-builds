@@ -800,6 +800,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.50",
+              "versionCode": 73,
+              "engineVersion": "0.5.050",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.50",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.50/cannon-smash-alpha1-v1.50-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 78560294,
+              "sha256": "26d78f4a6bead21321638bb2e94629ed3fd1d202c2c55d41864a4169f6003953",
+              "notes": "R54 : réserve en chargeurs, 80 pts par chargeur gardé, chrono au dixième, stand de tir aux points imprimés (tête 15) x vitesse, classement MONDE au rang moyen (général + par univers, hebdomadaire), ton top, statistiques par univers, icône du stand en noir et blanc",
+              "date": "2026-09-29T15:43:41+00:00"
+            },
+            {
               "versionName": "1.49",
               "versionCode": 72,
               "engineVersion": "0.5.050",

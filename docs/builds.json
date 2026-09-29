@@ -4497,6 +4497,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.3.3",
+              "versionCode": 6,
+              "engineVersion": "0.5.050",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "super-glider-android-alpha1-v0.3.3",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/super-glider-android-alpha1-v0.3.3/super-glider-alpha1-v0.3.3-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/super-glider-android-alpha1-latest/super-glider-alpha1.apk",
+              "size": 19978497,
+              "sha256": "8f8ebd46ab8ee055a2beec39de642e4fc96fa5ff6db4790107ed230b0df3182d",
+              "notes": "Relief net : les collines et montagnes sont a facettes (low-poly), plus de taches de couleur floues ; les couleurs des champs n'existent plus qu'en aplats nets sur la vallee plate. Decollage droit (0.3.2).",
+              "date": "2026-09-29T13:33:48+00:00"
+            },
+            {
               "versionName": "0.3.2",
               "versionCode": 5,
               "engineVersion": "0.5.050",

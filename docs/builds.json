@@ -4662,6 +4662,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.5.0",
+              "versionCode": 5,
+              "engineVersion": "0.5.050",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "random-party-android-alpha1-v0.5.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/random-party-android-alpha1-v0.5.0/random-party-alpha1-v0.5.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/random-party-android-alpha1-latest/random-party-alpha1.apk",
+              "size": 16371537,
+              "sha256": "44edec56b427fc9aaf9179ce51f19c5c6c56600dd513db0c21802901a1e1987e",
+              "notes": "Dessine ton visage en pixel art (16x16, neutre/heureux/triste) ou choisis parmi 8 visages. Musique de fete, decompte sonore, options SONS et MUSIQUE. Plus d'affichage de debug au lancement.",
+              "date": "2026-09-29T16:39:47+00:00"
+            },
+            {
               "versionName": "0.4.0",
               "versionCode": 4,
               "engineVersion": "0.5.050",

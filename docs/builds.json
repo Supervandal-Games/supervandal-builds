@@ -4567,6 +4567,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.6.0",
+              "versionCode": 9,
+              "engineVersion": "0.5.050",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "super-glider-android-alpha1-v0.6.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/super-glider-android-alpha1-v0.6.0/super-glider-alpha1-v0.6.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/super-glider-android-alpha1-latest/super-glider-alpha1.apk",
+              "size": 20249281,
+              "sha256": "5a23759e951a3d733a85e82721f8e0f7be107b5a4547394b9b6710ff08395774",
+              "notes": "0.6.0 : il plane ! Ailes de 15 m (allongement 10), planeur allégé à 163 kg, pilote dans une nacelle carénée : finesse mesurée ~16 mains lâchées à 46 km/h (9,5 avant) - rien que la physique aéro du moteur. Lancement FRONDE : on attrape le planeur, on tire, on lâche - la charge suit le doigt tout de suite, les équipes tiennent l'élastique, un simple tap ne fait plus rien. Ascendances visibles et justifiées : paillettes dorées qui montent dans les thermiques, chaleur au-dessus des sources (parkings de supermarché au bitume brûlant, villages, champs mûrs), voiles blancs qui grimpent les pentes au vent, sable soulevé sur les dunes. Traînées dans le ciel : tourbillons de bouts d'aile dont la force suit la vraie portance (virage serré = traînées nettes, plané = fils discrets) et sillage derrière l'empennage.",
+              "date": "2026-09-29T18:36:12+00:00"
+            },
+            {
               "versionName": "0.5.0",
               "versionCode": 8,
               "engineVersion": "0.5.050",

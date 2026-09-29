@@ -4492,10 +4492,24 @@
     },
     "super-glider": {
       "title": "Super Glider",
-      "description": "Vol a voile en vraie physique : lance ton planeur au sandow, lis l'air, pose-le en douceur.",
+      "description": "Planeur en vraie aérodynamique, couloir 2.5D, paysage.",
       "tracks": {
         "alpha1": {
           "builds": [
+            {
+              "versionName": "0.4.0",
+              "versionCode": 7,
+              "engineVersion": "0.5.050",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "super-glider-android-alpha1-v0.4.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/super-glider-android-alpha1-v0.4.0/super-glider-alpha1-v0.4.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/super-glider-android-alpha1-latest/super-glider-alpha1.apk",
+              "size": 20140673,
+              "sha256": "59d4314980336dc4ebbcfa08f54db4ed072616075396f52d93623b4276234801",
+              "notes": "0.4.0 : le monde devient une scène de théâtre. Plus de terrain peint : champs en aplats, routes, collines, dunes et montagnes low-poly à facettes nettes. Les dunes, collines et la chaîne de montagnes donnent des ascendances de pente. Décor peint au fond (façon Truman Show) : le toucher = « TU AS PERCUTÉ LE DÉCOR ! ». Nuages en carton découpé au-dessus des thermiques. Manettes volets/train à plat et deux fois plus petites. Lancement : le vent de base ne souffle plus sur la colline de départ.",
+              "date": "2026-09-29T13:56:55+00:00"
+            },
             {
               "versionName": "0.3.3",
               "versionCode": 6,

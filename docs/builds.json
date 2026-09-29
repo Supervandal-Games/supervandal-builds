@@ -800,6 +800,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.49",
+              "versionCode": 72,
+              "engineVersion": "0.5.050",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.49",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.49/cannon-smash-alpha1-v1.49-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 78516710,
+              "sha256": "c2b829874fae8e877364c1549a67c65f89b516bd0d9297c1f1af32a323ce4005",
+              "notes": "Classements flipper (10 lignes par joueur et par niveau) ; le classement ouvert depuis la victoire se ferme ; feuille de score detaillee et animee ; etoiles 3D ; les points volent dans le score (flash bleu) ; niveaux identiques a chaque generation.",
+              "date": "2026-09-29T15:01:55+00:00"
+            },
+            {
               "versionName": "1.48",
               "versionCode": 71,
               "engineVersion": "0.5.050",

@@ -4648,6 +4648,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.4.0",
+              "versionCode": 4,
+              "engineVersion": "0.5.050",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "random-party-android-alpha1-v0.4.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/random-party-android-alpha1-v0.4.0/random-party-alpha1-v0.4.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/random-party-android-alpha1-latest/random-party-alpha1.apk",
+              "size": 16287889,
+              "sha256": "66bf91e856307dc0a577e01875b6fe23059a3a4d7ad6b561f7b1fe6e5dd44bd1",
+              "notes": "Profil : pastille PROFIL en haut a droite du menu. Choisis ton nom, la couleur de ton cube (8) et tes yeux (5). En ligne, les autres te voient tel que tu t'es fait.",
+              "date": "2026-09-29T15:59:18+00:00"
+            },
+            {
               "versionName": "0.3.0",
               "versionCode": 3,
               "engineVersion": "0.5.050",

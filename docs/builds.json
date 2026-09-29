@@ -800,6 +800,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.57",
+              "versionCode": 80,
+              "engineVersion": "0.5.050",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.57",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.57/cannon-smash-alpha1-v1.57-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 78933942,
+              "sha256": "9b8c67db96dee273fd7da3c1cd72669bb87aa1d9d61f6a4c778e480fcc7c0b2e",
+              "notes": "R60 : bonus RÉFLEXE en fin de niveau (1 000 - moyenne en ms) au western et au stand de tir, western 1 000 points par bandit x série, feuille de score explicite, scores remis à zéro",
+              "date": "2026-09-29T19:49:14+00:00"
+            },
+            {
               "versionName": "1.56",
               "versionCode": 79,
               "engineVersion": "0.5.050",

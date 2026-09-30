@@ -800,6 +800,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.63",
+              "versionCode": 86,
+              "engineVersion": "0.5.050",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.63",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.63/cannon-smash-alpha1-v1.63-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 78879030,
+              "sha256": "15cf47010b38a61d1c2a18975cca23493921678ce7bae18f3b8de0cdae8b20e4",
+              "notes": "R64c : retrait definitif de la collection d'items et de ses pop-ups, refonte procedurale majeure du pop de ballon (impact sonore percutant, reverb d'air spatiale, pitch module par la taille, variations procedurale infinie de resonance/filtre)",
+              "date": "2026-09-30T03:58:00+00:00"
+            },
+            {
               "versionName": "1.62",
               "versionCode": 85,
               "engineVersion": "0.5.050",

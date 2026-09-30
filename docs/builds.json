@@ -800,6 +800,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.65",
+              "versionCode": 88,
+              "engineVersion": "0.5.050",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.65",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.65/cannon-smash-alpha1-v1.65-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 79004486,
+              "sha256": "2ab50c3fca9a64d75ca352b07ece92a9b4275202af3b12ca56bf3b90b2412fbc",
+              "notes": "Synchronisation exacte des pieces de victoire avec pub x2, pieces volantes ameliorees (petites, trajectoire fluide, rotation), sons pop et collect discrets et proceduraux, menu d'accueil repense avec selecteur 3 boutons",
+              "date": "2026-09-30T13:08:40+00:00"
+            },
+            {
               "versionName": "1.64",
               "versionCode": 87,
               "engineVersion": "0.5.050",

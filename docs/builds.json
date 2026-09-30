@@ -800,6 +800,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.69",
+              "versionCode": 92,
+              "engineVersion": "0.5.050",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.69",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.69/cannon-smash-alpha1-v1.69-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 78957638,
+              "sha256": "d6c31cc456907ceb97d85019da3c15a9086fa737173fe24b9444f5e89e1eb4a4",
+              "notes": "Selecteur de niveau en bloc segmente: centre rectangulaire, fleches arrondies aux extremites",
+              "date": "2026-09-30T14:34:38+00:00"
+            },
+            {
               "versionName": "1.68",
               "versionCode": 91,
               "engineVersion": "0.5.050",

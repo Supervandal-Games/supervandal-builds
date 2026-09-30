@@ -800,6 +800,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.62",
+              "versionCode": 85,
+              "engineVersion": "0.5.050",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.62",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.62/cannon-smash-alpha1-v1.62-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 79387958,
+              "sha256": "e8e9e7ef86b11440269b4d36aaf5c6dfda7e07aceb2e9ec623084f64a0977290",
+              "notes": "R64b : peaufinage foire (stabilite physique des rails, elevation animee a ressort des cibles fixes, zero temps mort, 16 niveaux revolver, ballons allegés a ~8/niveau, L50 spectacle 50 cibles + 50 ballons 90s, leaderboards lv11-/st11-)",
+              "date": "2026-09-30T03:39:12+00:00"
+            },
+            {
               "versionName": "1.61",
               "versionCode": 84,
               "engineVersion": "0.5.050",

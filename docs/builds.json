@@ -800,6 +800,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.76",
+              "versionCode": 99,
+              "engineVersion": "0.5.050",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.76",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.76/cannon-smash-alpha1-v1.76-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 79145286,
+              "sha256": "37035d61e7a80c802c81780817540ba492e1df601e3d431bdfe409c3b6c09e02",
+              "notes": "Build de test 1.76 - moteur v0.5.050.",
+              "date": "2026-10-01T15:09:06+00:00"
+            },
+            {
               "versionName": "1.75",
               "versionCode": 98,
               "engineVersion": "0.5.050",

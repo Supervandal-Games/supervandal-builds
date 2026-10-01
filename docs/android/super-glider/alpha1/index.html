@@ -44,6 +44,11 @@ footer { color: var(--dim); font-size: 12px; margin-top: 48px; border-top: 1px s
 .tag { display: inline-block; font-size: 11px; text-transform: uppercase; letter-spacing: 0.08em;
        border: 1px solid var(--line); color: var(--dim); padding: 2px 8px; border-radius: 999px;
        margin-right: 6px; }
+.delta-pos { color: #f87171; font-weight: 600; }
+.delta-neg { color: #4ade80; font-weight: 600; }
+.delta-zero { color: var(--dim); }
+.tag-target-ok { border-color: rgba(74, 222, 128, 0.4); color: #4ade80; }
+.tag-target-over { border-color: rgba(248, 113, 113, 0.4); color: #f87171; }
 </style>
 </head>
 <body>
@@ -58,9 +63,9 @@ footer { color: var(--dim); font-size: 12px; margin-top: 48px; border-top: 1px s
 </header>
 
 <div class="card">
-  <span class="tag">debug</span><span class="tag">Android</span>
+  <span class="tag">debug</span><span class="tag">Android</span><span class="tag tag-target-ok">&lt; 50 Mo OK</span>
   <h2>Version 0.6.0</h2>
-  <p class="meta">Publie le 2026-09-29 &middot; moteur v0.5.050 &middot; 19.3 Mo &middot; Android 9+ (arm64)</p>
+  <p class="meta">Publie le 2026-09-29 &middot; moteur v0.5.050 &middot; 19.3 Mo &middot; <span class="delta-pos">+15.6 Ko (+0.1%)</span> &middot; Android 9+ (arm64)</p>
   <div class="split">
     <div>
       <a class="dl" href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/super-glider-android-alpha1-v0.6.0/super-glider-alpha1-v0.6.0-release.apk">Telecharger l&rsquo;APK (v0.6.0)</a>
@@ -101,16 +106,16 @@ footer { color: var(--dim); font-size: 12px; margin-top: 48px; border-top: 1px s
 <div class="card">
   <h2>Historique de la piste</h2>
   <table>
-    <tr><th>Version</th><th>Code</th><th>Date</th><th>Config</th><th>Taille</th></tr>
-    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/super-glider-android-alpha1-v0.6.0/super-glider-alpha1-v0.6.0-release.apk">0.6.0</a></td><td>9</td><td>2026-09-29</td><td>Release</td><td>19.3 Mo</td></tr>
-    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/super-glider-android-alpha1-v0.5.0/super-glider-alpha1-v0.5.0-release.apk">0.5.0</a></td><td>8</td><td>2026-09-29</td><td>Release</td><td>19.3 Mo</td></tr>
-    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/super-glider-android-alpha1-v0.4.0/super-glider-alpha1-v0.4.0-release.apk">0.4.0</a></td><td>7</td><td>2026-09-29</td><td>Release</td><td>19.2 Mo</td></tr>
-    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/super-glider-android-alpha1-v0.3.3/super-glider-alpha1-v0.3.3-release.apk">0.3.3</a></td><td>6</td><td>2026-09-29</td><td>Release</td><td>19.1 Mo</td></tr>
-    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/super-glider-android-alpha1-v0.3.2/super-glider-alpha1-v0.3.2-release.apk">0.3.2</a></td><td>5</td><td>2026-09-29</td><td>Release</td><td>19.1 Mo</td></tr>
-    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/super-glider-android-alpha1-v0.3.1/super-glider-alpha1-v0.3.1-release.apk">0.3.1</a></td><td>4</td><td>2026-09-28</td><td>Release</td><td>19.0 Mo</td></tr>
-    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/super-glider-android-alpha1-v0.3.0/super-glider-alpha1-v0.3.0-release.apk">0.3.0</a></td><td>3</td><td>2026-09-28</td><td>Release</td><td>19.0 Mo</td></tr>
-    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/super-glider-android-alpha1-v0.2.0/super-glider-alpha1-v0.2.0-release.apk">0.2.0</a></td><td>2</td><td>2026-09-28</td><td>Release</td><td>18.7 Mo</td></tr>
-    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/super-glider-android-alpha1-v0.1.0/super-glider-alpha1-v0.1.0-release.apk">0.1.0</a></td><td>1</td><td>2026-09-28</td><td>Release</td><td>18.7 Mo</td></tr>
+    <tr><th>Version</th><th>Code</th><th>Date</th><th>Config</th><th>Taille</th><th>Variation</th></tr>
+    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/super-glider-android-alpha1-v0.6.0/super-glider-alpha1-v0.6.0-release.apk">0.6.0</a></td><td>9</td><td>2026-09-29</td><td>Release</td><td>19.3 Mo</td><td><span class="delta-pos">+15.6 Ko (+0.1%)</span></td></tr>
+    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/super-glider-android-alpha1-v0.5.0/super-glider-alpha1-v0.5.0-release.apk">0.5.0</a></td><td>8</td><td>2026-09-29</td><td>Release</td><td>19.3 Mo</td><td><span class="delta-pos">+90.4 Ko (+0.5%)</span></td></tr>
+    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/super-glider-android-alpha1-v0.4.0/super-glider-alpha1-v0.4.0-release.apk">0.4.0</a></td><td>7</td><td>2026-09-29</td><td>Release</td><td>19.2 Mo</td><td><span class="delta-pos">+158.4 Ko (+0.8%)</span></td></tr>
+    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/super-glider-android-alpha1-v0.3.3/super-glider-alpha1-v0.3.3-release.apk">0.3.3</a></td><td>6</td><td>2026-09-29</td><td>Release</td><td>19.1 Mo</td><td><span class="delta-zero">= 0 o</span></td></tr>
+    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/super-glider-android-alpha1-v0.3.2/super-glider-alpha1-v0.3.2-release.apk">0.3.2</a></td><td>5</td><td>2026-09-29</td><td>Release</td><td>19.1 Mo</td><td><span class="delta-pos">+54.4 Ko (+0.3%)</span></td></tr>
+    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/super-glider-android-alpha1-v0.3.1/super-glider-alpha1-v0.3.1-release.apk">0.3.1</a></td><td>4</td><td>2026-09-28</td><td>Release</td><td>19.0 Mo</td><td><span class="delta-pos">+4.8 Ko (+0.0%)</span></td></tr>
+    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/super-glider-android-alpha1-v0.3.0/super-glider-alpha1-v0.3.0-release.apk">0.3.0</a></td><td>3</td><td>2026-09-28</td><td>Release</td><td>19.0 Mo</td><td><span class="delta-pos">+298.9 Ko (+1.6%)</span></td></tr>
+    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/super-glider-android-alpha1-v0.2.0/super-glider-alpha1-v0.2.0-release.apk">0.2.0</a></td><td>2</td><td>2026-09-28</td><td>Release</td><td>18.7 Mo</td><td><span class="delta-pos">+24.5 Ko (+0.1%)</span></td></tr>
+    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/super-glider-android-alpha1-v0.1.0/super-glider-alpha1-v0.1.0-release.apk">0.1.0</a></td><td>1</td><td>2026-09-28</td><td>Release</td><td>18.7 Mo</td><td><span class="delta-zero">&mdash;</span></td></tr>
   </table>
   <p class="note" style="margin-top:16px">
     Flux de mise a jour&nbsp;: <code>https://supervandal-games.github.io/supervandal-builds/android/super-glider/alpha1/latest.json</code><br>

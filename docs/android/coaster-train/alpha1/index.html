@@ -44,6 +44,11 @@ footer { color: var(--dim); font-size: 12px; margin-top: 48px; border-top: 1px s
 .tag { display: inline-block; font-size: 11px; text-transform: uppercase; letter-spacing: 0.08em;
        border: 1px solid var(--line); color: var(--dim); padding: 2px 8px; border-radius: 999px;
        margin-right: 6px; }
+.delta-pos { color: #f87171; font-weight: 600; }
+.delta-neg { color: #4ade80; font-weight: 600; }
+.delta-zero { color: var(--dim); }
+.tag-target-ok { border-color: rgba(74, 222, 128, 0.4); color: #4ade80; }
+.tag-target-over { border-color: rgba(248, 113, 113, 0.4); color: #f87171; }
 </style>
 </head>
 <body>
@@ -58,9 +63,9 @@ footer { color: var(--dim); font-size: 12px; margin-top: 48px; border-top: 1px s
 </header>
 
 <div class="card">
-  <span class="tag">debug</span><span class="tag">Android</span>
+  <span class="tag">debug</span><span class="tag">Android</span><span class="tag tag-target-over">Objectif &lt; 50 Mo</span>
   <h2>Version 0.13.0</h2>
-  <p class="meta">Publie le 2026-09-28 &middot; moteur v0.5.047 &middot; 129.0 Mo &middot; Android 9+ (arm64)</p>
+  <p class="meta">Publie le 2026-09-28 &middot; moteur v0.5.047 &middot; 129.0 Mo &middot; <span class="delta-pos">+837.9 Ko (+0.6%)</span> &middot; Android 9+ (arm64)</p>
   <div class="split">
     <div>
       <a class="dl" href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.13.0/coaster-train-alpha1-v0.13.0-release.apk">Telecharger l&rsquo;APK (v0.13.0)</a>
@@ -101,32 +106,32 @@ footer { color: var(--dim); font-size: 12px; margin-top: 48px; border-top: 1px s
 <div class="card">
   <h2>Historique de la piste</h2>
   <table>
-    <tr><th>Version</th><th>Code</th><th>Date</th><th>Config</th><th>Taille</th></tr>
-    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.13.0/coaster-train-alpha1-v0.13.0-release.apk">0.13.0</a></td><td>25</td><td>2026-09-28</td><td>Release</td><td>129.0 Mo</td></tr>
-    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.12.2/coaster-train-alpha1-v0.12.2-release.apk">0.12.2</a></td><td>24</td><td>2026-09-28</td><td>Release</td><td>128.2 Mo</td></tr>
-    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.12.1/coaster-train-alpha1-v0.12.1-release.apk">0.12.1</a></td><td>23</td><td>2026-09-27</td><td>Release</td><td>128.4 Mo</td></tr>
-    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.12.0/coaster-train-alpha1-v0.12.0-release.apk">0.12.0</a></td><td>22</td><td>2026-09-27</td><td>Release</td><td>128.6 Mo</td></tr>
-    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.11.2/coaster-train-alpha1-v0.11.2-release.apk">0.11.2</a></td><td>21</td><td>2026-09-27</td><td>Release</td><td>129.4 Mo</td></tr>
-    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.11.1/coaster-train-alpha1-v0.11.1-release.apk">0.11.1</a></td><td>20</td><td>2026-09-27</td><td>Release</td><td>129.5 Mo</td></tr>
-    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.11.0/coaster-train-alpha1-v0.11.0-release.apk">0.11.0</a></td><td>19</td><td>2026-09-27</td><td>Release</td><td>129.5 Mo</td></tr>
-    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.10.0/coaster-train-alpha1-v0.10.0-release.apk">0.10.0</a></td><td>18</td><td>2026-09-26</td><td>Release</td><td>27.4 Mo</td></tr>
-    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.9.1/coaster-train-alpha1-v0.9.1-release.apk">0.9.1</a></td><td>17</td><td>2026-09-26</td><td>Release</td><td>22.2 Mo</td></tr>
-    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.9.0/coaster-train-alpha1-v0.9.0-release.apk">0.9.0</a></td><td>16</td><td>2026-09-26</td><td>Release</td><td>22.2 Mo</td></tr>
-    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.8.0/coaster-train-alpha1-v0.8.0-release.apk">0.8.0</a></td><td>15</td><td>2026-09-26</td><td>Release</td><td>22.2 Mo</td></tr>
-    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.7.3/coaster-train-alpha1-v0.7.3-release.apk">0.7.3</a></td><td>14</td><td>2026-09-25</td><td>Release</td><td>21.2 Mo</td></tr>
-    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.7.2/coaster-train-alpha1-v0.7.2-release.apk">0.7.2</a></td><td>13</td><td>2026-09-25</td><td>Release</td><td>21.2 Mo</td></tr>
-    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.7.1/coaster-train-alpha1-v0.7.1-release.apk">0.7.1</a></td><td>12</td><td>2026-09-25</td><td>Release</td><td>21.1 Mo</td></tr>
-    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.7.0/coaster-train-alpha1-v0.7.0-release.apk">0.7.0</a></td><td>11</td><td>2026-09-25</td><td>Release</td><td>21.1 Mo</td></tr>
-    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.6.0/coaster-train-alpha1-v0.6.0-release.apk">0.6.0</a></td><td>10</td><td>2026-09-25</td><td>Release</td><td>20.5 Mo</td></tr>
-    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.5.0/coaster-train-alpha1-v0.5.0-release.apk">0.5.0</a></td><td>9</td><td>2026-09-25</td><td>Release</td><td>19.7 Mo</td></tr>
-    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.4.0/coaster-train-alpha1-v0.4.0-release.apk">0.4.0</a></td><td>8</td><td>2026-09-25</td><td>Release</td><td>12.9 Mo</td></tr>
-    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.3.0/coaster-train-alpha1-v0.3.0-release.apk">0.3.0</a></td><td>7</td><td>2026-09-25</td><td>Release</td><td>13.1 Mo</td></tr>
-    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.2.0/coaster-train-alpha1-v0.2.0-release.apk">0.2.0</a></td><td>6</td><td>2026-09-24</td><td>Release</td><td>14.9 Mo</td></tr>
-    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.1.4/coaster-train-alpha1-v0.1.4-release.apk">0.1.4</a></td><td>5</td><td>2026-08-22</td><td>Release</td><td>9.6 Mo</td></tr>
-    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.1.3/coaster-train-alpha1-v0.1.3-release.apk">0.1.3</a></td><td>4</td><td>2026-08-22</td><td>Release</td><td>9.6 Mo</td></tr>
-    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.1.2/coaster-train-alpha1-v0.1.2-release.apk">0.1.2</a></td><td>3</td><td>2026-08-21</td><td>Release</td><td>9.6 Mo</td></tr>
-    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.1.1/coaster-train-alpha1-v0.1.1-release.apk">0.1.1</a></td><td>2</td><td>2026-08-21</td><td>Release</td><td>9.6 Mo</td></tr>
-    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.1.0/coaster-train-alpha1-v0.1.0-release.apk">0.1.0</a></td><td>1</td><td>2026-08-21</td><td>Release</td><td>9.6 Mo</td></tr>
+    <tr><th>Version</th><th>Code</th><th>Date</th><th>Config</th><th>Taille</th><th>Variation</th></tr>
+    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.13.0/coaster-train-alpha1-v0.13.0-release.apk">0.13.0</a></td><td>25</td><td>2026-09-28</td><td>Release</td><td>129.0 Mo</td><td><span class="delta-pos">+837.9 Ko (+0.6%)</span></td></tr>
+    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.12.2/coaster-train-alpha1-v0.12.2-release.apk">0.12.2</a></td><td>24</td><td>2026-09-28</td><td>Release</td><td>128.2 Mo</td><td><span class="delta-neg">-152.6 Ko (-0.1%)</span></td></tr>
+    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.12.1/coaster-train-alpha1-v0.12.1-release.apk">0.12.1</a></td><td>23</td><td>2026-09-27</td><td>Release</td><td>128.4 Mo</td><td><span class="delta-neg">-192.4 Ko (-0.1%)</span></td></tr>
+    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.12.0/coaster-train-alpha1-v0.12.0-release.apk">0.12.0</a></td><td>22</td><td>2026-09-27</td><td>Release</td><td>128.6 Mo</td><td><span class="delta-neg">-909.6 Ko (-0.7%)</span></td></tr>
+    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.11.2/coaster-train-alpha1-v0.11.2-release.apk">0.11.2</a></td><td>21</td><td>2026-09-27</td><td>Release</td><td>129.4 Mo</td><td><span class="delta-neg">-64.8 Ko (-0.0%)</span></td></tr>
+    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.11.1/coaster-train-alpha1-v0.11.1-release.apk">0.11.1</a></td><td>20</td><td>2026-09-27</td><td>Release</td><td>129.5 Mo</td><td><span class="delta-pos">+704 o (+0.0%)</span></td></tr>
+    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.11.0/coaster-train-alpha1-v0.11.0-release.apk">0.11.0</a></td><td>19</td><td>2026-09-27</td><td>Release</td><td>129.5 Mo</td><td><span class="delta-pos">+102.1 Mo (+371.9%)</span></td></tr>
+    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.10.0/coaster-train-alpha1-v0.10.0-release.apk">0.10.0</a></td><td>18</td><td>2026-09-26</td><td>Release</td><td>27.4 Mo</td><td><span class="delta-pos">+5.3 Mo (+23.8%)</span></td></tr>
+    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.9.1/coaster-train-alpha1-v0.9.1-release.apk">0.9.1</a></td><td>17</td><td>2026-09-26</td><td>Release</td><td>22.2 Mo</td><td><span class="delta-pos">+556 o (+0.0%)</span></td></tr>
+    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.9.0/coaster-train-alpha1-v0.9.0-release.apk">0.9.0</a></td><td>16</td><td>2026-09-26</td><td>Release</td><td>22.2 Mo</td><td><span class="delta-pos">+15.0 Ko (+0.1%)</span></td></tr>
+    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.8.0/coaster-train-alpha1-v0.8.0-release.apk">0.8.0</a></td><td>15</td><td>2026-09-26</td><td>Release</td><td>22.2 Mo</td><td><span class="delta-pos">+976.8 Ko (+4.5%)</span></td></tr>
+    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.7.3/coaster-train-alpha1-v0.7.3-release.apk">0.7.3</a></td><td>14</td><td>2026-09-25</td><td>Release</td><td>21.2 Mo</td><td><span class="delta-pos">+6.1 Ko (+0.0%)</span></td></tr>
+    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.7.2/coaster-train-alpha1-v0.7.2-release.apk">0.7.2</a></td><td>13</td><td>2026-09-25</td><td>Release</td><td>21.2 Mo</td><td><span class="delta-pos">+90.7 Ko (+0.4%)</span></td></tr>
+    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.7.1/coaster-train-alpha1-v0.7.1-release.apk">0.7.1</a></td><td>12</td><td>2026-09-25</td><td>Release</td><td>21.1 Mo</td><td><span class="delta-pos">+10.2 Ko (+0.0%)</span></td></tr>
+    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.7.0/coaster-train-alpha1-v0.7.0-release.apk">0.7.0</a></td><td>11</td><td>2026-09-25</td><td>Release</td><td>21.1 Mo</td><td><span class="delta-pos">+649.3 Ko (+3.1%)</span></td></tr>
+    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.6.0/coaster-train-alpha1-v0.6.0-release.apk">0.6.0</a></td><td>10</td><td>2026-09-25</td><td>Release</td><td>20.5 Mo</td><td><span class="delta-pos">+803.8 Ko (+4.0%)</span></td></tr>
+    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.5.0/coaster-train-alpha1-v0.5.0-release.apk">0.5.0</a></td><td>9</td><td>2026-09-25</td><td>Release</td><td>19.7 Mo</td><td><span class="delta-pos">+6.8 Mo (+52.7%)</span></td></tr>
+    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.4.0/coaster-train-alpha1-v0.4.0-release.apk">0.4.0</a></td><td>8</td><td>2026-09-25</td><td>Release</td><td>12.9 Mo</td><td><span class="delta-neg">-244.5 Ko (-1.8%)</span></td></tr>
+    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.3.0/coaster-train-alpha1-v0.3.0-release.apk">0.3.0</a></td><td>7</td><td>2026-09-25</td><td>Release</td><td>13.1 Mo</td><td><span class="delta-neg">-1.8 Mo (-11.8%)</span></td></tr>
+    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.2.0/coaster-train-alpha1-v0.2.0-release.apk">0.2.0</a></td><td>6</td><td>2026-09-24</td><td>Release</td><td>14.9 Mo</td><td><span class="delta-pos">+5.2 Mo (+54.4%)</span></td></tr>
+    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.1.4/coaster-train-alpha1-v0.1.4-release.apk">0.1.4</a></td><td>5</td><td>2026-08-22</td><td>Release</td><td>9.6 Mo</td><td><span class="delta-pos">+524 o (+0.0%)</span></td></tr>
+    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.1.3/coaster-train-alpha1-v0.1.3-release.apk">0.1.3</a></td><td>4</td><td>2026-08-22</td><td>Release</td><td>9.6 Mo</td><td><span class="delta-pos">+17.0 Ko (+0.2%)</span></td></tr>
+    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.1.2/coaster-train-alpha1-v0.1.2-release.apk">0.1.2</a></td><td>3</td><td>2026-08-21</td><td>Release</td><td>9.6 Mo</td><td><span class="delta-pos">+32.9 Ko (+0.3%)</span></td></tr>
+    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.1.1/coaster-train-alpha1-v0.1.1-release.apk">0.1.1</a></td><td>2</td><td>2026-08-21</td><td>Release</td><td>9.6 Mo</td><td><span class="delta-pos">+160 o (+0.0%)</span></td></tr>
+    <tr><td><a href="https://github.com/Supervandal-Games/supervandal-builds/releases/download/coaster-train-android-alpha1-v0.1.0/coaster-train-alpha1-v0.1.0-release.apk">0.1.0</a></td><td>1</td><td>2026-08-21</td><td>Release</td><td>9.6 Mo</td><td><span class="delta-zero">&mdash;</span></td></tr>
   </table>
   <p class="note" style="margin-top:16px">
     Flux de mise a jour&nbsp;: <code>https://supervandal-games.github.io/supervandal-builds/android/coaster-train/alpha1/latest.json</code><br>

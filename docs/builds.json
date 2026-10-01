@@ -800,6 +800,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.75",
+              "versionCode": 98,
+              "engineVersion": "0.5.050",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.75",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.75/cannon-smash-alpha1-v1.75-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 79145094,
+              "sha256": "94392928b387bdb5949c9588702954ebbbc982b1c1d003435e03e72aa02d6bcd",
+              "notes": "Fix chargement rapide Android: optimisation StandSheets pour asset stripping (taille reduite de 218Mo a ~78Mo, boot accelere sans prechargement massif), watchdog demarrage ajuste a 25s sans dialogue intrusif",
+              "date": "2026-10-01T14:36:55+00:00"
+            },
+            {
               "versionName": "1.74",
               "versionCode": 97,
               "engineVersion": "0.5.050",

@@ -800,6 +800,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.81",
+              "versionCode": 104,
+              "engineVersion": "0.5.051",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.81",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.81/cannon-smash-alpha1-v1.81-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 80045254,
+              "sha256": "6b4b09bf323541334fdf9a02057825c18b2171e6d4dd38c917a30d95c63392e3",
+              "notes": "Western et stand de tir reecrits : 50 niveaux scenarises chacun, un temps fort tous les 5, paliers 31 et 41 ; western : les nerfs (patience du bandit, attente dans le dos, main tardive) ; stand de tir : vagues variees, cartons plus vifs ; foire : 5 premiers niveaux simplifies, 3 cibles fixes max par rail, cibles plus grosses ; classement : rang du run affiche, fanfare plus fine ; scores remis a zero",
+              "date": "2026-10-03T22:05:10+00:00"
+            },
+            {
               "versionName": "1.80",
               "versionCode": 103,
               "engineVersion": "0.5.051",

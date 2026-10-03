@@ -4809,6 +4809,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.5.0",
+              "versionCode": 7,
+              "engineVersion": "0.5.051",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "underglow-android-alpha1-v0.5.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/underglow-android-alpha1-v0.5.0/underglow-alpha1-v0.5.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/underglow-android-alpha1-latest/underglow-alpha1.apk",
+              "size": 23151889,
+              "sha256": "9115110f22b02d5fd081200ab4fe7b73a353c65b962225164c8dc93c7bd54901",
+              "notes": "SIDEGLOW : un monde qui s'enchaîne. Ville, col de montagne, zone industrielle, côte, reliés par des tunnels ; chaque zone a sa route (quadrillage à 90° en zone industrielle, longs virages au col). La vitesse monte à chaque virage réussi, jusqu'à 230 km/h ; FOV, flou, lignes de vitesse et compteur qui chauffe. Rendu ARCADE 94 validé.",
+              "date": "2026-10-03T20:23:37+00:00"
+            },
+            {
               "versionName": "0.4.0",
               "versionCode": 6,
               "engineVersion": "0.5.050",

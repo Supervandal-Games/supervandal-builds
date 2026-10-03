@@ -4795,6 +4795,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.4.0",
+              "versionCode": 6,
+              "engineVersion": "0.5.050",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "underglow-android-alpha1-v0.4.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/underglow-android-alpha1-v0.4.0/underglow-alpha1-v0.4.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/underglow-android-alpha1-latest/underglow-alpha1.apk",
+              "size": 23024277,
+              "sha256": "516e17cc40884324d26e88c5e9b1de96a411e3b7ae706a18699f656d5e14c7b4",
+              "notes": "SIDEGLOW : la voiture ne saute plus dans les virages. Caméra plus haute et plus fluide : on voit la route. Le cadran du bas devient un arc peint au sol derrière la voiture (la poupe est l'aiguille, le fil en or). Étincelles d'or sur le fil qui volent vers les points. Rendu ARCADE 94 par défaut, sans effets caméscope.",
+              "date": "2026-10-03T16:26:16+00:00"
+            },
+            {
               "versionName": "0.3.0",
               "versionCode": 5,
               "engineVersion": "0.5.048",

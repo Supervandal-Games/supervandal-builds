@@ -2922,6 +2922,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.39.0",
+              "versionCode": 58,
+              "engineVersion": "0.5.053",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "pinball-breaker-android-alpha1-v0.39.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-v0.39.0/pinball-breaker-alpha1-v0.39.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/pinball-breaker-android-alpha1-latest/pinball-breaker-alpha1.apk",
+              "size": 46342995,
+              "sha256": "f6346876df2ff01406d8373f634b36c37f9bbb7510efd5c407cec6a0c2da8682",
+              "notes": "LE JEU S'APPELLE FLIPBREAK (logo, table, dos de cartes, booster). PIECES : gagnees a chaque partie (etages, boss, machine) et grace aux nouvelles BRIQUES PIECES violettes. Elles achetent des BILLES dans le nouvel ecran STYLE (8 billes : or, neon, glace, lave, obsidienne, perle, toxique). En fin de partie, une pub facultative DOUBLE les pieces gagnees (pub de test pour l'instant). Aucune pub ne donne d'avantage de jeu. Lien de confidentialite dans le menu.",
+              "date": "2026-10-04T12:51:50+00:00"
+            },
+            {
               "versionName": "0.38.1",
               "versionCode": 57,
               "engineVersion": "0.5.046",
@@ -3720,7 +3734,7 @@
               "date": "2026-09-13T19:23:30+00:00"
             }
           ],
-          "appName": "Pinball Breaker",
+          "appName": "Flipbreak",
           "package": "com.supervandal.pinballbreaker.alpha1"
         }
       }

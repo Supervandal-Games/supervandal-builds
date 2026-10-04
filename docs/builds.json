@@ -4879,6 +4879,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.6.0",
+              "versionCode": 8,
+              "engineVersion": "0.5.051",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "underglow-android-alpha1-v0.6.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/underglow-android-alpha1-v0.6.0/underglow-alpha1-v0.6.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/underglow-android-alpha1-latest/underglow-alpha1.apk",
+              "size": 23155221,
+              "sha256": "99277096ba4962576d784c2f8bafbe828c224b54f656113d1e3d149b6f500dc2",
+              "notes": "SIDEGLOW : le fil est plus large et surtout progressif — plus on approche de la limite, plus on gagne (l'arc chauffe du bleu à l'or, étincelles, compteur et sifflet montent avec). Le moteur respire avec l'accélérateur, coupure aux passages de rapport, pétarades au lever de pied. Optimisations.",
+              "date": "2026-10-04T00:55:25+00:00"
+            },
+            {
               "versionName": "0.5.0",
               "versionCode": 7,
               "engineVersion": "0.5.051",

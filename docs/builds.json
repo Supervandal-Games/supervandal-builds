@@ -800,6 +800,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.82",
+              "versionCode": 105,
+              "engineVersion": "0.5.051",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.82",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.82/cannon-smash-alpha1-v1.82-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 83308298,
+              "sha256": "25f0a1985b338182cfe6b23ed8499bde0b703d83b3f4c76d5d6df27ede3b1344",
+              "notes": "Decor foire, passe 1 : rails, chariots et ames des poteaux en vrai metal poli (chrome, laiton, reflets) ; l'acier sonne enfin comme de l'acier ; mur du fond refait en planches peintes plus larges, bois brut a l'interieur, destruction precise piece par piece ; derriere : une structure de manege rouge, de la tole ondulee, le ciel et des guirlandes d'ampoules",
+              "date": "2026-10-04T00:12:00+00:00"
+            },
+            {
               "versionName": "1.81",
               "versionCode": 104,
               "engineVersion": "0.5.051",

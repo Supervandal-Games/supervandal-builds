@@ -800,6 +800,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.84",
+              "versionCode": 107,
+              "engineVersion": "0.5.051",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.84",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.84/cannon-smash-alpha1-v1.84-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 84261958,
+              "sha256": "3432e62b883473cecacfc0f3e236b92292a57b31daf8ef7e969bca4538998415",
+              "notes": "Western : un civil touche ne vole plus en eclats, il se rabat comme une cible de stand ratee (buzzer, INNOCENT ! -500, penalite inchangee) ; seuls les bandits armes eclatent",
+              "date": "2026-10-04T00:38:13+00:00"
+            },
+            {
               "versionName": "1.83",
               "versionCode": 106,
               "engineVersion": "0.5.051",

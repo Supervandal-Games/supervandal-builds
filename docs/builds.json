@@ -800,6 +800,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.89",
+              "versionCode": 112,
+              "engineVersion": "0.5.053",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.89",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.89/cannon-smash-alpha1-v1.89-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 102708809,
+              "sha256": "d997eb24b6cccc1f8d83fe19ad5a30125978ad9a87f150841a76e49b7d5470d0",
+              "notes": "Boutique, apres ton vote : longue-vue retiree (remboursee), DOUBLE CANON en plus ; snipers refaits (laiton, ivoire, squelette acier, chasseur, calibre 50 rouge) ; canon scie double, tambour rouge, bec d'oiseau recourbe",
+              "date": "2026-10-04T15:37:16+00:00"
+            },
+            {
               "versionName": "1.88",
               "versionCode": 111,
               "engineVersion": "0.5.053",

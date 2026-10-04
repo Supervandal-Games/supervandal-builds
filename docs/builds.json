@@ -800,6 +800,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "1.88",
+              "versionCode": 111,
+              "engineVersion": "0.5.053",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "cannon-smash-android-alpha1-v1.88",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-v1.88/cannon-smash-alpha1-v1.88-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/cannon-smash-android-alpha1-latest/cannon-smash-alpha1.apk",
+              "size": 102876041,
+              "sha256": "2d138ba21a5ee76317912efc4bcff775b088e38e81e51fbc54db27cb551495f6",
+              "notes": "Boutique : MODELES d'armes (5 nouveaux par arme : longue-vue, canon scie, tambour, crosse squelette, calibre 50...) x 7 FINITIONS bien differentes ; les finitions retirees sont remboursees ; promo du jour sur un modele ou une finition",
+              "date": "2026-10-04T11:14:00+00:00"
+            },
+            {
               "versionName": "1.87",
               "versionCode": 110,
               "engineVersion": "0.5.053",

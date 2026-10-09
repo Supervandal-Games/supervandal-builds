@@ -5419,6 +5419,31 @@
           "package": "com.supervandal.game.alpha1"
         }
       }
+    },
+    "plouf": {
+      "title": "plouf",
+      "tracks": {
+        "alpha1": {
+          "builds": [
+            {
+              "versionName": "0.1.0",
+              "versionCode": 1,
+              "engineVersion": "0.5.075",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "plouf-android-alpha1-v0.1.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/plouf-android-alpha1-v0.1.0/plouf-alpha1-v0.1.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/plouf-android-alpha1-latest/plouf-alpha1.apk",
+              "size": 22851257,
+              "sha256": "3bd311e42b77c30d47142c5f04346a507c2f4c5a37f13b912b7d16e4ac4f6dd4",
+              "notes": "First playable 2D comic strip version of Plouf!",
+              "date": "2026-10-09T10:56:33+00:00"
+            }
+          ],
+          "appName": "Plouf",
+          "package": "com.supervandal.game.alpha1"
+        }
+      }
     }
   }
 }

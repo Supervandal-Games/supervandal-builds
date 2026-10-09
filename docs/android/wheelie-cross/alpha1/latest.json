@@ -1,0 +1,19 @@
+{
+  "project": "wheelie-cross",
+  "projectTitle": "wheelie-cross",
+  "track": "alpha1",
+  "appName": "Wheelie Cross Alpha 1",
+  "package": "com.supervandal.game.alpha1",
+  "platform": "android",
+  "versionName": "0.1.0",
+  "versionCode": 1,
+  "engineVersion": "0.5.075",
+  "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/wheelie-cross-android-alpha1-v0.1.0/wheelie-cross-alpha1-v0.1.0-release.apk",
+  "apkUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/wheelie-cross-android-alpha1-v0.1.0/wheelie-cross-alpha1-v0.1.0-release.apk",
+  "size": 20453685,
+  "sha256": "4e5ea0113969fd62a804a3616f8c652e92cc627eaa12ed544b8d6b5abcdb3641",
+  "date": "2026-10-09T00:50:21+00:00",
+  "channel": "debug",
+  "notes": "Build de test 0.1.0 - moteur v0.5.075.",
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/wheelie-cross/alpha1/"
+}

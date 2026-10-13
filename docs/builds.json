@@ -5536,6 +5536,20 @@
         "alpha2": {
           "builds": [
             {
+              "versionName": "0.6.2",
+              "versionCode": 4,
+              "engineVersion": "0.5.091",
+              "config": "Release",
+              "channel": "beta",
+              "tag": "plouf-android-alpha2-v0.6.2",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/plouf-android-alpha2-v0.6.2/plouf-alpha2-v0.6.2-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/plouf-android-alpha2-latest/plouf-alpha2.apk",
+              "size": 71692320,
+              "sha256": "997f3dfeb3124211be86c804c4e4ff0c0d479f6e43180bb23fcee8875ebfdbac",
+              "notes": "Une page a la voix du jeu avant le consentement de Google ; Inviter un ami dans le Profil. Nouvelle interface facon BD et 8 bits, musique boom-bap 8 bits, un decor par lieu (0.6.1).",
+              "date": "2026-10-13T07:20:46+00:00"
+            },
+            {
               "versionName": "0.6.1",
               "versionCode": 3,
               "engineVersion": "0.5.091",

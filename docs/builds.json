@@ -5417,6 +5417,26 @@
           ],
           "appName": "Wheelie Cross Alpha 1",
           "package": "com.supervandal.game.alpha1"
+        },
+        "alpha2": {
+          "builds": [
+            {
+              "versionName": "0.1.0",
+              "versionCode": 1,
+              "engineVersion": "0.5.088",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "wheelie-cross-android-alpha2-v0.1.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/wheelie-cross-android-alpha2-v0.1.0/wheelie-cross-alpha2-v0.1.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/wheelie-cross-android-alpha2-latest/wheelie-cross-alpha2.apk",
+              "size": 22433297,
+              "sha256": "e2864b461bfc6b47e6cfa53753eed39906a79b08657ad2dcb0c29ad29719687b",
+              "notes": "Refonte complete : wheelie a un doigt, moto et pilote physiques, 3 niveaux + canyon sans fin, 125 deux-temps / 450 quatre-temps, son procedural, canyon a l'heure doree.",
+              "date": "2026-10-13T01:08:04+00:00"
+            }
+          ],
+          "appName": "Wheelie Cross Alpha 2",
+          "package": "com.supervandal.wheeliecross.alpha2"
         }
       }
     },

@@ -5622,6 +5622,31 @@
           "package": "com.supervandal.planetthrust.alpha1"
         }
       }
+    },
+    "arcade-casino": {
+      "title": "arcade-casino",
+      "tracks": {
+        "alpha1": {
+          "builds": [
+            {
+              "versionName": "0.2.0",
+              "versionCode": 1,
+              "engineVersion": "0.5.091",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "arcade-casino-android-alpha1-v0.2.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/arcade-casino-android-alpha1-v0.2.0/arcade-casino-alpha1-v0.2.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/arcade-casino-android-alpha1-latest/arcade-casino-alpha1.apk",
+              "size": 48243488,
+              "sha256": "7fd7021735c30e8fd8acc0160362a747c81fd72ad07b76031886c6d0a1f6e6ce",
+              "notes": "Refonte complète : le Salon, un casino 3D façon Balatro, six jeux (machines à sous, pile ou face, plus ou moins, poker, vidéo poker, grattage).",
+              "date": "2026-10-13T07:35:22+00:00"
+            }
+          ],
+          "appName": "Arcade Casino Alpha 1",
+          "package": "com.supervandal.arcadecasino.alpha1"
+        }
+      }
     }
   }
 }

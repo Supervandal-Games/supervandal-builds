@@ -5550,6 +5550,20 @@
         "alpha2": {
           "builds": [
             {
+              "versionName": "0.7.0",
+              "versionCode": 5,
+              "engineVersion": "0.5.093",
+              "config": "Release",
+              "channel": "beta",
+              "tag": "plouf-android-alpha2-v0.7.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/plouf-android-alpha2-v0.7.0/plouf-alpha2-v0.7.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/plouf-android-alpha2-latest/plouf-alpha2.apk",
+              "size": 74208864,
+              "sha256": "b40dddba2ccfbacb0d391d4a004d2d2d15de7579f11caecfa2d8e2cbc32ae039",
+              "notes": "0.7.0 : un décor et des toilettes par lieu (dont à la turque), les intros muettes en pages de BD (un toucher par page), le bonus PROPRE ! au coup de sifflet, et le jeu en quatre langues (français, anglais, allemand, espagnol).",
+              "date": "2026-10-13T08:56:14+00:00"
+            },
+            {
               "versionName": "0.6.2",
               "versionCode": 4,
               "engineVersion": "0.5.091",

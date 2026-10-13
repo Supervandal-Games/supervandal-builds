@@ -5618,6 +5618,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.2.0",
+              "versionCode": 2,
+              "engineVersion": "0.5.092",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "planet-thrust-android-alpha1-v0.2.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/planet-thrust-android-alpha1-v0.2.0/planet-thrust-alpha1-v0.2.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/planet-thrust-android-alpha1-latest/planet-thrust-alpha1.apk",
+              "size": 29746203,
+              "sha256": "d30fe30db1bed1c4556792a4f90df7bdadf439d444966f7140d50dcd4af2ab0e",
+              "notes": "Passe graphique : espace presque realiste, vraies etoiles, gravite (les planetes attirent et sont attirees), niveaux ouverts chronometres, visee instantanee.",
+              "date": "2026-10-13T08:03:20+00:00"
+            },
+            {
               "versionName": "0.1.0",
               "versionCode": 1,
               "engineVersion": "0.5.090",

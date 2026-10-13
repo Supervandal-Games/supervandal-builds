@@ -5421,6 +5421,20 @@
         "alpha2": {
           "builds": [
             {
+              "versionName": "0.3.0",
+              "versionCode": 4,
+              "engineVersion": "0.5.089",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "wheelie-cross-android-alpha2-v0.3.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/wheelie-cross-android-alpha2-v0.3.0/wheelie-cross-alpha2-v0.3.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/wheelie-cross-android-alpha2-latest/wheelie-cross-alpha2.apk",
+              "size": 24907223,
+              "sha256": "ac0b00a43ec53866aa8928197950f68c4e4614fd65d60f41ca03b9190534ca30",
+              "notes": "Relacher l'ecran freine, de plus en plus fort tant que le doigt reste leve : un tapotement freine a peine, un long relacher arrete la moto, et a pleine vitesse on passe par-dessus le guidon. Freiner un instant puis remettre les gaz fait lever la roue avant meme lance.",
+              "date": "2026-10-13T05:04:18+00:00"
+            },
+            {
               "versionName": "0.2.1",
               "versionCode": 3,
               "engineVersion": "0.5.089",

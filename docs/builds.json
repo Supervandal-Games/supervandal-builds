@@ -5421,6 +5421,20 @@
         "alpha2": {
           "builds": [
             {
+              "versionName": "0.4.0",
+              "versionCode": 5,
+              "engineVersion": "0.5.092",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "wheelie-cross-android-alpha2-v0.4.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/wheelie-cross-android-alpha2-v0.4.0/wheelie-cross-alpha2-v0.4.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/wheelie-cross-android-alpha2-latest/wheelie-cross-alpha2.apk",
+              "size": 25852599,
+              "sha256": "5da2dccbfdd67349beba25bfdc206c7d6c1847ca367dd635a7666f013e51e45f",
+              "notes": "Grosse mise a jour : deux zones (droite = gaz a fond, gauche = freins), figures et combos (wheeling, air, saltos, reception roue arriere), la montagne (roche, blocs, neige glissante), la tole dans le desert, 10 niveaux dont 2 boss, virages, nouvelle interface.",
+              "date": "2026-10-13T07:57:44+00:00"
+            },
+            {
               "versionName": "0.3.0",
               "versionCode": 4,
               "engineVersion": "0.5.089",

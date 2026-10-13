@@ -5569,6 +5569,31 @@
         }
       },
       "description": "Aide un cadre constipe a pousser sans exploser : 60 secondes, un doigt, du gore cartoon. 18+."
+    },
+    "planet-thrust": {
+      "title": "planet-thrust",
+      "tracks": {
+        "alpha1": {
+          "builds": [
+            {
+              "versionName": "0.1.0",
+              "versionCode": 1,
+              "engineVersion": "0.5.090",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "planet-thrust-android-alpha1-v0.1.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/planet-thrust-android-alpha1-v0.1.0/planet-thrust-alpha1-v0.1.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/planet-thrust-android-alpha1-latest/planet-thrust-alpha1.apk",
+              "size": 25179807,
+              "sha256": "3be79ec65e7836cb3a6a64d807f88e637a578bb8ce9b46bc355bd285cd5b1d4b",
+              "notes": "Premier prototype : pilote une planete-volcan d'un doigt, gobe les etoiles, evite le SPLAT. 12 niveaux + mode infini.",
+              "date": "2026-10-13T05:41:09+00:00"
+            }
+          ],
+          "appName": "Planet Splat Alpha 1",
+          "package": "com.supervandal.planetthrust.alpha1"
+        }
+      }
     }
   }
 }

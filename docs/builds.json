@@ -5421,6 +5421,20 @@
         "alpha2": {
           "builds": [
             {
+              "versionName": "0.2.0",
+              "versionCode": 2,
+              "engineVersion": "0.5.089",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "wheelie-cross-android-alpha2-v0.2.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/wheelie-cross-android-alpha2-v0.2.0/wheelie-cross-alpha2-v0.2.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/wheelie-cross-android-alpha2-latest/wheelie-cross-alpha2.apk",
+              "size": 24546003,
+              "sha256": "d3ec343b55d5688673698470ed29660bd634483ad7d847b72f6c557ea3514614",
+              "notes": "Camera drone FPV : rail qui traine et vise devant la moto, trois-quarts arriere avec la vitesse, roulis qui suit le cabrage, rase-mottes, zooms eclair, tremblement ; cailloux et touffes au ras du sol.",
+              "date": "2026-10-13T03:25:00+00:00"
+            },
+            {
               "versionName": "0.1.0",
               "versionCode": 1,
               "engineVersion": "0.5.088",

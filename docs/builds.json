@@ -5421,6 +5421,20 @@
         "alpha2": {
           "builds": [
             {
+              "versionName": "0.4.1",
+              "versionCode": 6,
+              "engineVersion": "0.5.098",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "wheelie-cross-android-alpha2-v0.4.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/wheelie-cross-android-alpha2-v0.4.1/wheelie-cross-alpha2-v0.4.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/wheelie-cross-android-alpha2-latest/wheelie-cross-alpha2.apk",
+              "size": 26167159,
+              "sha256": "cbefc5078346e84dc24944d9f5a3210eedaf7e4a81f9d66e461adb69bad2a5eb",
+              "notes": "Correctif : les boutons du menu repondent enfin au doigt (JOUER, mondes, niveaux, pause...).",
+              "date": "2026-10-13T17:29:02+00:00"
+            },
+            {
               "versionName": "0.4.0",
               "versionCode": 5,
               "engineVersion": "0.5.092",

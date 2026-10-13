@@ -1,0 +1,19 @@
+{
+  "project": "plouf",
+  "projectTitle": "Plouf!",
+  "track": "alpha2",
+  "appName": "Plouf! Alpha 2",
+  "package": "com.supervandal.plouf.alpha2",
+  "platform": "android",
+  "versionName": "0.5.0",
+  "versionCode": 1,
+  "engineVersion": "0.5.088",
+  "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/plouf-android-alpha2-v0.5.0/plouf-alpha2-v0.5.0-release.apk",
+  "apkUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/plouf-android-alpha2-v0.5.0/plouf-alpha2-v0.5.0-release.apk",
+  "size": 58052998,
+  "sha256": "f4267ccbfc02cd2a818dc9c5780057fbd97b49177890ce2adf1d30a678d6779e",
+  "date": "2026-10-13T01:08:31+00:00",
+  "channel": "beta",
+  "notes": "Refonte complete : la run de 60 s au doigt, deux personnages dessines a 12 i/s, le gore, la boutique, les classements.",
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/plouf/alpha2/"
+}

@@ -5441,7 +5441,7 @@
       }
     },
     "plouf": {
-      "title": "plouf",
+      "title": "Plouf!",
       "tracks": {
         "alpha1": {
           "builds": [
@@ -5490,8 +5490,29 @@
           ],
           "appName": "Plouf",
           "package": "com.supervandal.game.alpha1"
+        },
+        "alpha2": {
+          "builds": [
+            {
+              "versionName": "0.5.0",
+              "versionCode": 1,
+              "engineVersion": "0.5.088",
+              "config": "Release",
+              "channel": "beta",
+              "tag": "plouf-android-alpha2-v0.5.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/plouf-android-alpha2-v0.5.0/plouf-alpha2-v0.5.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/plouf-android-alpha2-latest/plouf-alpha2.apk",
+              "size": 58052998,
+              "sha256": "f4267ccbfc02cd2a818dc9c5780057fbd97b49177890ce2adf1d30a678d6779e",
+              "notes": "Refonte complete : la run de 60 s au doigt, deux personnages dessines a 12 i/s, le gore, la boutique, les classements.",
+              "date": "2026-10-13T01:08:31+00:00"
+            }
+          ],
+          "appName": "Plouf! Alpha 2",
+          "package": "com.supervandal.plouf.alpha2"
         }
-      }
+      },
+      "description": "Aide un cadre constipe a pousser sans exploser : 60 secondes, un doigt, du gore cartoon. 18+."
     }
   }
 }

@@ -5809,6 +5809,32 @@
           "package": "com.supervandal.chickenfarm.alpha1"
         }
       }
+    },
+    "eggscape-run": {
+      "title": "Eggscape: Run!",
+      "description": "Top-down physics platformer: Egg -> Chick -> Chicken cycle, crash-hatching, magic pipes & VCR Rewind",
+      "tracks": {
+        "alpha1": {
+          "builds": [
+            {
+              "versionName": "0.1.0",
+              "versionCode": 1,
+              "engineVersion": "0.5.108",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "eggscape-run-android-alpha1-v0.1.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/eggscape-run-android-alpha1-v0.1.0/eggscape-run-alpha1-v0.1.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/eggscape-run-android-alpha1-latest/eggscape-run-alpha1.apk",
+              "size": 17319665,
+              "sha256": "92b3ffb7c72eca812399fdebe93c9fdf434a35210d9445c52f02b2de50f17efe",
+              "notes": "Initial 5-level prototype (Level 1 Machete freeze-frame, Highway, Factory, Elysee Maze, Boss Run)",
+              "date": "2026-10-15T16:10:13+00:00"
+            }
+          ],
+          "appName": "Eggscape: Run!",
+          "package": "com.supervandal.eggscaperun.alpha1"
+        }
+      }
     }
   }
 }

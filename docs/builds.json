@@ -5873,6 +5873,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.1.2",
+              "versionCode": 3,
+              "engineVersion": "0.5.108",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "eggscape-run-android-alpha1-v0.1.2",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/eggscape-run-android-alpha1-v0.1.2/eggscape-run-alpha1-v0.1.2-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/eggscape-run-android-alpha1-latest/eggscape-run-alpha1.apk",
+              "size": 17684461,
+              "sha256": "96bd14b1ed55ddb327d0a338d5df1e9872458dd6bcb6d242e9fce70e70dd1b0a",
+              "notes": "v0.1.2: Vrai modele 3D d'oeuf sculpte a facettes avec fissures 3D, toon shading avec hachures ombragees (Shader ID 7 Sketch) unifie sur le sol et toute la scene, posterisation de couleur hand-drawn (12 niveaux + grain papier), et animations pose-par-pose cadencees a 12-15 FPS.",
+              "date": "2026-10-15T21:32:30+00:00"
+            },
+            {
               "versionName": "0.1.1",
               "versionCode": 2,
               "engineVersion": "0.5.108",

@@ -5771,11 +5771,25 @@
       }
     },
     "chicken-farm": {
-      "title": "Eggscape!",
+      "title": "Eggscape Roguelite",
       "description": "Dynastie de poules cartoon contre le rouleau compresseur !",
       "tracks": {
         "alpha1": {
           "builds": [
+            {
+              "versionName": "0.3.0",
+              "versionCode": 3,
+              "engineVersion": "0.5.108",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "chicken-farm-android-alpha1-v0.3.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/chicken-farm-android-alpha1-v0.3.0/chicken-farm-alpha1-v0.3.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/chicken-farm-android-alpha1-latest/chicken-farm-alpha1.apk",
+              "size": 11788697,
+              "sha256": "2e21fe6940b901cdc9707942c75314d0704182acbd80f218f839ac0a8ba50ef2",
+              "notes": "Eggscape Roguelite v0.3.0 : Oeuf rond PBR brillant + vraies fissures 3D en eclair, Poussin et Poule sculptes (bec pointu, yeux noirs brillants, ailes et petite queue), empreintes de pattes persistantes 60s par instancing GPU (1 Draw Call), Panier de Livraison et Banque d'Oeufs.",
+              "date": "2026-10-15T16:30:44+00:00"
+            },
             {
               "versionName": "0.2.0",
               "versionCode": 2,

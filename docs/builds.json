@@ -5751,6 +5751,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.2.0",
+              "versionCode": 2,
+              "engineVersion": "0.5.108",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "chroma-pour-android-alpha1-v0.2.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/chroma-pour-android-alpha1-v0.2.0/chroma-pour-alpha1-v0.2.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/chroma-pour-android-alpha1-latest/chroma-pour-alpha1.apk",
+              "size": 10312277,
+              "sha256": "bbfbb117d1277451667ff39147c896e11f125fe513a7cbd982a7e8c93c5d997c",
+              "notes": "v0.2.0 - Overhaul AAA suite aux retours Pixel 6a : 5 meshes 3D biseautes sur mesure (.glb), eclairage studio PBR 4 lampes + Fresnel + Bloom, physique granulaire ultra-nerveuse (gravite -95, 0 damping), 3 couleurs de micro-billes des le niveau 1, tamis Grizzly 3D Twin-Rail sans blocage, colonnes a bulles effervescentes, aimants cuivre et fioles en cristal avec etoiles 3D.",
+              "date": "2026-10-15T16:39:03+00:00"
+            },
+            {
               "versionName": "0.1.0",
               "versionCode": 1,
               "engineVersion": "0.5.108",

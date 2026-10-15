@@ -5729,6 +5729,32 @@
           "package": "com.supervandal.virtuagunner.alpha1"
         }
       }
+    },
+    "chroma-pour": {
+      "title": "Chroma Pour",
+      "description": "Alchemical & Neon Granular Sand Decanter (500 Marbles, 3 Physical Profiles, 5 Single-Screen Levels)",
+      "tracks": {
+        "alpha1": {
+          "builds": [
+            {
+              "versionName": "0.1.0",
+              "versionCode": 1,
+              "engineVersion": "0.5.108",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "chroma-pour-android-alpha1-v0.1.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/chroma-pour-android-alpha1-v0.1.0/chroma-pour-alpha1-v0.1.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/chroma-pour-android-alpha1-latest/chroma-pour-alpha1.apk",
+              "size": 10208469,
+              "sha256": "fcf366ef092d8ff848aaa72f45fe6d9d591f7be976f27639f6638d2ba7f7d6c2",
+              "notes": "Sprint S0 Prototype (R3): 500 granular marbles (Cyan Fines, Magenta Pearls, Heavy Amber), 5 single-screen levels (I-IIIII), calibrated grizzly sieves, bubble updraft column, bistable diverters, counterweight trapdoor, sealable flask stoppers, 180 flip, and diegetic glass gauges.",
+              "date": "2026-10-15T11:26:53+00:00"
+            }
+          ],
+          "appName": "Chroma Pour Alpha 1",
+          "package": "com.supervandal.chromapour.alpha1"
+        }
+      }
     }
   }
 }

@@ -1,0 +1,19 @@
+{
+  "project": "chicken-farm",
+  "projectTitle": "Eggscape!",
+  "track": "alpha1",
+  "appName": "Eggscape! Alpha 1",
+  "package": "com.supervandal.chickenfarm.alpha1",
+  "platform": "android",
+  "versionName": "0.1.0",
+  "versionCode": 1,
+  "engineVersion": "0.5.108",
+  "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/chicken-farm-android-alpha1-v0.1.0/chicken-farm-alpha1-v0.1.0-release.apk",
+  "apkUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/chicken-farm-android-alpha1-v0.1.0/chicken-farm-alpha1-v0.1.0-release.apk",
+  "size": 11345297,
+  "sha256": "fdc84d2f382cabbf19b12f92f03fec42936f06c8b3db1d84e5ed3d8b0e916234",
+  "date": "2026-10-15T14:01:12+00:00",
+  "channel": "debug",
+  "notes": "v0.1.0 Sprint S0 : Prototype cartoon Toon Cel-Shading, cou extensible, crete et barbillons physiques, cris Coooc/Cotcot",
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/chicken-farm/alpha1/"
+}

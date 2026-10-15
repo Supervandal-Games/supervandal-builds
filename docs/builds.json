@@ -5703,6 +5703,32 @@
           "package": "com.supervandal.arcadecasino.alpha1"
         }
       }
+    },
+    "virtua-gunner": {
+      "title": "Virtua Gunner",
+      "description": "3D Arcade Rail-Shooter — Mitrailleuse lourde sur Jeep & Physique de chaine 2D/3D",
+      "tracks": {
+        "alpha1": {
+          "builds": [
+            {
+              "versionName": "0.1.0",
+              "versionCode": 1,
+              "engineVersion": "0.5.108",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "virtua-gunner-android-alpha1-v0.1.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/virtua-gunner-android-alpha1-v0.1.0/virtua-gunner-alpha1-v0.1.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/virtua-gunner-android-alpha1-latest/virtua-gunner-alpha1.apk",
+              "size": 13744541,
+              "sha256": "be6de82f09f330a30b993b6596bc6fa7919c561270071eb1fd1dab4e23cf263f",
+              "notes": "Prototype Environnement 1 : Mitrailleuse lourde a double inertie (Swipe Throw & Hold + Feathering + Thermal Overdrive), chaine de munitions physique 2D/3D, recharge Drag & Drop en 2 etapes, Jeep sur route twistee et Rewind 3D.",
+              "date": "2026-10-15T10:47:50+00:00"
+            }
+          ],
+          "appName": "Virtua Gunner Alpha 1",
+          "package": "com.supervandal.virtuagunner.alpha1"
+        }
+      }
     }
   }
 }

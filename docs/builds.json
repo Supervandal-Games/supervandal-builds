@@ -5711,6 +5711,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.3.0",
+              "versionCode": 3,
+              "engineVersion": "0.5.108",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "virtua-gunner-android-alpha1-v0.3.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/virtua-gunner-android-alpha1-v0.3.0/virtua-gunner-alpha1-v0.3.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/virtua-gunner-android-alpha1-latest/virtua-gunner-alpha1.apk",
+              "size": 15030073,
+              "sha256": "3f04d25838561affa882bb6d993a91a1c99dd99720cf45c8bed827a9cc11ffbc",
+              "notes": "v0.3.0: Tir arriere 360, alignement 4 coins, 5 bonus & blindage 5 crans, 50 niveaux, musique electro & victoire/leaderboard",
+              "date": "2026-10-15T21:02:28+00:00"
+            },
+            {
               "versionName": "0.2.0",
               "versionCode": 2,
               "engineVersion": "0.5.108",

@@ -5711,6 +5711,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.2.0",
+              "versionCode": 2,
+              "engineVersion": "0.5.108",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "virtua-gunner-android-alpha1-v0.2.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/virtua-gunner-android-alpha1-v0.2.0/virtua-gunner-alpha1-v0.2.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/virtua-gunner-android-alpha1-latest/virtua-gunner-alpha1.apk",
+              "size": 14465401,
+              "sha256": "806e49e05603ef17dde26b1496467fa84c9ec47b2d403948236d968ed377bb5e",
+              "notes": "v0.2.0 AA Daylight Prototype (Underglow 3D road, 3-act narrative, destructibles, Pixel 6a UI & Rewind fixes)",
+              "date": "2026-10-15T14:28:57+00:00"
+            },
+            {
               "versionName": "0.1.0",
               "versionCode": 1,
               "engineVersion": "0.5.108",

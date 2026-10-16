@@ -5819,6 +5819,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.3.2",
+              "versionCode": 5,
+              "engineVersion": "0.5.108",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "chicken-farm-android-alpha1-v0.3.2",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/chicken-farm-android-alpha1-v0.3.2/chicken-farm-alpha1-v0.3.2-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/chicken-farm-android-alpha1-latest/chicken-farm-alpha1.apk",
+              "size": 11851233,
+              "sha256": "944f38babe78b89f1ee23efa12c9b30acdec1d1324bdec1566a462791a330ab5",
+              "notes": "Sprint S2.7: Sol (meadow_ground_sketch.glb) et decor 100% unifies sous le Toon Shading a Hachures Ombragees (Sketch, CoreConfig.x = 7), posterisation 14 niveaux + Bayer dithering + grain papier, et animations stop-motion en poses cles 10-16 FPS (Oeuf, Poussin, Poule, Ondes).",
+              "date": "2026-10-16T12:18:33+00:00"
+            },
+            {
               "versionName": "0.3.1",
               "versionCode": 4,
               "engineVersion": "0.5.108",
@@ -5875,7 +5889,7 @@
               "date": "2026-10-15T14:01:12+00:00"
             }
           ],
-          "appName": "Eggscape! Alpha 1",
+          "appName": "Eggscape Roguelite Alpha 1",
           "package": "com.supervandal.chickenfarm.alpha1"
         }
       }

@@ -5765,6 +5765,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.2.1",
+              "versionCode": 3,
+              "engineVersion": "0.5.108",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "chroma-pour-android-alpha1-v0.2.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/chroma-pour-android-alpha1-v0.2.1/chroma-pour-alpha1-v0.2.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/chroma-pour-android-alpha1-latest/chroma-pour-alpha1.apk",
+              "size": 10313937,
+              "sha256": "09478eadf4dca23f1550f08b4babc65c616f9512d8be83dbab4db8d39ed66760",
+              "notes": "v0.2.1 - Fix accelerometre 3 axes : suppression du clamp force sur gy (-85 m/s2), la gravite suit desormais a 100% l'inclinaison reelle du telephone sur 360 degres et tombe a 0 dans le plan de l'ecran lorsque l'appareil est pose a plat.",
+              "date": "2026-10-16T12:15:16+00:00"
+            },
+            {
               "versionName": "0.2.0",
               "versionCode": 2,
               "engineVersion": "0.5.108",

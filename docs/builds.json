@@ -5919,6 +5919,32 @@
           "package": "com.supervandal.eggscaperun.alpha1"
         }
       }
+    },
+    "slidewing": {
+      "title": "Tapwing",
+      "description": "Shoot-'em-up 3D portrait a 120 FPS : esquive tactile Zone Basse (25%) & visee manuelle Tap-Aim Zone Haute (75%)",
+      "tracks": {
+        "alpha1": {
+          "builds": [
+            {
+              "versionName": "0.1.0",
+              "versionCode": 1,
+              "engineVersion": "0.5.108",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "slidewing-android-alpha1-v0.1.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/slidewing-android-alpha1-v0.1.0/slidewing-alpha1-v0.1.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/slidewing-android-alpha1-latest/slidewing-alpha1.apk",
+              "size": 22058446,
+              "sha256": "c45799b499196354ab12792858f93d284abdc7c7616c54ee7f73bd86c7b5ee3f",
+              "notes": "v0.1.0 (S0-S4) : Campagne 50 missions (5 secteurs, 5 Boss multi-tourelles), Patrouille Infinie, Sortie du Jour, controle tactile scinde (Zone Basse esquive/Barrel Roll, Zone Haute tir 100% manuel + Soft-Lock + aimant a cristaux au relachement), Hangar skins, audio svdsp et Options FPS 30/60/90/120/Auto.",
+              "date": "2026-10-16T12:00:27+00:00"
+            }
+          ],
+          "appName": "Tapwing Alpha 1",
+          "package": "com.supervandal.slidewing.alpha1"
+        }
+      }
     }
   }
 }

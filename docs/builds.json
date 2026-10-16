@@ -5945,6 +5945,31 @@
           "package": "com.supervandal.slidewing.alpha1"
         }
       }
+    },
+    "bon-appetit": {
+      "title": "bon-appetit",
+      "tracks": {
+        "alpha1": {
+          "builds": [
+            {
+              "versionName": "0.1.0",
+              "versionCode": 1,
+              "engineVersion": "0.5.108",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "bon-appetit-android-alpha1-v0.1.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/bon-appetit-android-alpha1-v0.1.0/bon-appetit-alpha1-v0.1.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/bon-appetit-android-alpha1-latest/bon-appetit-alpha1.apk",
+              "size": 11864377,
+              "sha256": "d4c61d61702e98846bbaa03b3789211bb52bedcd533f6f584d0e87b53953f19f",
+              "notes": "Sprint S1: Prototype jouable 5 aliments soft-body + morph targets (roles Aliment & Mangeur)",
+              "date": "2026-10-16T12:01:18+00:00"
+            }
+          ],
+          "appName": "Bon Appetit Alpha 1",
+          "package": "com.supervandal.bonappetit.alpha1"
+        }
+      }
     }
   }
 }

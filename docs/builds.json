@@ -6055,6 +6055,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.3.0",
+              "versionCode": 5,
+              "engineVersion": "0.5.144",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "eggscape-run-android-alpha1-v0.3.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/eggscape-run-android-alpha1-v0.3.0/eggscape-run-alpha1-v0.3.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/eggscape-run-android-alpha1-latest/eggscape-run-alpha1.apk",
+              "size": 20865745,
+              "sha256": "685a1e3a90ede30fe38c7335a737a785f3f4975c0a2318ea5a83c210f1b744be",
+              "notes": "La proposition tranchée : un circuit de dalles au-dessus de l'eau, caméra de trois quarts, trois niveaux (La boule, La route, Adieu la poule), accueil, pause, fin à étoiles. Le poussin se dirige au swipe.",
+              "date": "2026-10-17T23:15:31+00:00"
+            },
+            {
               "versionName": "0.2.0",
               "versionCode": 4,
               "engineVersion": "0.5.142",

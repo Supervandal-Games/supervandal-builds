@@ -6041,6 +6041,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.2.0",
+              "versionCode": 4,
+              "engineVersion": "0.5.142",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "eggscape-run-android-alpha1-v0.2.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/eggscape-run-android-alpha1-v0.2.0/eggscape-run-alpha1-v0.2.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/eggscape-run-android-alpha1-latest/eggscape-run-alpha1.apk",
+              "size": 20893713,
+              "sha256": "9d94c6f394e59c69fdc6304685a3405a63957ad573e13057817321f86ac350d4",
+              "notes": "Run repart de Roguelite (golf, poses, gestes, symboles, obstacles). Niveau 1 « la boule » : dirige l'œuf au swipe comme une balle de golf jusqu'au nid au nord, à travers trois murets, sans le casser (un choc violent le fend, trois fentes et il éclot).",
+              "date": "2026-10-17T22:01:20+00:00"
+            },
+            {
               "versionName": "0.1.2",
               "versionCode": 3,
               "engineVersion": "0.5.108",

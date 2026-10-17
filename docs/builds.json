@@ -5819,6 +5819,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.5.0",
+              "versionCode": 7,
+              "engineVersion": "0.5.112",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "chicken-farm-android-alpha1-v0.5.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/chicken-farm-android-alpha1-v0.5.0/chicken-farm-alpha1-v0.5.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/chicken-farm-android-alpha1-latest/chicken-farm-alpha1.apk",
+              "size": 13648513,
+              "sha256": "3815c96177f6713aead78f6ded8632244ae1e61699eebdac4123715333c4040b",
+              "notes": "Build de test 0.5.0 - moteur v0.5.112.",
+              "date": "2026-10-17T02:28:45+00:00"
+            },
+            {
               "versionName": "0.4.0",
               "versionCode": 6,
               "engineVersion": "0.5.110",

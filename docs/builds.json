@@ -5819,6 +5819,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.5.2",
+              "versionCode": 9,
+              "engineVersion": "0.5.140",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "chicken-farm-android-alpha1-v0.5.2",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/chicken-farm-android-alpha1-v0.5.2/chicken-farm-alpha1-v0.5.2-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/chicken-farm-android-alpha1-latest/chicken-farm-alpha1.apk",
+              "size": 16569061,
+              "sha256": "bd54077c68867fba2426ad90b4d5b9a940054a3bfefde8fbb3bb8812ba9c6a83",
+              "notes": "Poses dessinées : la poule court après sa tête (accroupie, bond, atterrissage), le poussin saute en quatre poses et va lentement quand on le dirige. On prend une bête en gardant le doigt dessus 0,25 s (plus de boutons PAWN ni ZOOM). Peu de mots à l'écran, et le jeu parle français, anglais, allemand et espagnol.",
+              "date": "2026-10-17T19:58:54+00:00"
+            },
+            {
               "versionName": "0.5.1",
               "versionCode": 8,
               "engineVersion": "0.5.139",

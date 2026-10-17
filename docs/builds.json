@@ -5847,6 +5847,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.7.0",
+              "versionCode": 12,
+              "engineVersion": "0.5.141",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "chicken-farm-android-alpha1-v0.7.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/chicken-farm-android-alpha1-v0.7.0/chicken-farm-alpha1-v0.7.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/chicken-farm-android-alpha1-latest/chicken-farm-alpha1.apk",
+              "size": 17024289,
+              "sha256": "a829eb1a0b52d60fdc5a4710348f9681fdbbd7bcfc0f18209969ae5cbd39cb73",
+              "notes": "Tes retours sur la 0.6.1 : boutons au relâcher seulement, le pincement n'a plus d'effets de bord ni de rezoom, on tapote l'œuf lui-même, le poussin bondit vers le doigt (+15 %), PONDRE seulement pour la poule, deux symboles d'appel (Nova), cercle d'appel plein puis qui se resserre, la poule rattrape sa tête bien plus vite avec une plume au départ, ailes qui frémissent, génération au-dessus de chaque bête, et des obstacles : la tête bute sur les hauts, la poule saute sur les bas.",
+              "date": "2026-10-17T21:37:17+00:00"
+            },
+            {
               "versionName": "0.6.1",
               "versionCode": 11,
               "engineVersion": "0.5.141",

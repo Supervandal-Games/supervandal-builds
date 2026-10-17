@@ -6189,6 +6189,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.3.5",
+              "versionCode": 9,
+              "engineVersion": "0.5.144",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "gelato-shop-android-alpha1-v0.3.5",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-v0.3.5/gelato-shop-alpha1-v0.3.5-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-latest/gelato-shop-alpha1.apk",
+              "size": 16632769,
+              "sha256": "d484f7c082538ea51c635c5caabd8e24ff40060555bf32d238c2cb051204d80f",
+              "notes": "Glace posee quasi gratuite a calculer (matiere endormie + maillage qui suit le cornet) : objectif 60 i/s sur Pixel 6a.",
+              "date": "2026-10-17T23:10:49+00:00"
+            },
+            {
               "versionName": "0.3.4",
               "versionCode": 8,
               "engineVersion": "0.5.144",

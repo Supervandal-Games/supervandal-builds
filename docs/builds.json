@@ -5833,6 +5833,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.6.0",
+              "versionCode": 10,
+              "engineVersion": "0.5.141",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "chicken-farm-android-alpha1-v0.6.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/chicken-farm-android-alpha1-v0.6.0/chicken-farm-alpha1-v0.6.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/chicken-farm-android-alpha1-latest/chicken-farm-alpha1.apk",
+              "size": 16590625,
+              "sha256": "d9fd585ce2fd498b849ec7255d1fc9776958b5448ff898f6744ded504f35ff43",
+              "notes": "Quatre niveaux-propositions, une règle changée par niveau : R-1 la cour au rouleau, R-2 le fermier en personne (il choisit une bête au hasard et l'emporte), R-3 les nids imposés (on ne pond que dans les nids), R-4 couver pour cacher (la poule couve son œuf ; reste et il la prend, fuis et il voit l'œuf). Deux œufs livrés ramènent à la cour, sur le niveau suivant. Le fermier est encore provisoire. Contient aussi la 0.5.3 : la lignée perdue perd son œuf, textes relus par Babel.",
+              "date": "2026-10-17T20:50:59+00:00"
+            },
+            {
               "versionName": "0.5.2",
               "versionCode": 9,
               "engineVersion": "0.5.140",

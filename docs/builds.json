@@ -5819,6 +5819,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.5.1",
+              "versionCode": 8,
+              "engineVersion": "0.5.139",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "chicken-farm-android-alpha1-v0.5.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/chicken-farm-android-alpha1-v0.5.1/chicken-farm-alpha1-v0.5.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/chicken-farm-android-alpha1-latest/chicken-farm-alpha1.apk",
+              "size": 16561057,
+              "sha256": "07b45025e4439989303dffd7f88b5c8798743386263f05deba2ff9ab04a74888",
+              "notes": "Le geste de golf : la tête de la poule frappe l'œuf. Il part à la vitesse et dans la direction du coup (centré = droit, décentré = de biais), roule droit puis tourne en fin de course, et s'arrête net. La tête ne saute plus sur le corps au début d'un glissé.",
+              "date": "2026-10-17T19:32:48+00:00"
+            },
+            {
               "versionName": "0.5.0",
               "versionCode": 7,
               "engineVersion": "0.5.112",

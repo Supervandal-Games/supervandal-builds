@@ -5711,6 +5711,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.4.0",
+              "versionCode": 4,
+              "engineVersion": "0.5.140",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "virtua-gunner-android-alpha1-v0.4.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/virtua-gunner-android-alpha1-v0.4.0/virtua-gunner-alpha1-v0.4.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/virtua-gunner-android-alpha1-latest/virtua-gunner-alpha1.apk",
+              "size": 18350761,
+              "sha256": "49baa093e927162d3da14120d45aeeb29e810ba84274cd21ce9a69fb68d3249a",
+              "notes": "R4: refonte complete. Un niveau, La Route du Cap : visee 1:1 avec lancer, surchauffe a paliers, rechargement par un swipe, zones de touche reelles, anneaux de menace, note de F a S.",
+              "date": "2026-10-17T20:32:37+00:00"
+            },
+            {
               "versionName": "0.3.0",
               "versionCode": 3,
               "engineVersion": "0.5.108",

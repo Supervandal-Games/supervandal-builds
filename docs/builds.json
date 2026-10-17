@@ -5833,6 +5833,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.6.1",
+              "versionCode": 11,
+              "engineVersion": "0.5.141",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "chicken-farm-android-alpha1-v0.6.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/chicken-farm-android-alpha1-v0.6.1/chicken-farm-alpha1-v0.6.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/chicken-farm-android-alpha1-latest/chicken-farm-alpha1.apk",
+              "size": 16661665,
+              "sha256": "68258829691e384530050412b37101f3e7a0898161b5a5099f5a0a5c0842fd90",
+              "notes": "Le fermier a son vrai modèle (chapeau de paille, salopette, moustache, sac à volailles) dans les niveaux R-2 et R-4.",
+              "date": "2026-10-17T20:55:21+00:00"
+            },
+            {
               "versionName": "0.6.0",
               "versionCode": 10,
               "engineVersion": "0.5.141",

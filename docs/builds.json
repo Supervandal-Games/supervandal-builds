@@ -6189,6 +6189,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.3.3",
+              "versionCode": 7,
+              "engineVersion": "0.5.144",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "gelato-shop-android-alpha1-v0.3.3",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-v0.3.3/gelato-shop-alpha1-v0.3.3-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-latest/gelato-shop-alpha1.apk",
+              "size": 16629377,
+              "sha256": "17ef7de47e107f97ddde5462ef0db6c6bc5ea8501af98d067fccacf56faf7f0f",
+              "notes": "Ecran de fin de commande au kit : etoiles, pieces creditees (module casual du moteur) ; nouveau cornet vide a chaque client.",
+              "date": "2026-10-17T23:02:46+00:00"
+            },
+            {
               "versionName": "0.3.2",
               "versionCode": 6,
               "engineVersion": "0.5.144",

@@ -5847,6 +5847,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.7.2",
+              "versionCode": 14,
+              "engineVersion": "0.5.142",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "chicken-farm-android-alpha1-v0.7.2",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/chicken-farm-android-alpha1-v0.7.2/chicken-farm-alpha1-v0.7.2-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/chicken-farm-android-alpha1-latest/chicken-farm-alpha1.apk",
+              "size": 16954721,
+              "sha256": "4810e41eed284334be8e187ee69b71ba1e8a9682885bd991faae9ae664fb576a",
+              "notes": "Le poussin se dirige de nouveau au swipe, n'importe où sur l'écran, comme une petite poule : il se tourne vers le geste et fait un petit bond au lâcher.",
+              "date": "2026-10-17T22:28:46+00:00"
+            },
+            {
               "versionName": "0.7.1",
               "versionCode": 13,
               "engineVersion": "0.5.142",

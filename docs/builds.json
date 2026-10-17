@@ -6073,10 +6073,24 @@
       }
     },
     "bon-appetit": {
-      "title": "bon-appetit",
+      "title": "Bon Appetit",
       "tracks": {
         "alpha1": {
           "builds": [
+            {
+              "versionName": "0.2.0",
+              "versionCode": 2,
+              "engineVersion": "0.5.141",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "bon-appetit-android-alpha1-v0.2.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/bon-appetit-android-alpha1-v0.2.0/bon-appetit-alpha1-v0.2.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/bon-appetit-android-alpha1-latest/bon-appetit-alpha1.apk",
+              "size": 17521093,
+              "sha256": "dc434cbcf3f569b914cd0444fdc9d360507b7bef7bbf5ebe3639b9659330450a",
+              "notes": "Prototype jouable en solo contre des bots : Aliment ou Mangeur, 5 aliments et leurs coups speciaux, l'echange, la sauce, le repas. Retours bienvenus sur l'engagement de la fourchette, l'echange et les speciaux.",
+              "date": "2026-10-17T20:57:36+00:00"
+            },
             {
               "versionName": "0.1.0",
               "versionCode": 1,
@@ -6095,7 +6109,8 @@
           "appName": "Bon Appetit Alpha 1",
           "package": "com.supervandal.bonappetit.alpha1"
         }
-      }
+      },
+      "description": "Five squishy foods, one fork. A party game: survive the fork, swap your neighbour under it."
     },
     "gelato-shop": {
       "title": "Gelato Shop",

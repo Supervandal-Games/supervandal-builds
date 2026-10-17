@@ -5711,6 +5711,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.4.1",
+              "versionCode": 5,
+              "engineVersion": "0.5.141",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "virtua-gunner-android-alpha1-v0.4.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/virtua-gunner-android-alpha1-v0.4.1/virtua-gunner-alpha1-v0.4.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/virtua-gunner-android-alpha1-latest/virtua-gunner-alpha1.apk",
+              "size": 18470121,
+              "sha256": "6e0f403a22764fdadc2b451e4a030bc2fc87baeae0df676b512cbc5eafb126a3",
+              "notes": "Retours de Clem : tout l'ecran attrape l'arme et tire (le bas aussi), caisse en bas au centre (un swipe franc vers le haut recharge), controle pendant les bascules et l'intro (toucher = couper), son et pulsation a chaque toucher, poursuivants en meute serree, cibles plus lisibles, musique arcade.",
+              "date": "2026-10-17T21:07:06+00:00"
+            },
+            {
               "versionName": "0.4.0",
               "versionCode": 4,
               "engineVersion": "0.5.140",

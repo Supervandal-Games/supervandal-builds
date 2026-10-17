@@ -5847,6 +5847,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.7.1",
+              "versionCode": 13,
+              "engineVersion": "0.5.142",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "chicken-farm-android-alpha1-v0.7.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/chicken-farm-android-alpha1-v0.7.1/chicken-farm-alpha1-v0.7.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/chicken-farm-android-alpha1-latest/chicken-farm-alpha1.apk",
+              "size": 16954465,
+              "sha256": "af2e997aafa5f40c82fcbc96e4a8bbfd2b178e4f9ccab6bd927c3317226b15a7",
+              "notes": "lvl 0, lvl 1… au-dessus de chaque bête. Les symboles d'appel finaux (Nova). Les boutons ne partent plus jamais tout seuls.",
+              "date": "2026-10-17T21:51:29+00:00"
+            },
+            {
               "versionName": "0.7.0",
               "versionCode": 12,
               "engineVersion": "0.5.141",

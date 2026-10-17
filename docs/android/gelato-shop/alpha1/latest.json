@@ -1,0 +1,19 @@
+{
+  "project": "gelato-shop",
+  "projectTitle": "Gelato Shop",
+  "track": "alpha1",
+  "appName": "Gelato Shop Alpha 1",
+  "package": "com.supervandal.gelatoshop.alpha1",
+  "platform": "android",
+  "versionName": "0.1.0",
+  "versionCode": 1,
+  "engineVersion": "0.5.119",
+  "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-v0.1.0/gelato-shop-alpha1-v0.1.0-release.apk",
+  "apkUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-v0.1.0/gelato-shop-alpha1-v0.1.0-release.apk",
+  "size": 12208893,
+  "sha256": "2ca13ded330bb0416bc8e196d5bd69a03f37e08af26a51dadb38184bb3fd5ded",
+  "date": "2026-10-17T06:08:00+00:00",
+  "channel": "debug",
+  "notes": "Prototype jouable initial : physique de coiling visqueux Rayleigh-XPBD, 3 modes (Glace/Coulis/Topping), controle du cornet au gyroscope + mode Test Gyro",
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/gelato-shop/alpha1/"
+}

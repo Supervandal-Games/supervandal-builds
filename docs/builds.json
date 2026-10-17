@@ -6189,6 +6189,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.3.4",
+              "versionCode": 8,
+              "engineVersion": "0.5.144",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "gelato-shop-android-alpha1-v0.3.4",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-v0.3.4/gelato-shop-alpha1-v0.3.4-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-latest/gelato-shop-alpha1.apk",
+              "size": 16631361,
+              "sha256": "8ee9943134cb71f1ce5b856b7bf065bcd731c0932ee667230badc16423b8fb65",
+              "notes": "La tour de glace tient et se pose en vraie spirale : la matiere au repos s'endort sur le cornet (beaucoup moins de calcul), se reveille si on secoue.",
+              "date": "2026-10-17T23:08:20+00:00"
+            },
+            {
               "versionName": "0.3.3",
               "versionCode": 7,
               "engineVersion": "0.5.144",

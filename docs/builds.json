@@ -6189,6 +6189,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.3.1",
+              "versionCode": 5,
+              "engineVersion": "0.5.143",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "gelato-shop-android-alpha1-v0.3.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-v0.3.1/gelato-shop-alpha1-v0.3.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-latest/gelato-shop-alpha1.apk",
+              "size": 15171093,
+              "sha256": "ab59800d01d77c7898b89f7bd3685d89a120f020d6158c8e17b49db2d28f8507",
+              "notes": "Le chocolat fige sur la glace et y reste ; les vermicelles s'accrochent. Glace en boudin, ~270 i/s editeur.",
+              "date": "2026-10-17T22:46:54+00:00"
+            },
+            {
               "versionName": "0.3.0",
               "versionCode": 4,
               "engineVersion": "0.5.142",

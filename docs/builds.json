@@ -6203,6 +6203,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.3.7",
+              "versionCode": 11,
+              "engineVersion": "0.5.144",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "gelato-shop-android-alpha1-v0.3.7",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-v0.3.7/gelato-shop-alpha1-v0.3.7-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-latest/gelato-shop-alpha1.apk",
+              "size": 17625857,
+              "sha256": "7e5e6462f1ebab73b3fb7e860d3a9fce519c88c717277cd994b1b155b7f1503c",
+              "notes": "Le cornet suit ton poignet : meme angle que le telephone, gyroscope (beaucoup moins de latence), plus aucun gain ni limite. Cornet OU pot selon la commande, a prendre soi-meme (pot provisoire). Camera plus plongeante.",
+              "date": "2026-10-17T23:29:14+00:00"
+            },
+            {
               "versionName": "0.3.6",
               "versionCode": 10,
               "engineVersion": "0.5.144",

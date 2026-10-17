@@ -6189,6 +6189,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.3.6",
+              "versionCode": 10,
+              "engineVersion": "0.5.144",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "gelato-shop-android-alpha1-v0.3.6",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-v0.3.6/gelato-shop-alpha1-v0.3.6-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-latest/gelato-shop-alpha1.apk",
+              "size": 17585921,
+              "sha256": "8ea22c9ac5148889239f5989a7c8dabba09bbbbc0f9fe56383b828f4258d5a49",
+              "notes": "Bouton OPTIONS : page du moteur (afficher les i/s et les temps CPU/GPU, langue, compte).",
+              "date": "2026-10-17T23:14:25+00:00"
+            },
+            {
               "versionName": "0.3.5",
               "versionCode": 9,
               "engineVersion": "0.5.144",

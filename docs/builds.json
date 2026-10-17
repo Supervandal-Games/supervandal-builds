@@ -6034,6 +6034,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.1.1",
+              "versionCode": 2,
+              "engineVersion": "0.5.119",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "gelato-shop-android-alpha1-v0.1.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-v0.1.1/gelato-shop-alpha1-v0.1.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-latest/gelato-shop-alpha1.apk",
+              "size": 12210109,
+              "sha256": "c9a7ae02b2c09aada018c715517d8402d15c672b423c9a456f3d1c36816bde24",
+              "notes": "Gelato Shop v0.1.1 - Polished 3D front-lit gelateria lighting, auto-calibrated gyroscope/accelerometer cone posture, live [OK] ingredient checklist on customer order card, pressurized 3D hopper animation, and whipped peak soft-serve swirl.",
+              "date": "2026-10-17T06:32:39+00:00"
+            },
+            {
               "versionName": "0.1.0",
               "versionCode": 1,
               "engineVersion": "0.5.119",

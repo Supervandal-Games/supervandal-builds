@@ -6175,6 +6175,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.3.0",
+              "versionCode": 4,
+              "engineVersion": "0.5.142",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "gelato-shop-android-alpha1-v0.3.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-v0.3.0/gelato-shop-alpha1-v0.3.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-latest/gelato-shop-alpha1.apk",
+              "size": 15170709,
+              "sha256": "ec4644e63a2d0c42b478093beef19273d44728f96fe85d05960df3486f028316",
+              "notes": "La glace sort en vrai boudin et s'empile (fils visqueux, ~400 i/s editeur). Coulis et toppings encore en reglage ; gelees en MPM (bouton TEST).",
+              "date": "2026-10-17T22:19:22+00:00"
+            },
+            {
               "versionName": "0.2.0",
               "versionCode": 3,
               "engineVersion": "0.5.141",

@@ -6203,6 +6203,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.4.4",
+              "versionCode": 17,
+              "engineVersion": "0.5.153",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "gelato-shop-android-alpha1-v0.4.4",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-v0.4.4/gelato-shop-alpha1-v0.4.4-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-latest/gelato-shop-alpha1.apk",
+              "size": 21223777,
+              "sha256": "0d5ef1b45ccb24070fd07d10af4afd590f413116a11b957076440ffb61ce6da1",
+              "notes": "Le son : chaque contact de la glace, du coulis et des billes s'entend selon sa vitesse et sa matiere (cornet, pot, machine, comptoir) ; levier, molette, touches et tourelle ont leurs bruits ; etoiles et pieces comptees au service.",
+              "date": "2026-10-18T04:31:23+00:00"
+            },
+            {
               "versionName": "0.4.3",
               "versionCode": 16,
               "engineVersion": "0.5.152",

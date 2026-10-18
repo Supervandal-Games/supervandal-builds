@@ -6217,6 +6217,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.5.2",
+              "versionCode": 20,
+              "engineVersion": "0.5.155",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "gelato-shop-android-alpha1-v0.5.2",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-v0.5.2/gelato-shop-alpha1-v0.5.2-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-latest/gelato-shop-alpha1.apk",
+              "size": 24502753,
+              "sha256": "25e2fdc23bec0bd3b391fde2cf5eb62b10de4fa68382cf65a932d1965994fc6a",
+              "notes": "Le cornet (et la poele) se recale droit sous la buse quand on le prend. Glace x4 dans la machine. Jusqu'a 8 clients par arret. Coulis et toppings sur la crepe : touche la molette (provisoire) pour passer de la pate a la sauce puis aux toppings, et tiens VERSER.",
+              "date": "2026-10-18T07:54:18+00:00"
+            },
+            {
               "versionName": "0.5.1",
               "versionCode": 19,
               "engineVersion": "0.5.154",

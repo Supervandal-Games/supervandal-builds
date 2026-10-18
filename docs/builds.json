@@ -6231,6 +6231,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.5.3",
+              "versionCode": 21,
+              "engineVersion": "0.5.161",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "gelato-shop-android-alpha1-v0.5.3",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-v0.5.3/gelato-shop-alpha1-v0.5.3-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-latest/gelato-shop-alpha1.apk",
+              "size": 26102625,
+              "sha256": "a03b0b2601c0d26237f434ad843e6f127246f652d728bf0519ac5e9da20735e8",
+              "notes": "La lumiere enfin du bon cote (couleurs justes). Glace plus rigide qui fusionne, x4 de glace pour des tours aberrantes. Poste a crepes v2 : tourelle pate/coulis/toppings, molette MODE et fleches. Vrai retournement de crepe : coup de poignet vers le haut puis ramener la poele vers soi. Cornets et pots moins profonds.",
+              "date": "2026-10-18T10:43:46+00:00"
+            },
+            {
               "versionName": "0.5.2",
               "versionCode": 20,
               "engineVersion": "0.5.155",

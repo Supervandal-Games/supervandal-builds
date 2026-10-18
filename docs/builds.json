@@ -6055,6 +6055,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.4.0",
+              "versionCode": 6,
+              "engineVersion": "0.5.154",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "eggscape-run-android-alpha1-v0.4.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/eggscape-run-android-alpha1-v0.4.0/eggscape-run-alpha1-v0.4.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/eggscape-run-android-alpha1-latest/eggscape-run-alpha1.apk",
+              "size": 21193329,
+              "sha256": "91c4ce6aa0ae4a62e3d07a9c79d1ec9fbb49bcca06451f5c93cf44935bcfe709",
+              "notes": "Frogger et relief : la poule bondit jusqu'à 1 m, l'œuf dévale les dunes, rivières à rondins et routes sinueuses, 5 niveaux de plus (marches, rivière, sauvetage, chaîne, dunes), poulet en caoutchouc.",
+              "date": "2026-10-18T06:06:10+00:00"
+            },
+            {
               "versionName": "0.3.0",
               "versionCode": 5,
               "engineVersion": "0.5.144",

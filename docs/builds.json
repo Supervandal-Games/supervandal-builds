@@ -6203,6 +6203,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.4.3",
+              "versionCode": 16,
+              "engineVersion": "0.5.152",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "gelato-shop-android-alpha1-v0.4.3",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-v0.4.3/gelato-shop-alpha1-v0.4.3-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-latest/gelato-shop-alpha1.apk",
+              "size": 21151333,
+              "sha256": "901296f132acd272181532e2a885f838d506d9f5ca91f9b9de571b25f352d1c9",
+              "notes": "Un arret = 3 a 5 clients : chacun paie le prix + un pourboire (qualite, et patience : son humeur baisse s'il attend). A la fin : total de l'arret, x2 en regardant une pub.",
+              "date": "2026-10-18T03:37:55+00:00"
+            },
+            {
               "versionName": "0.4.2",
               "versionCode": 15,
               "engineVersion": "0.5.152",

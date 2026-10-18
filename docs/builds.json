@@ -6203,6 +6203,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.4.1",
+              "versionCode": 14,
+              "engineVersion": "0.5.150",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "gelato-shop-android-alpha1-v0.4.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-v0.4.1/gelato-shop-alpha1-v0.4.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-latest/gelato-shop-alpha1.apk",
+              "size": 20911233,
+              "sha256": "51b14a5709b21666bd8f1f7e17f5e35ee3137da2ae2eea83762d794c2569b40c",
+              "notes": "Une seule buse au centre. Bouton MODE (glace, coulis, topping), fleches pour le parfum, le levier verse. Une jauge montre la cuve : une portion genereuse par client.",
+              "date": "2026-10-18T02:00:47+00:00"
+            },
+            {
               "versionName": "0.4.0",
               "versionCode": 13,
               "engineVersion": "0.5.146",

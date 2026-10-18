@@ -6231,6 +6231,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.6.1",
+              "versionCode": 24,
+              "engineVersion": "0.5.170",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "gelato-shop-android-alpha1-v0.6.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-v0.6.1/gelato-shop-alpha1-v0.6.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-latest/gelato-shop-alpha1.apk",
+              "size": 47004481,
+              "sha256": "c363e012a026cf47ffa29dab4657a6b5db4038939e710eb4e8c70c8202f847c1",
+              "notes": "Appuie n'importe ou pour verser. Crepe : choisis en bas (bol de pate, bouteille de coulis, pot de toppings avec leurs fleches, ou le rateau pour etaler) puis appuie n'importe ou ; tu peux mettre trop de pate. La glace ne casse plus comme du verre et ne traverse plus le pot ; la sauce tient sur la crepe. Deux musiques de camion au garage, onglet AMBIANCES : le Camion hante et Techno givree. Test TREMBLE (OPTIONS > TEST) : une main qui tient le telephone.",
+              "date": "2026-10-18T13:53:09+00:00"
+            },
+            {
               "versionName": "0.6.0",
               "versionCode": 23,
               "engineVersion": "0.5.164",

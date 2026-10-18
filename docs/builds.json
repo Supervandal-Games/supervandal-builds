@@ -6203,6 +6203,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.5.0",
+              "versionCode": 18,
+              "engineVersion": "0.5.154",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "gelato-shop-android-alpha1-v0.5.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-v0.5.0/gelato-shop-alpha1-v0.5.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-latest/gelato-shop-alpha1.apk",
+              "size": 21366945,
+              "sha256": "f74cfe4f0a5cbb846a8ab97c48f00759017a77b14f3bfbdc14afcb071aaf763b",
+              "notes": "La poele a crepes : le 2e client de chaque arret veut une crepe. VERSER tenu, penche le telephone pour etaler, un doigt sur la poele tire le rateau, laisse cuire (les bords dorent), puis SERVIR : rondeur, taille, trous, cuisson.",
+              "date": "2026-10-18T05:24:46+00:00"
+            },
+            {
               "versionName": "0.4.4",
               "versionCode": 17,
               "engineVersion": "0.5.153",

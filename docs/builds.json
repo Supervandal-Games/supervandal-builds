@@ -6232,6 +6232,20 @@
           "builds": [
             {
               "versionName": "0.6.0",
+              "versionCode": 23,
+              "engineVersion": "0.5.164",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "gelato-shop-android-alpha1-v0.6.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-v0.6.0/gelato-shop-alpha1-v0.6.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-latest/gelato-shop-alpha1.apk",
+              "size": 46063165,
+              "sha256": "9745c22d83f3f24cc54d8fafe3587f9ac91bea275c0848778b4d73a6ede53a71",
+              "notes": "Le camion de glace ! Il arrive dans la rue de la plage (cinematique, un toucher la saute) et repart avec la recette. GARAGE : 3 carrosseries, 4 roues, 3 pare-chocs, 6 accessoires qui bougent pour de vrai, 8 peintures, klaxons, musiques, skins de cornets et pots. Les clients au hublot, animes.",
+              "date": "2026-10-18T11:39:38+00:00"
+            },
+            {
+              "versionName": "0.6.0",
               "versionCode": 22,
               "engineVersion": "0.5.164",
               "config": "Release",

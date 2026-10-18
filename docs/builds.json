@@ -6203,6 +6203,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.4.0",
+              "versionCode": 13,
+              "engineVersion": "0.5.146",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "gelato-shop-android-alpha1-v0.4.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-v0.4.0/gelato-shop-alpha1-v0.4.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-latest/gelato-shop-alpha1.apk",
+              "size": 20731329,
+              "sha256": "f5efb583ae4b5d88a6d7830d337a15737f4467320b632ccec6e31f580287e992",
+              "notes": "La machine a glace La Piccola (rendu precalcule) : on tire le levier, on appuie sur les boutons de parfum, la pompe a sauce et la manivelle a toppings. Vrais cornet et pot.",
+              "date": "2026-10-18T00:17:41+00:00"
+            },
+            {
               "versionName": "0.3.8",
               "versionCode": 12,
               "engineVersion": "0.5.145",

@@ -1,0 +1,19 @@
+{
+  "project": "lcd-collection",
+  "projectTitle": "Electronic Pixel",
+  "track": "alpha1",
+  "appName": "Electronic Pixel Alpha 1",
+  "package": "com.supervandal.lcdcollection.alpha1",
+  "platform": "android",
+  "versionName": "0.1.0",
+  "versionCode": 1,
+  "engineVersion": "0.5.161",
+  "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/lcd-collection-android-alpha1-v0.1.0/lcd-collection-alpha1-v0.1.0-release.apk",
+  "apkUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/lcd-collection-android-alpha1-v0.1.0/lcd-collection-alpha1-v0.1.0-release.apk",
+  "size": 27475441,
+  "sha256": "c61ec7bab66275abe62d521761dc70906650b293243ef0dd5e0a151dae392425",
+  "date": "2026-10-18T10:48:31+00:00",
+  "channel": "debug",
+  "notes": "Démo jouable : 4 machines (SV-01, ALTAIR 52, DOPPIO 3, VEGA), 5 jeux. JEU A / JEU B = nouvelle partie, HEURE (ou l'interrupteur de la VEGA) = machine suivante, la cartouche sous la VEGA = l'autre jeu. Écrans provisoires en attendant le matériau LCD du moteur.",
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/lcd-collection/alpha1/"
+}

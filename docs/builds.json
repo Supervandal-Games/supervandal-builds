@@ -6515,6 +6515,32 @@
           "package": "com.supervandal.gelatoshop.alpha1"
         }
       }
+    },
+    "prize-fair": {
+      "title": "Prize Fair",
+      "description": "Jeux de foire en vraie physique : la pince a peluches, le pousse-pieces, une collection de lots (titre provisoire).",
+      "tracks": {
+        "alpha1": {
+          "builds": [
+            {
+              "versionName": "0.1.0",
+              "versionCode": 1,
+              "engineVersion": "0.5.157",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "prize-fair-android-alpha1-v0.1.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/prize-fair-android-alpha1-v0.1.0/prize-fair-alpha1-v0.1.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/prize-fair-android-alpha1-latest/prize-fair-alpha1.apk",
+              "size": 29549573,
+              "sha256": "76187dbf736dc683c41b065c9c194675b2fc75fe6ce6281de772b1516155cb9f",
+              "notes": "Banc de la pince (S0) : la Classique, rendu precalcule Blender + vraie 3D, peluches en vraie physique. Glisser dans le bas de l'ecran = deplacer la pince ; toucher le gros bouton rouge = la lacher. Essais gratuits pour l'instant.",
+              "date": "2026-10-18T09:02:31+00:00"
+            }
+          ],
+          "appName": "Prize Fair Alpha 1",
+          "package": "com.supervandal.prizefair.alpha1"
+        }
+      }
     }
   }
 }

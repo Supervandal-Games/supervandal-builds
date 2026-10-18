@@ -6217,6 +6217,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.5.1",
+              "versionCode": 19,
+              "engineVersion": "0.5.154",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "gelato-shop-android-alpha1-v0.5.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-v0.5.1/gelato-shop-alpha1-v0.5.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-latest/gelato-shop-alpha1.apk",
+              "size": 24474721,
+              "sha256": "b75fb75740ac1eac0045b8960d8722dac8d1344d155afe0632ff206fc41e3ebc",
+              "notes": "Le vrai poste a crepes : la poele en fonte dans son puits, le distributeur de pate, le bouton VERSER sur le comptoir (on le tient enfonce), le thermostat. SERVIR un peu plus bas.",
+              "date": "2026-10-18T06:23:13+00:00"
+            },
+            {
               "versionName": "0.5.0",
               "versionCode": 18,
               "engineVersion": "0.5.154",

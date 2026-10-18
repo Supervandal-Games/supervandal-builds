@@ -6203,6 +6203,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.4.2",
+              "versionCode": 15,
+              "engineVersion": "0.5.152",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "gelato-shop-android-alpha1-v0.4.2",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-v0.4.2/gelato-shop-alpha1-v0.4.2-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-latest/gelato-shop-alpha1.apk",
+              "size": 21023201,
+              "sha256": "faf2ebf1d11fb2914d0bb6738e2e88366f7f444de5db4fddbd6a17d65e882fbb",
+              "notes": "Nouvelle machine : une seule buse a 3 tetes qui tourne, molette MODE et fleches en bas, jauge de cuve dans la colonne. La machine a du relief : la glace s'ecrase sur ses parois, le cornet bute dessus.",
+              "date": "2026-10-18T03:28:37+00:00"
+            },
+            {
               "versionName": "0.4.1",
               "versionCode": 14,
               "engineVersion": "0.5.150",

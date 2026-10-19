@@ -6678,6 +6678,31 @@
           "package": "com.supervandal.lcdcollection.alpha1"
         }
       }
+    },
+    "ai-sandbox": {
+      "title": "ai-sandbox",
+      "tracks": {
+        "alpha1": {
+          "builds": [
+            {
+              "versionName": "0.2.0",
+              "versionCode": 1,
+              "engineVersion": "0.5.190",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-alpha1-v0.2.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-alpha1-v0.2.0/ai-sandbox-alpha1-v0.2.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-alpha1-latest/ai-sandbox-alpha1.apk",
+              "size": 18553701,
+              "sha256": "c82ef3636b540cb6c652eebac427b2a74cd61d7ab5529352a9582d60d87988a4",
+              "notes": "Sprint S2 (v0.2.0) : Salle de competition de robotique, grande table centrale, generateur de labyrinthe procedural (murs fins + poteaux plus larges et plus hauts), 5 chassis (1..5 slots : Boite, 2-Roues, 3-Roues, Rover 4-Roues, Robot Bipede), capteurs modulaires universels (Presence Avant/Gauche/Droite, Camera_Oeil) et cartouches Game Boy (DMG-01).",
+              "date": "2026-10-19T16:30:18+00:00"
+            }
+          ],
+          "appName": "AI Sandbox Alpha 1",
+          "package": "com.supervandal.aisandbox.alpha1"
+        }
+      }
     }
   }
 }

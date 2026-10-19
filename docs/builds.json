@@ -6231,6 +6231,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.6.6",
+              "versionCode": 29,
+              "engineVersion": "0.5.191",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "gelato-shop-android-alpha1-v0.6.6",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-v0.6.6/gelato-shop-alpha1-v0.6.6-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-latest/gelato-shop-alpha1.apk",
+              "size": 47314561,
+              "sha256": "fe3abfc2bf142e479b8382307a58a0c604675d8dc059ec441129039298bc4cbd",
+              "notes": "v0.6.6: Fix coulis ejection/bouncing when drawing circles on the crepe (3D nozzle travel subdivision + substep mouth interpolation + lower 4.5mm aim height) and replace the finicky crepe toss with a clean 100% faked kinematic crepe jump + 180-degree flip animation.",
+              "date": "2026-10-19T18:55:56+00:00"
+            },
+            {
               "versionName": "0.6.5",
               "versionCode": 28,
               "engineVersion": "0.5.190",

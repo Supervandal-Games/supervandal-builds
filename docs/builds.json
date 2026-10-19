@@ -6231,6 +6231,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.6.5",
+              "versionCode": 28,
+              "engineVersion": "0.5.190",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "gelato-shop-android-alpha1-v0.6.5",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-v0.6.5/gelato-shop-alpha1-v0.6.5-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-latest/gelato-shop-alpha1.apk",
+              "size": 47271101,
+              "sha256": "919f5ff327f45afc7b6fcd630c76964c06e744e117efae5341006d75ae508548",
+              "notes": "v0.6.5: Buse fixe en espace monde + co-advection CarriedByCone (le filet coule tout droit et peut tomber a cote du gobelet incline), coulis et toppings attaches a la crepe (dilution dans la pate liquide + suivi 3D pendant les glissements et retournements), saut de crepe guide a l'accelerometre sans traversee de poele, et alternance systematique Glace / Crepe.",
+              "date": "2026-10-19T15:45:27+00:00"
+            },
+            {
               "versionName": "0.6.4",
               "versionCode": 27,
               "engineVersion": "0.5.185",

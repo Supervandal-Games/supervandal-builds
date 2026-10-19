@@ -6699,6 +6699,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.4.0",
+              "versionCode": 3,
+              "engineVersion": "0.5.192",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-alpha1-v0.4.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-alpha1-v0.4.0/ai-sandbox-alpha1-v0.4.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-alpha1-latest/ai-sandbox-alpha1.apk",
+              "size": 21641613,
+              "sha256": "8d6a89e775964885bf806d1c638f793077240f07011ac91d074ad16a936fdd6e",
+              "notes": "Sprint S4 (v0.4.0) : Refonte UI/UX moderne avec le kit casual3 (1080x2160), typographie 2x plus grande (34-42 px), 3 fenetres pop-up separees (Cartes Game Boy, Coach IA Multimodal avec CaptureCameraToPngBase64 + Auto-Builder, Options Avancees) et eclairage 3D corrige.",
+              "date": "2026-10-19T20:33:26+00:00"
+            },
+            {
               "versionName": "0.3.0",
               "versionCode": 2,
               "engineVersion": "0.5.191",

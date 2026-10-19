@@ -6231,6 +6231,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.6.3",
+              "versionCode": 26,
+              "engineVersion": "0.5.183",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "gelato-shop-android-alpha1-v0.6.3",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-v0.6.3/gelato-shop-alpha1-v0.6.3-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/gelato-shop-android-alpha1-latest/gelato-shop-alpha1.apk",
+              "size": 47212673,
+              "sha256": "da5e6efecedd7710e9aab1a8ea21ddf53ab89c5eb9168d11211542b5234d253d",
+              "notes": "Physique de glace consolidee (97% retenue aux secousses, 0% d'affaissement sous tremblement, bouchon ancre dans le cornet) et fusion/mouillage des coulis sur glace et crepes.",
+              "date": "2026-10-19T10:49:36+00:00"
+            },
+            {
               "versionName": "0.6.2",
               "versionCode": 25,
               "engineVersion": "0.5.174",

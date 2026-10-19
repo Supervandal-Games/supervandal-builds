@@ -6731,6 +6731,31 @@
           "package": "com.supervandal.aisandbox.alpha1"
         }
       }
+    },
+    "vandal-quest": {
+      "title": "vandal-quest",
+      "tracks": {
+        "alpha1": {
+          "builds": [
+            {
+              "versionName": "0.1.0",
+              "versionCode": 1,
+              "engineVersion": "0.5.192",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "vandal-quest-android-alpha1-v0.1.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/vandal-quest-android-alpha1-v0.1.0/vandal-quest-alpha1-v0.1.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/vandal-quest-android-alpha1-latest/vandal-quest-alpha1.apk",
+              "size": 20150957,
+              "sha256": "707a48ddc6d35c22fed4bdbdccb1d848f4e63aae979a9687b3cb4fda4d0aee05",
+              "notes": "Sprint S1: Cite des Acacias (Octobre 1994), 5 PNJ IA (Gemma-4 + Chatterbox TTS + Faster-Whisper STT), Capteurs SensorComponent, Interieur d'appartement 3D sur fond noir, Distributeur Connecte (Vente Directe a Prix Fixe + retrait cash), Mode Autonome et Heritage Roguelite.",
+              "date": "2026-10-19T20:19:20+00:00"
+            }
+          ],
+          "appName": "Vandal Quest Alpha 1",
+          "package": "com.supervandal.vandalquest.alpha1"
+        }
+      }
     }
   }
 }

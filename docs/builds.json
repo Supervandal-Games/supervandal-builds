@@ -6766,6 +6766,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.5.0",
+              "versionCode": 5,
+              "engineVersion": "0.5.196",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "vandal-quest-android-alpha1-v0.5.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/vandal-quest-android-alpha1-v0.5.0/vandal-quest-alpha1-v0.5.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/vandal-quest-android-alpha1-latest/vandal-quest-alpha1.apk",
+              "size": 22486257,
+              "sha256": "6d886a2fa72927296c2e13da9f425fabb3e6c7dcbd5f04789bf802a07e7407f9",
+              "notes": "v0.5.0: Real LAN/Localhost AI socket transport (192.168.1.43:11435), zero fake NPC dialogues, live Voix/Stop mic feedback & Android RECORD_AUDIO permission, blank Ecrire input, curfew camera fix",
+              "date": "2026-10-20T03:19:24+00:00"
+            },
+            {
               "versionName": "0.4.0",
               "versionCode": 4,
               "engineVersion": "0.5.196",

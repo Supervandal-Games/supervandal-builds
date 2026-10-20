@@ -6766,6 +6766,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.4.0",
+              "versionCode": 4,
+              "engineVersion": "0.5.196",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "vandal-quest-android-alpha1-v0.4.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/vandal-quest-android-alpha1-v0.4.0/vandal-quest-alpha1-v0.4.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/vandal-quest-android-alpha1-latest/vandal-quest-alpha1.apk",
+              "size": 22346353,
+              "sha256": "d6cda2bc4e1f6cc776a0b6ba58a3720fcbe134e23f538cb2ff36a53f964934d1",
+              "notes": "Build de test 0.4.0 - moteur v0.5.196.",
+              "date": "2026-10-20T01:13:42+00:00"
+            },
+            {
               "versionName": "0.3.0",
               "versionCode": 3,
               "engineVersion": "0.5.195",

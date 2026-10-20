@@ -6699,6 +6699,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.7.0",
+              "versionCode": 6,
+              "engineVersion": "0.5.198",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-alpha1-v0.7.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-alpha1-v0.7.0/ai-sandbox-alpha1-v0.7.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-alpha1-latest/ai-sandbox-alpha1.apk",
+              "size": 21781409,
+              "sha256": "c2447fb823bfcafa8c0af8e662f8950479e1f47c7e038cdee9c33523f561183d",
+              "notes": "Build de test 0.7.0 - moteur v0.5.198.",
+              "date": "2026-10-20T05:43:09+00:00"
+            },
+            {
               "versionName": "0.6.0",
               "versionCode": 5,
               "engineVersion": "0.5.197",

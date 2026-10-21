@@ -6699,6 +6699,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.8.2",
+              "versionCode": 9,
+              "engineVersion": "0.5.207",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-alpha1-v0.8.2",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-alpha1-v0.8.2/ai-sandbox-alpha1-v0.8.2-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-alpha1-latest/ai-sandbox-alpha1.apk",
+              "size": 21945001,
+              "sha256": "2326cfb74ff5c5240214b31764cc7e894becc4da784256fe062d6258b911be48",
+              "notes": "Selecteur de modeles par robot (modale MODELES, debug) : TEXTE / VOIX / OREILLE, slug reel affiche. Mistral Small 3.2, Fish Audio drama-3 + s2.1-pro-free, Voxtral.",
+              "date": "2026-10-21T21:16:41+00:00"
+            },
+            {
               "versionName": "0.8.1",
               "versionCode": 8,
               "engineVersion": "0.5.207",

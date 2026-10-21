@@ -6699,6 +6699,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.8.1",
+              "versionCode": 8,
+              "engineVersion": "0.5.207",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-alpha1-v0.8.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-alpha1-v0.8.1/ai-sandbox-alpha1-v0.8.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-alpha1-latest/ai-sandbox-alpha1.apk",
+              "size": 21936997,
+              "sha256": "aa912c45f482721859b8327d6c6ccf57d25d55ff70f16818a20fcb6a841a41e7",
+              "notes": "Infra LLM v0.5.207 : Mistral Small 3.2 (texte), Fish Audio drama-3 (voix premium, joue les balises) + s2.1-pro-free (voix gratuite robots), Voxtral (oreille)",
+              "date": "2026-10-21T20:13:25+00:00"
+            },
+            {
               "versionName": "0.8.0",
               "versionCode": 7,
               "engineVersion": "0.5.199",
@@ -6797,7 +6811,7 @@
               "date": "2026-10-19T16:30:18+00:00"
             }
           ],
-          "appName": "AI Sandbox Alpha 1",
+          "appName": "Le Labo des Cartouches",
           "package": "com.supervandal.aisandbox.alpha1"
         }
       }

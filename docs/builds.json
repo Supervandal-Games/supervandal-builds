@@ -6699,6 +6699,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.8.10",
+              "versionCode": 15,
+              "engineVersion": "0.5.212",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-alpha1-v0.8.10",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-alpha1-v0.8.10/ai-sandbox-alpha1-v0.8.10-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-alpha1-latest/ai-sandbox-alpha1.apk",
+              "size": 27003185,
+              "sha256": "6882e492b571e7c0a2e48410f9be7aeeb4170fb1c04c569587f27d22da1be159",
+              "notes": "0.8.10 : table solide avec murs, robots modulaires colores (capteurs, LED, buzzer pour Hermes), camera orbitale, BAKE et biographie, studio de voix (ton echantillon, formants sans TTS), volumes.",
+              "date": "2026-10-22T16:18:04+00:00"
+            },
+            {
               "versionName": "0.8.7",
               "versionCode": 14,
               "engineVersion": "0.5.212",

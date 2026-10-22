@@ -6699,6 +6699,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.8.4",
+              "versionCode": 11,
+              "engineVersion": "0.5.211",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-alpha1-v0.8.4",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-alpha1-v0.8.4/ai-sandbox-alpha1-v0.8.4-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-alpha1-latest/ai-sandbox-alpha1.apk",
+              "size": 25878065,
+              "sha256": "6cb82549be03f6e5e92ceacafb6a82f968309d129960f44b88b2cc86f3fa9478",
+              "notes": "Robot modulaire (chassis, 2 roues, tete sur servo) pilote par Hermes en local, maitre du jeu DeepSeek, prompts allegis, ombres en cascade.",
+              "date": "2026-10-22T05:23:52+00:00"
+            },
+            {
               "versionName": "0.8.3",
               "versionCode": 10,
               "engineVersion": "0.5.209",

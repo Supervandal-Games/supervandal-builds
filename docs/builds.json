@@ -6699,6 +6699,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.8.3",
+              "versionCode": 10,
+              "engineVersion": "0.5.209",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-alpha1-v0.8.3",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-alpha1-v0.8.3/ai-sandbox-alpha1-v0.8.3-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-alpha1-latest/ai-sandbox-alpha1.apk",
+              "size": 21942681,
+              "sha256": "f36c9ab0b53c2969f18b7967dc13dd26e482ab9891e9b1b26e5b26c50db6000e",
+              "notes": "Identite Firebase anonyme activee (CloudEnabled) : le micro, la voix et le chat passent enfin par le compte du joueur. Correctif de la passerelle qui refusait tout jeton joueur (claim project_id inexistant). llama.cpp compile pour Android (-frtti).",
+              "date": "2026-10-22T00:46:23+00:00"
+            },
+            {
               "versionName": "0.8.2",
               "versionCode": 9,
               "engineVersion": "0.5.207",

@@ -6911,6 +6911,26 @@
           ],
           "appName": "Le Labo des Cartouches",
           "package": "com.supervandal.aisandbox.alpha1"
+        },
+        "test": {
+          "builds": [
+            {
+              "versionName": "0.9.2",
+              "versionCode": 1,
+              "engineVersion": "0.5.212",
+              "config": "Release",
+              "channel": "beta",
+              "tag": "ai-sandbox-android-test-v0.9.2",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v0.9.2/ai-sandbox-test-v0.9.2-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 27019169,
+              "sha256": "4d2a6138ba6d4be84b9049e01fe72869dd0ff73595314584db8a3560785764db",
+              "notes": "Build de test 0.9.2 - moteur v0.5.212.",
+              "date": "2026-10-22T18:00:35+00:00"
+            }
+          ],
+          "appName": "AI Sandbox",
+          "package": "com.supervandal.aisandbox.test"
         }
       }
     },

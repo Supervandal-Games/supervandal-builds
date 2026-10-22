@@ -1,0 +1,19 @@
+{
+  "project": "ai-sandbox",
+  "projectTitle": "ai-sandbox",
+  "track": "s25",
+  "appName": "AI Sandbox S25",
+  "package": "com.supervandal.aisandbox.s25",
+  "platform": "android",
+  "versionName": "0.9.4",
+  "versionCode": 1,
+  "engineVersion": "0.5.212",
+  "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-s25-v0.9.4/ai-sandbox-s25-v0.9.4-release.apk",
+  "apkUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-s25-v0.9.4/ai-sandbox-s25-v0.9.4-release.apk",
+  "size": 27009253,
+  "sha256": "d68c81289adf68be74799ae55d2e873105bf7b9cf9aaff661138c2e5810e6386",
+  "date": "2026-10-22T18:35:43+00:00",
+  "channel": "beta",
+  "notes": "Build de test 0.9.4 - moteur v0.5.212.",
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/ai-sandbox/s25/"
+}

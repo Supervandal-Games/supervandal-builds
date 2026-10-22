@@ -6699,6 +6699,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.8.5",
+              "versionCode": 12,
+              "engineVersion": "0.5.211",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-alpha1-v0.8.5",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-alpha1-v0.8.5/ai-sandbox-alpha1-v0.8.5-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-alpha1-latest/ai-sandbox-alpha1.apk",
+              "size": 25878257,
+              "sha256": "92ff5e112a3fca3032cdb9e2c7333b50d98a64438b0cbd83fc27de3431ffb8e4",
+              "notes": "Prompts sans exemples, maitre du jeu, design IA (humeurs, memoire) dans le GDD.",
+              "date": "2026-10-22T05:29:00+00:00"
+            },
+            {
               "versionName": "0.8.4",
               "versionCode": 11,
               "engineVersion": "0.5.211",

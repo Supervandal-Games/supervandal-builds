@@ -6915,6 +6915,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "1.0.16",
+              "versionCode": 19,
+              "engineVersion": "0.5.212",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v1.0.16",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v1.0.16/ai-sandbox-test-v1.0.16-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 27142625,
+              "sha256": "d179701f7a9323fe2e66bf47eb3132d35444a97ed43f5690657bed8766cc000c",
+              "notes": "S7: procedural body sound -- per-wheel motor tone from commutation frequency, load/slip driven, blocked-motor hum, head servo chirp, subtle electronics whine, event buzzer.",
+              "date": "2026-10-23T17:40:28+00:00"
+            },
+            {
               "versionName": "1.0.15",
               "versionCode": 18,
               "engineVersion": "0.5.212",
@@ -7167,7 +7181,7 @@
               "date": "2026-10-22T18:00:35+00:00"
             }
           ],
-          "appName": "Le Labo des Cartouches",
+          "appName": "AI Sandbox",
           "package": "com.supervandal.aisandbox.test"
         },
         "s25": {

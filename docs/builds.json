@@ -6915,6 +6915,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "1.0.6",
+              "versionCode": 10,
+              "engineVersion": "0.5.212",
+              "config": "Release",
+              "channel": "beta",
+              "tag": "ai-sandbox-android-test-v1.0.6",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v1.0.6/ai-sandbox-test-v1.0.6-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 27027873,
+              "sha256": "1cf930479e7e2d35fde5d5d029ffbe3a77a7e8b7bf10210fef5131c9b400f4d1",
+              "notes": "Build de test 1.0.6 - moteur v0.5.212.",
+              "date": "2026-10-23T12:20:16+00:00"
+            },
+            {
               "versionName": "1.0.4",
               "versionCode": 9,
               "engineVersion": "0.5.212",

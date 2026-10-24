@@ -6915,6 +6915,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "1.0.17",
+              "versionCode": 20,
+              "engineVersion": "0.5.213",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v1.0.17",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v1.0.17/ai-sandbox-test-v1.0.17-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 27151185,
+              "sha256": "22e67bd2ec80acf4acefed1bae5f01b0cddf233614e062b8b704868cb9e49771",
+              "notes": "Cadencement 300/50/10/60 Hz, invariance dt, bandeau pensee HUD dedie, formants FR par defaut, batterie + cables Verlet 3 segments, renommage strict AI Sandbox.",
+              "date": "2026-10-24T00:59:02+00:00"
+            },
+            {
               "versionName": "1.0.16",
               "versionCode": 19,
               "engineVersion": "0.5.212",

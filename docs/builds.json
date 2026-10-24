@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.0.0",
+              "versionCode": 22,
+              "engineVersion": "0.5.217",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.0.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.0.0/ai-sandbox-test-v2.0.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 29138829,
+              "sha256": "442a6116bc42bbeec51fc455b10b34c18cd95b2a0550a2e048657c7767a0ecb3",
+              "notes": "Refonte v2. La couveuse : 16 robots apprennent de zéro à tenir en équilibre sur deux roues, puis à suivre le joystick, grâce à leurs réseaux de neurones (aucune animation). Piloter le champion au stick. ×1/×2/×4. Le reste du jeu arrive.",
+              "date": "2026-10-24T19:58:41+00:00"
+            },
+            {
               "versionName": "1.0.18",
               "versionCode": 21,
               "engineVersion": "0.5.213",

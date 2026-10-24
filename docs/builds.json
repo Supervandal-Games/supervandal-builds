@@ -6915,6 +6915,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "1.0.18",
+              "versionCode": 21,
+              "engineVersion": "0.5.213",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v1.0.18",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v1.0.18/ai-sandbox-test-v1.0.18-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 27335761,
+              "sha256": "0b9bddc70524564b1c0180e072f6aadcf0b42ff5b5887e29cfee36e62744a448",
+              "notes": "Rev 1 complete (v1.0.18) : physique Box3D 300Hz, pendule 2-roues + RMA 20 frames, Couveuse 16x CEM active en 3D, etirage LEGO 5cm, lance-balles 3D, poussee alignee, 8 salles d'enigmes, Table 4 Couleurs (16 objets), 3 cartouches FR, reve episodique L5 et voix formants FR.",
+              "date": "2026-10-24T14:03:11+00:00"
+            },
+            {
               "versionName": "1.0.17",
               "versionCode": 20,
               "engineVersion": "0.5.213",

@@ -1,8 +1,8 @@
 {
   "project": "ai-sandbox",
-  "projectTitle": "ai-sandbox",
+  "projectTitle": "AI Sandbox",
   "track": "alpha1",
-  "appName": "Le Labo des Cartouches",
+  "appName": "AI Sandbox",
   "package": "com.supervandal.aisandbox.alpha1",
   "platform": "android",
   "versionName": "0.8.10",

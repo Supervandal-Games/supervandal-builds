@@ -6694,7 +6694,7 @@
       }
     },
     "ai-sandbox": {
-      "title": "ai-sandbox",
+      "title": "AI Sandbox",
       "tracks": {
         "alpha1": {
           "builds": [
@@ -6909,7 +6909,7 @@
               "date": "2026-10-19T16:30:18+00:00"
             }
           ],
-          "appName": "Le Labo des Cartouches",
+          "appName": "AI Sandbox",
           "package": "com.supervandal.aisandbox.alpha1"
         },
         "test": {

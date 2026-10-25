@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.14.0",
+              "versionCode": 39,
+              "engineVersion": "0.5.235",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.14.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.14.0/ai-sandbox-test-v2.14.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 40145941,
+              "sha256": "8e2541bd8a1f68b5e5ecb6f84f2a11bd0dea8b9b030e8d5ae1433452e33dd0fb",
+              "notes": "Cerveau parlant plus vif (prompt jamais tronqué, préfixe stable, repos entre décisions, rêve à l'extinction) ; bouton COACH dans les pièces (DeepSeek, par les yeux du robot).",
+              "date": "2026-10-25T21:35:09+00:00"
+            },
+            {
               "versionName": "2.13.0",
               "versionCode": 38,
               "engineVersion": "0.5.235",

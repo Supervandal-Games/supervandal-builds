@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.4.0",
+              "versionCode": 28,
+              "engineVersion": "0.5.233",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.4.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.4.0/ai-sandbox-test-v2.4.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 35149205,
+              "sha256": "41204c30df98879928b0d3e4ed8cd707d7a58c848b4869df06f9369fa8878644",
+              "notes": "Buts libres : dans la couveuse, onglet 3 LIBRE, dis (micro, 30 s) ou écris ton but ; le maître du jeu (DeepSeek) configure l'entraîneur, le jeu vérifie et borne, la couveuse entraîne. Pastilles de modèle avec durée et coût réels.",
+              "date": "2026-10-25T13:54:27+00:00"
+            },
+            {
               "versionName": "2.3.0",
               "versionCode": 27,
               "engineVersion": "0.5.232",

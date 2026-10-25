@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.5.0",
+              "versionCode": 30,
+              "engineVersion": "0.5.233",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.5.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.5.0/ai-sandbox-test-v2.5.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 35724309,
+              "sha256": "7867019b7fe1cf9fa63770f399b9e176dd5b1f4ec2b4a452cc1653a1903783b8",
+              "notes": "L'atelier : construis ton robot au doigt (bacs de pièces, grille, étirer, électricité automatique, contrôle en direct, mes plans), puis la couveuse l'entraîne.",
+              "date": "2026-10-25T15:30:23+00:00"
+            },
+            {
               "versionName": "2.4.1",
               "versionCode": 29,
               "engineVersion": "0.5.233",

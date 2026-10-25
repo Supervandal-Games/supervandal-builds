@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.11.0",
+              "versionCode": 36,
+              "engineVersion": "0.5.235",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.11.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.11.0/ai-sandbox-test-v2.11.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 39924433,
+              "sha256": "554b8ece1355c5fbef7ca36d151514dc06f416904cff56db43d35fbba4de66ee",
+              "notes": "Assistant de construction fiable : Gemini 3.8 Flash, retouches par opérations sur les pièces (retirer, poser, déplacer, tourner, étirer), tiges et plaques posées par directions.",
+              "date": "2026-10-25T20:00:31+00:00"
+            },
+            {
               "versionName": "2.10.0",
               "versionCode": 35,
               "engineVersion": "0.5.235",

@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.1.2",
+              "versionCode": 25,
+              "engineVersion": "0.5.226",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.1.2",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.1.2/ai-sandbox-test-v2.1.2-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 34026765,
+              "sha256": "2e1cd2d239cfdfe983950606ba532b0c57f781c96477445b6bf6f233dfb5f508",
+              "notes": "Itération 0.2 : les étapes de la couveuse deviennent des onglets libres (tu avances, tu reviens, tu restes) et le passage à l'étape suivante est seulement suggéré. L'examen « suivre le joystick » est réussissable en quelques minutes à ×4 (point tenu à 12 cm pendant 0,25 s, 8 points sur 9). Les cerveaux déjà entraînés se réadaptent (nouveau contrat). La caméra de la couveuse ne bouge plus toute seule, les clones ont une teinte fantôme unique. Audit de l'apprentissage soldé (tests ajoutés).",
+              "date": "2026-10-25T06:49:11+00:00"
+            },
+            {
               "versionName": "2.1.1",
               "versionCode": 24,
               "engineVersion": "0.5.225",

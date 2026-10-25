@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.15.0",
+              "versionCode": 40,
+              "engineVersion": "0.5.235",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.15.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.15.0/ai-sandbox-test-v2.15.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 40208085,
+              "sha256": "98dea744235ccdfe81a0e95d1bc0948af340f55fd8ce3b5c2860b9060b2bd2c0",
+              "notes": "Le son des mécanismes : moteurs et servos calculés depuis la simulation (commutation, engrenages, effort, calage, PWM, servos qui tiennent), chœur discret des clones, réverbération de la pièce.",
+              "date": "2026-10-25T21:47:05+00:00"
+            },
+            {
               "versionName": "2.14.0",
               "versionCode": 39,
               "engineVersion": "0.5.235",

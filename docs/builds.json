@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.9.0",
+              "versionCode": 34,
+              "engineVersion": "0.5.235",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.9.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.9.0/ai-sandbox-test-v2.9.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 38864661,
+              "sha256": "6bc614c2ed5bced292ae922b8ef7152507819c03455d6af916d1dfa6d1b4dc41",
+              "notes": "Les cartouches : plusieurs cerveaux par robot, changement avec redémarrage visible ; le cerveau parlant apprend (effets mesurés, rêves, leçons) ; bibliothèque des buts libres commune à tes robots ; panneau BUT LIBRE repliable et seulement à l'étape 3.",
+              "date": "2026-10-25T19:11:48+00:00"
+            },
+            {
               "versionName": "2.8.0",
               "versionCode": 33,
               "engineVersion": "0.5.235",

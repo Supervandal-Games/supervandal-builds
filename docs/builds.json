@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.16.0",
+              "versionCode": 41,
+              "engineVersion": "0.5.238",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.16.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.16.0/ai-sandbox-test-v2.16.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 40361041,
+              "sha256": "c02fb4913e23af98b9e4ecf3798130347ad21654b90ade6105c63f2e86f7e957",
+              "notes": "Son plus subtil : 4-12 dB plus bas, servos dans le bas-médium à leur hauteur exacte, crans et frottements par rotor, aucun lissage (une patte qui tremble s'entend trembler).",
+              "date": "2026-10-25T23:20:55+00:00"
+            },
+            {
               "versionName": "2.15.0",
               "versionCode": 40,
               "engineVersion": "0.5.235",

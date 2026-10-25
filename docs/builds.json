@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.3.0",
+              "versionCode": 27,
+              "engineVersion": "0.5.232",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.3.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.3.0/ai-sandbox-test-v2.3.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 34739669,
+              "sha256": "8a61c7c3e9ae3a6fa12eb63fbd027d4dd5fae037a2eacdf2e2344f74063c3137",
+              "notes": "AI Sandbox 2.3.0 — le Booster. Dans la couveuse, l'interrupteur BOOSTER (à côté de PILOTER) fait vivre des essais en plus dans des mondes sans rendu, en arrière-plan, pour tous les robots et toutes les étapes : on ne les voit pas, la courbe et la génération montent plus vite, les clones visibles montrent les candidats du lot. La ligne d'état dit les essais par minute et combien ont vécu en arrière-plan ; le temps simulé du cerveau les compte. Nouveau panneau AVANCÉ (en haut à droite) : nombre de mondes du Booster, optimiseur ARS / OpenAI-ES / CEM changeable en cours de route, réseau (MLP ; CfC et LTC pas encore dans la moelle), registres libres et leurs jauges, Repartir de zéro. Sur le Pixel 6a, le Booster double à peu près les essais ; après 3 à 4 minutes à x4, le téléphone chauffe et la couveuse descend sous 60 i/s.",
+              "date": "2026-10-25T12:35:48+00:00"
+            },
+            {
               "versionName": "2.2.0",
               "versionCode": 26,
               "engineVersion": "0.5.229",

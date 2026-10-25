@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.12.0",
+              "versionCode": 37,
+              "engineVersion": "0.5.235",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.12.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.12.0/ai-sandbox-test-v2.12.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 40201105,
+              "sha256": "49a83e6903f50bd9c0b406e1a9697b202783e46ae3a7d123790a6cda19b48c11",
+              "notes": "Un seul cerveau pour tous les corps, vies de 20 s qui finissent à l'examen réussi, trois poses de base VEILLE/PRÊT/REPOS visibles et modifiables, étapes qui démarrent en pause avec un réglage DÉPART.",
+              "date": "2026-10-25T20:03:50+00:00"
+            },
+            {
               "versionName": "2.11.0",
               "versionCode": 36,
               "engineVersion": "0.5.235",

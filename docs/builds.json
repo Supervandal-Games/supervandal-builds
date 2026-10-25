@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.1.1",
+              "versionCode": 24,
+              "engineVersion": "0.5.225",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.1.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.1.1/ai-sandbox-test-v2.1.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 33946829,
+              "sha256": "f53d78e6b4311f3921a113d09e6d1574b699ca3eba0de079db6c18de6616e7fb",
+              "notes": "Couveuse : même examen pour tout le lot — 3 points autour de la place de naissance, la vitesse et la précision comptent ; le champion passe 3 examens fixes. La jauge s'appelle « erreur de prédiction ». Atelier : la caméra d'essai garde le robot en vue. Le marcheur se construit aussi. Toujours une version de test.",
+              "date": "2026-10-25T05:38:38+00:00"
+            },
+            {
               "versionName": "2.1.0",
               "versionCode": 23,
               "engineVersion": "0.5.224",

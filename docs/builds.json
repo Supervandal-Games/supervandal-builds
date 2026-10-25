@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.2.0",
+              "versionCode": 26,
+              "engineVersion": "0.5.229",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.2.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.2.0/ai-sandbox-test-v2.2.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 34445933,
+              "sha256": "d7185ce7a2d2ccf957918e1a689fd32186d8e13c5700c33f1358d5e4af0a674b",
+              "notes": "L'éveil du corps : un robot neuf découvre son corps (étape 0 · ÉVEIL) — il essaie tout, se couche, se retourne, gigote, et la couveuse récompense ce qu'il n'a jamais fait. Carte des postures découvertes et répertoire de 256 comportements. Le robot connaît son centre de masse estimé et sent ses contacts au sol. « Tenir debout » récompense aussi l'économie d'énergie.",
+              "date": "2026-10-25T09:56:22+00:00"
+            },
+            {
               "versionName": "2.1.2",
               "versionCode": 25,
               "engineVersion": "0.5.226",

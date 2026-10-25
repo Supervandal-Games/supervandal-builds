@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.8.0",
+              "versionCode": 33,
+              "engineVersion": "0.5.235",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.8.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.8.0/ai-sandbox-test-v2.8.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 38699989,
+              "sha256": "798151ee86044081d4276f590477aa1f6726b770c6e401bd5e99659d037d8ad3",
+              "notes": "L'assistant de construction (bouton ASSISTANT à l'Établi : questions, conseils, plan modifié avec aperçu et une annulation) ; les roues tournent autour de l'arbre de leur moteur quel que soit le montage.",
+              "date": "2026-10-25T18:42:43+00:00"
+            },
+            {
               "versionName": "2.7.0",
               "versionCode": 32,
               "engineVersion": "0.5.235",

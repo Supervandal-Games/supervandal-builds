@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.4.1",
+              "versionCode": 29,
+              "engineVersion": "0.5.233",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.4.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.4.1/ai-sandbox-test-v2.4.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 35156181,
+              "sha256": "bf067979c16a684f98e0085aa04e04d621b87357cb04fbbdf198f9336b012883",
+              "notes": "Buts libres, correctif : un nouveau but part de la compétence apprise (debout, joystick) quand le répertoire de l'éveil est trop jeune, au lieu d'un cerveau neuf.",
+              "date": "2026-10-25T14:05:46+00:00"
+            },
+            {
               "versionName": "2.4.0",
               "versionCode": 28,
               "engineVersion": "0.5.233",

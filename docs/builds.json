@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.7.0",
+              "versionCode": 32,
+              "engineVersion": "0.5.235",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.7.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.7.0/ai-sandbox-test-v2.7.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 38504085,
+              "sha256": "68b8086e9b1281098a5ab37a0c79fcbaa211bc5cf0daac736b395eeb80f61cbb",
+              "notes": "La Campagne : barre Labo / Campagne, couloir des pièces avec records et médailles par robot, pièces 1 (la porte), 2 (le tri) et 3 (le gardien) ; le robot entend, répond et pense dans les pièces.",
+              "date": "2026-10-25T18:16:03+00:00"
+            },
+            {
               "versionName": "2.6.0",
               "versionCode": 31,
               "engineVersion": "0.5.234",

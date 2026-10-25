@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.13.0",
+              "versionCode": 38,
+              "engineVersion": "0.5.235",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.13.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.13.0/ai-sandbox-test-v2.13.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 40089877,
+              "sha256": "1f8b5eff79fcbe50837134168a32e3870e84536252564e4314d6ad3d3c16623e",
+              "notes": "Les poses à l'atelier : REPOS 0 = la pose de construction (verrouillée), bouton POSES à l'Établi (prendre la pose, curseurs, fixer, REPOS 1, 2…), fenêtre de la couveuse réparée.",
+              "date": "2026-10-25T20:58:51+00:00"
+            },
+            {
               "versionName": "2.12.0",
               "versionCode": 37,
               "engineVersion": "0.5.235",

@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.24.0",
+              "versionCode": 53,
+              "engineVersion": "0.5.243",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.24.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.24.0/ai-sandbox-test-v2.24.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 49024565,
+              "sha256": "1a96632f85ee44ed47da17cf5bb81cd74d7b733cd981719dc0433a4e0c6a60b2",
+              "notes": "v2.24.0 : 500 generations d'Eveil suffisent pour obeir au stick (banque des 6 primitives motrices cardinales + benchmark 28/28), 8 Poses profilees a 7 attributs et feedforward servo direct, Champion immortel avec Orbes HDR d'apprentissage et Bloom, nouvelles pieces LED RGB et Buzzer reliees a la moelle des l'Eveil, et clones 100% silencieux.",
+              "date": "2026-10-26T15:57:30+00:00"
+            },
+            {
               "versionName": "2.23.0",
               "versionCode": 52,
               "engineVersion": "0.5.241",

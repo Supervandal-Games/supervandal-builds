@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.18.2",
+              "versionCode": 45,
+              "engineVersion": "0.5.239",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.18.2",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.18.2/ai-sandbox-test-v2.18.2-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 40678069,
+              "sha256": "92a256d9939e95049660fcf5d88e2f2f3810bdadbd80f53cde3e7c671155dbd4",
+              "notes": "2.18.2 : normalisation directe [-1,1] et LiveMask des registres et poses cibles, respect de la pose cible en rétablissement, protection des lignées pendant le criblage, graine de lot partagée pour OpenAI-ES et CEM, sondes PRÊT/VEILLE et correctifs Atelier/Couveuse.",
+              "date": "2026-10-26T04:31:21+00:00"
+            },
+            {
               "versionName": "2.18.1",
               "versionCode": 44,
               "engineVersion": "0.5.239",

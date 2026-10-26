@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.18.0",
+              "versionCode": 43,
+              "engineVersion": "0.5.238",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.18.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.18.0/ai-sandbox-test-v2.18.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 40521173,
+              "sha256": "44721d7148c8b26118a41df241f7da09343be1d87f4333fdcaef578fc5bb35a5",
+              "notes": "Couveuse : 4 étapes (ÉVEIL, POSE, JOYSTICK, LIBRE), POSE = départ + pose à tenir, 32 essais par génération, carte de départ avec lot et amplitude ν, champion qui continue de vivre ; atelier : étirement à la flèche corrigé ; noyau NEAT au banc.",
+              "date": "2026-10-26T00:41:44+00:00"
+            },
+            {
               "versionName": "2.17.0",
               "versionCode": 42,
               "engineVersion": "0.5.238",

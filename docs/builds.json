@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.19.0",
+              "versionCode": 46,
+              "engineVersion": "0.5.240",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.19.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.19.0/ai-sandbox-test-v2.19.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 47802357,
+              "sha256": "fda16ec550675b2352f0e194c773a2eb0766a25d65b86ff6bf6829852e3249f2",
+              "notes": "v2.19.0: Integration des 3 modes NEAT (NEAT, HyperNEAT symetrie bilaterale 3D, NEAT+ARS), correctif des transitions de poses penchees (POSE-3) et campagne comparative.",
+              "date": "2026-10-26T05:57:06+00:00"
+            },
+            {
               "versionName": "2.18.2",
               "versionCode": 45,
               "engineVersion": "0.5.239",

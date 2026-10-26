@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.25.0",
+              "versionCode": 54,
+              "engineVersion": "0.5.244",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.25.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.25.0/ai-sandbox-test-v2.25.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 50025489,
+              "sha256": "d8c3748c3fa8f80c396dbc29f6a3b502b2cfc32b9a1bdd5a1601f9316f62d534",
+              "notes": "v2.25.0 : Connexion Compte Google / Supervandal, synchronisation CloudVaultSync (robots, disquettes, cerveaux, repertoires, buts libres), liaison PC 32 coeurs (PARALLELE ON + Programme de Batchs PC parametrique sur les 4 modes pilotable depuis Android avec auto-reveil du PC et progression 1 Hz en direct).",
+              "date": "2026-10-26T17:24:56+00:00"
+            },
+            {
               "versionName": "2.24.0",
               "versionCode": 53,
               "engineVersion": "0.5.243",

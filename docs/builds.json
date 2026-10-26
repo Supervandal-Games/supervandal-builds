@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.23.0",
+              "versionCode": 52,
+              "engineVersion": "0.5.241",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.23.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.23.0/ai-sandbox-test-v2.23.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 48762293,
+              "sha256": "85b2d30db19790d1af8dd63b780b05aaea28db93aca1eab1c72bb3347497619e",
+              "notes": "v2.23.0 : Selecteur de 9 prereglages Tier S, notation et diagnostic en direct des 45 combinaisons (S/A/B/F), biais Chrono exact de CfC, attrapage/tap du robot permissif multi-corps et zero sleep Box3D.",
+              "date": "2026-10-26T13:03:37+00:00"
+            },
+            {
               "versionName": "2.22.0",
               "versionCode": 51,
               "engineVersion": "0.5.241",

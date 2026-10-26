@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.22.0",
+              "versionCode": 51,
+              "engineVersion": "0.5.241",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.22.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.22.0/ai-sandbox-test-v2.22.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 48689077,
+              "sha256": "870132b42175de0b654aed927b148374cf659a418e41fd575bfa43343908edd8",
+              "notes": "v2.22.0 : 2 cerveaux independants L1/L2 avec [ON/OFF] et superposition W1+W2, reseaux 50 Hz MLP / CfC / LTC deverrouilles, tampon temporaire 128 cases (16x8), 5 curseurs d'eveil (0..3) et distillation Hindsight 7D avec recyclage.",
+              "date": "2026-10-26T12:07:28+00:00"
+            },
+            {
               "versionName": "2.21.0",
               "versionCode": 50,
               "engineVersion": "0.5.241",

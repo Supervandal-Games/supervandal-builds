@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.17.0",
+              "versionCode": 42,
+              "engineVersion": "0.5.238",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.17.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.17.0/ai-sandbox-test-v2.17.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 40422357,
+              "sha256": "f29ea95bce40d9f4ab229d3a1e9f3d92df622134d92b73811fa882ed730884e1",
+              "notes": "La symétrie à l'Établi (chaque geste refait en miroir, une annulation), JUMEAUX dans POSES, bacs de pièces en pages.",
+              "date": "2026-10-26T00:05:37+00:00"
+            },
+            {
               "versionName": "2.16.0",
               "versionCode": 41,
               "engineVersion": "0.5.238",

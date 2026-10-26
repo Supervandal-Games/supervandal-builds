@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.21.0",
+              "versionCode": 50,
+              "engineVersion": "0.5.241",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.21.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.21.0/ai-sandbox-test-v2.21.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 48619765,
+              "sha256": "10fbc3cf9121cca76b6382ff21db5655420c6a129d7ca3d27da807c94158570e",
+              "notes": "2.21.0 : Editeur interactif d'objectifs (3 LIBRE), inconfort de pose generique (3.5-5s), fin des respawns automatiques a la chute, et maintien 0.50s resserre pour attraper le robot partout.",
+              "date": "2026-10-26T10:16:34+00:00"
+            },
+            {
               "versionName": "2.20.0",
               "versionCode": 49,
               "engineVersion": "0.5.240",

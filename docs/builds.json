@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.18.1",
+              "versionCode": 44,
+              "engineVersion": "0.5.239",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.18.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.18.1/ai-sandbox-test-v2.18.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 40674677,
+              "sha256": "955c318182bcdce9376609a870505276a678d63823cc35a630972b3699956435",
+              "notes": "Couveuse (1 POSE) : maintien réel des angles de servos en DEBOUT (REPOS 0 -> REPOS 0), synchronisation et sauvegarde de DÉPART / À TENIR, prise en charge des poses d'Atelier (REPOS 1..N) et placement visuel immédiat sur la carte de départ.",
+              "date": "2026-10-26T02:53:50+00:00"
+            },
+            {
               "versionName": "2.18.0",
               "versionCode": 43,
               "engineVersion": "0.5.238",

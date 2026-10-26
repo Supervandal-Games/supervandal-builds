@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.19.1",
+              "versionCode": 47,
+              "engineVersion": "0.5.240",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.19.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.19.1/ai-sandbox-test-v2.19.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 47825081,
+              "sha256": "84806912754b9fd19a50a161951a19065a4544821026b21c94f265030b5c3c7d",
+              "notes": "2.19.1 : Atelier sans retournement edit/allumer + bouton PIVOTER 90 deg ; Gyroscope/IMU toujours aligne au repere robot (+X droite, +Y avant, +Z haut) ; Couveuse anti-triche pattes en l air, stabilite Eveil, poses debout protegees et notification 3D avec miniature de la pose enregistree.",
+              "date": "2026-10-26T06:40:02+00:00"
+            },
+            {
               "versionName": "2.19.0",
               "versionCode": 46,
               "engineVersion": "0.5.240",
@@ -7573,7 +7587,7 @@
               "date": "2026-10-22T18:00:35+00:00"
             }
           ],
-          "appName": "AI Sandbox",
+          "appName": "AI Sandbox Test",
           "package": "com.supervandal.aisandbox.test"
         },
         "s25": {

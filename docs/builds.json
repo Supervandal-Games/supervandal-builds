@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.19.2",
+              "versionCode": 48,
+              "engineVersion": "0.5.240",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.19.2",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.19.2/ai-sandbox-test-v2.19.2-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 47826809,
+              "sha256": "76031b62f40de7968c9c9c1bd8827ebbf8129a46daf7f0840bcd127a75beb2a7",
+              "notes": "2.19.2: timeout 8.6s au 1er point en 2 JOYSTICK (+81% vitesse generations), Booster kBoosterMaxRobots=64 pour evaluer un Batch=64 en une seule vague (x2 vitesse), et filtrage CheckPoseNotification.",
+              "date": "2026-10-26T07:33:07+00:00"
+            },
+            {
               "versionName": "2.19.1",
               "versionCode": 47,
               "engineVersion": "0.5.240",

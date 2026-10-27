@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.30.0",
+              "versionCode": 59,
+              "engineVersion": "0.5.247",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.30.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.30.0/ai-sandbox-test-v2.30.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 50462609,
+              "sha256": "7aa1e67b1de0bc0fd140d02aff31b56d5277ca5cbd0ae393cb5150ebecc6927b",
+              "notes": "v2.30.0 : Seconde passe d'audit IA, equilibre LTC Balancier (6,98 /s), maintien de pose StandUp (6,77 /s) et suivi joystick Rover (6,73 /s)",
+              "date": "2026-10-27T17:57:24+00:00"
+            },
+            {
               "versionName": "2.29.0",
               "versionCode": 58,
               "engineVersion": "0.5.247",

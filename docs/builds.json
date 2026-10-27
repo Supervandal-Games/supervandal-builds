@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.33.4",
+              "versionCode": 67,
+              "engineVersion": "0.5.247",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.33.4",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.33.4/ai-sandbox-test-v2.33.4-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 50560985,
+              "sha256": "2cc62cada679084fbc03a292f3ae6fe01ec19a04eb472611e7f2cf6b51703a5d",
+              "notes": "2.33.4 : correctif complet sans BOOSTER (y compris avec +PC connecte : passage des 16 clones en mode Display sous +PC, restitution sans fuite des tickets distants en vol lors d'un changement d'etape ou deconnexion, protection du telephone LAN contre l'ejection par une instance PC locale).",
+              "date": "2026-10-27T23:20:18+00:00"
+            },
+            {
               "versionName": "2.33.3",
               "versionCode": 66,
               "engineVersion": "0.5.247",

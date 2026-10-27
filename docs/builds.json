@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.33.3",
+              "versionCode": 66,
+              "engineVersion": "0.5.247",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.33.3",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.33.3/ai-sandbox-test-v2.33.3-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 50559897,
+              "sha256": "d304249e9ce9c8bc38f4c674ba14f47c349966ead8c05562905e592882d2a123",
+              "notes": "2.33.3 : correctif critique des generations bloquees a 0 sans BOOSTER (mise a jour en place de la moyenne dans InjectCoachAssist toutes les 15s sans reset du lot en cours ni invalidation des 16 clones visibles, protection des 2 vagues de 16 en 0 EVEIL et rotation des slots distants).",
+              "date": "2026-10-27T23:03:54+00:00"
+            },
+            {
               "versionName": "2.33.2",
               "versionCode": 65,
               "engineVersion": "0.5.247",

@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.32.1",
+              "versionCode": 62,
+              "engineVersion": "0.5.247",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.32.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.32.1/ai-sandbox-test-v2.32.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 50529489,
+              "sha256": "1f09af8027f3b012b348a3f980d0846cbb4f35a0a7f91df1a51dd3d0a6db3223",
+              "notes": "v2.32.1 : Eclairage Point Light 3D et Bloom HDR des LEDs et matrices, extinction stricte hors signal (Shutdown=0), readout neuronal 64-LEDs par puce MAX7219 dans BrainSignal + sequences multi-frames Llama, et bootstrap directionnel 2 BOUGER (44/44 self-tests).",
+              "date": "2026-10-27T21:29:37+00:00"
+            },
+            {
               "versionName": "2.32.0",
               "versionCode": 61,
               "engineVersion": "0.5.247",

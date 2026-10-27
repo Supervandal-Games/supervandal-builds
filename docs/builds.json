@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.31.0",
+              "versionCode": 60,
+              "engineVersion": "0.5.247",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.31.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.31.0/ai-sandbox-test-v2.31.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 50474449,
+              "sha256": "1e416fbc93759d78c3d927a44ce542a713742276ec4a609f4e42666087ad34c1",
+              "notes": "v2.31.0: Audit 5 passes, registre 8 poses (0..7) purifie, maitrise POSE 0 a 100% (@2deg et @30deg), redressement actif, 2 BOUGER avec pose imposee et validation des 9 presets",
+              "date": "2026-10-27T19:41:12+00:00"
+            },
+            {
               "versionName": "2.30.0",
               "versionCode": 59,
               "engineVersion": "0.5.247",

@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.33.1",
+              "versionCode": 64,
+              "engineVersion": "0.5.247",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.33.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.33.1/ai-sandbox-test-v2.33.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 50558105,
+              "sha256": "3ed59de9a41e68210423856c2b033cb81ee6793be045e9658e39bde3b6ea7c95",
+              "notes": "v2.33.1: Correctif preservation 1 POSE -> 2 BOUGER, boucle d'assiette balancier, zoom plateau graphique HUD & layout stick/horloge",
+              "date": "2026-10-27T22:23:21+00:00"
+            },
+            {
               "versionName": "2.33.0",
               "versionCode": 63,
               "engineVersion": "0.5.247",

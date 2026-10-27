@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.26.0",
+              "versionCode": 55,
+              "engineVersion": "0.5.247",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.26.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.26.0/ai-sandbox-test-v2.26.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 50345297,
+              "sha256": "52e539de9a62ff52ab893a2d9030c8574e39722d9bf52aa7948281039504be85",
+              "notes": "v2.26.0 : Architecture bi-reseau Mouvement vs Signal (BrainSignal 16->8 CfC->64 sans cas particulier, pic interne relatif), plafond de 16 pieces signaux, modulation glissando/trille/LED, onglet SIGNAUX (VOIX & LED), jauge BAVARD (0..100%, defaut 10%) et ecoute [>] en direct.",
+              "date": "2026-10-27T12:27:52+00:00"
+            },
+            {
               "versionName": "2.25.0",
               "versionCode": 54,
               "engineVersion": "0.5.244",

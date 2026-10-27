@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.32.0",
+              "versionCode": 61,
+              "engineVersion": "0.5.247",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.32.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.32.0/ai-sandbox-test-v2.32.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 50507921,
+              "sha256": "a568b069e9f780d41dd42ac43053ce753c1860de57567a0ebaba8b55fc9c6ac9",
+              "notes": "v2.32.0: Auto-recadrage vertical [Min..Max] du graphique HUD, refonte du scoring sans plafond (2 BOUGER en 5 phases sequentielles et 3 LIBRE), cerveau unique continu sans oubli catastrophique (0 EVEIL <-> 1 POSE <-> 2 BOUGER <-> 3 LIBRE) et decouverte spatiale 12 axes (AXES X/12, 44/44 self-tests)",
+              "date": "2026-10-27T20:39:07+00:00"
+            },
+            {
               "versionName": "2.31.0",
               "versionCode": 60,
               "engineVersion": "0.5.247",

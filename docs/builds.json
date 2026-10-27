@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.33.0",
+              "versionCode": 63,
+              "engineVersion": "0.5.247",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.33.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.33.0/ai-sandbox-test-v2.33.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 50556249,
+              "sha256": "41eaf48fadf2ae13d453c9f41fd2030e27e25a736e10768e62389eea30ccbedf",
+              "notes": "v2.33.0: Registres libres permanents (r0..r3), Coach Llama 15s en Couveuse, correctif 2 BOUGER balancier & auto-cadrage graphique percentile 15%",
+              "date": "2026-10-27T22:00:13+00:00"
+            },
+            {
               "versionName": "2.32.1",
               "versionCode": 62,
               "engineVersion": "0.5.247",
@@ -7797,7 +7811,7 @@
               "date": "2026-10-22T18:00:35+00:00"
             }
           ],
-          "appName": "AI Sandbox",
+          "appName": "AI Sandbox Test",
           "package": "com.supervandal.aisandbox.test"
         },
         "s25": {

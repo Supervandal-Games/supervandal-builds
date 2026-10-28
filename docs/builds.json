@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.38.2",
+              "versionCode": 74,
+              "engineVersion": "0.5.248",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.38.2",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.38.2/ai-sandbox-test-v2.38.2-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 50888349,
+              "sha256": "3e88598ee39eb7fbc96c1263244076adb72c0867c7bca290858b43b11a1b45b8",
+              "notes": "v2.38.2: Conditionnement dynamique du LLM local et affichage du vrai nom/monogramme (LFM 2.5 vs Llama 3.2 vs Aucun), protection posturale des poses de repos (RestPoses), calibration Sep-CMA-ES et benchmark 500 générations sur les 9 presets (0..8).",
+              "date": "2026-10-28T18:50:14+00:00"
+            },
+            {
               "versionName": "2.38.1",
               "versionCode": 73,
               "engineVersion": "0.5.248",

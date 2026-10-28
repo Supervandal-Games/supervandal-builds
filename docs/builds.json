@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.37.0",
+              "versionCode": 70,
+              "engineVersion": "0.5.247",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.37.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.37.0/ai-sandbox-test-v2.37.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 50619865,
+              "sha256": "df91e318a2a10554c6aa905d240062c2db7af65e150fa144c7f6c030c1e5bf51",
+              "notes": "v2.37.0: Contrat neuronal auto-porteur SpinalSimContract, empreinte ComputeNeuralEngineHash 64-bits et verrou strict de version Android/PC v2.37.0",
+              "date": "2026-10-28T04:42:00+00:00"
+            },
+            {
               "versionName": "2.36.0",
               "versionCode": 69,
               "engineVersion": "0.5.247",

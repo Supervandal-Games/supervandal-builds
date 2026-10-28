@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.37.1",
+              "versionCode": 71,
+              "engineVersion": "0.5.247",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.37.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.37.1/ai-sandbox-test-v2.37.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 50649753,
+              "sha256": "d505e1f3f0dcfb20dc18624a1d2de9c8db3f40effc04c304e16da214207cdf16",
+              "notes": "v2.37.1: Empreinte ComputeNeuralEngineHash deterministe champ par champ (zero padding C++) et conformite CloudVaultSync firestore.rules (HTTP 403 fix)",
+              "date": "2026-10-28T13:26:39+00:00"
+            },
+            {
               "versionName": "2.37.0",
               "versionCode": 70,
               "engineVersion": "0.5.247",

@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.35.0",
+              "versionCode": 68,
+              "engineVersion": "0.5.247",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.35.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.35.0/ai-sandbox-test-v2.35.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 50575257,
+              "sha256": "1d6f5cb31fddc6c238d6ccd8e2b3d95bf714acd3744b2eb6b8c80bfa15768270",
+              "notes": "v2.35.0 : Servos 360 continus sans butee (rampeur), BrainSpinal 100 % reseau neuronal (Loi 1), masquage exact des entrees/sorties sans amnesie, scoring circulaire 1 POSE / 2 BOUGER, notifications visibles Llama/DeepSeek et sequences LED 8x8 animees (46/46 self-tests).",
+              "date": "2026-10-28T03:08:43+00:00"
+            },
+            {
               "versionName": "2.33.4",
               "versionCode": 67,
               "engineVersion": "0.5.247",

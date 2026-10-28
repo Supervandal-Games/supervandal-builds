@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "3.0.1",
+              "versionCode": 76,
+              "engineVersion": "0.5.248",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v3.0.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v3.0.1/ai-sandbox-test-v3.0.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 50894873,
+              "sha256": "de9eeb8dbd67ddb166234dbbff2aea9805323f6e1c3b116618d197b0cc112798",
+              "notes": "Couveuse : panneau du haut refait (onglets GRAPHE/COURBE et etapes, textes lisibles sur mobile), indicateur PC honnete (COMPTE / +PC, PC : N eval/min, PC non relie).",
+              "date": "2026-10-28T22:34:26+00:00"
+            },
+            {
               "versionName": "3.0.0",
               "versionCode": 75,
               "engineVersion": "0.5.248",

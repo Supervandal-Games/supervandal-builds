@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.38.1",
+              "versionCode": 73,
+              "engineVersion": "0.5.248",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.38.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.38.1/ai-sandbox-test-v2.38.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 50874653,
+              "sha256": "e9221836f71f38070fa08fa4a1145e5aab0a3101c3809afada5985dfd2d7aa5d",
+              "notes": "v2.38.1: Correctif validation stricte PoseGraph (zéro faux positif ACQUIS au sol sur Balancier, validation uniquement par Champion sans harnais), persistance disque PGKM, alignement UI bannière haute & toast Llama, paliers StopBrake 33/66/100%, radar 50 Hz et audit v2.38.",
+              "date": "2026-10-28T17:07:37+00:00"
+            },
+            {
               "versionName": "2.38.0",
               "versionCode": 72,
               "engineVersion": "0.5.248",

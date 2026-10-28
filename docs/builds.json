@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "2.38.0",
+              "versionCode": 72,
+              "engineVersion": "0.5.248",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v2.38.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v2.38.0/ai-sandbox-test-v2.38.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 50857117,
+              "sha256": "95d58d3056683cb061999b8ba20025261befe47f12c290a9b117a4684410855e",
+              "notes": "v2.38.0: KleidiAI Q4_0, correctifs BUG-01..06, menu global Options IA/Voix + désinstallation .gguf, PoseGraph en étoile (1 POSE), matrice cinématique 5x3 + radar 60 Hz (2 BOUGER), cervelet actif & compilateur de buts local GBNF.",
+              "date": "2026-10-28T16:40:04+00:00"
+            },
+            {
               "versionName": "2.37.1",
               "versionCode": 71,
               "engineVersion": "0.5.247",

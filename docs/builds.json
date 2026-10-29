@@ -6699,6 +6699,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "3.2.1",
+              "versionCode": 17,
+              "engineVersion": "0.5.248",
+              "config": "Release",
+              "channel": "beta",
+              "tag": "ai-sandbox-android-alpha1-v3.2.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-alpha1-v3.2.1/ai-sandbox-alpha1-v3.2.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-alpha1-latest/ai-sandbox-alpha1.apk",
+              "size": 52117209,
+              "sha256": "e677e675d190f2707bb7593593785bec74881e4b6160c91ab062498cb99b256f",
+              "notes": "3.2.1 : le visage du robot a son propre tiroir de 35 motifs nommables, melange ou/et/xor, crepitement, une decision dediee au visage, un mot affiche lettre par lettre, et un contexte double (8192).",
+              "date": "2026-10-29T15:39:54+00:00"
+            },
+            {
               "versionName": "1.0.18",
               "versionCode": 16,
               "engineVersion": "0.5.213",

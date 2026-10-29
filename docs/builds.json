@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "3.1.0",
+              "versionCode": 77,
+              "engineVersion": "0.5.248",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v3.1.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v3.1.0/ai-sandbox-test-v3.1.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 51478109,
+              "sha256": "7ca5320a9ca9f625f49bf6a812d14da40c7d20796ed876fd194f2e33cef1ff7d",
+              "notes": "Menu titre + mode Story ; apprentissage continu (atelier/campagne/story, clones miroirs) ; plus d'oubli entre onglets ; axe verrouillable dans BOUGER ; etoile des poses ; esprit du robot (il se croit robot, perso par cartouche, humeurs) ; LED/buzzer libres ; bloom revu ; camera en pause. Cerveaux reinitialises. Lien PC indisponible tant que la version PC n'est pas en 3.1.0.",
+              "date": "2026-10-29T04:18:36+00:00"
+            },
+            {
               "versionName": "3.0.1",
               "versionCode": 76,
               "engineVersion": "0.5.248",

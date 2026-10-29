@@ -1,0 +1,19 @@
+{
+  "project": "ai-sandbox",
+  "projectTitle": "AI Sandbox",
+  "track": "ai",
+  "appName": "AI Sandbox",
+  "package": "com.supervandal.aisandbox",
+  "platform": "android",
+  "versionName": "3.2.2",
+  "versionCode": 1,
+  "engineVersion": "0.5.248",
+  "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-ai-v3.2.2/ai-sandbox-ai-v3.2.2-release.apk",
+  "apkUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-ai-v3.2.2/ai-sandbox-ai-v3.2.2-release.apk",
+  "size": 52122833,
+  "sha256": "4815924ef63fc47912187e7cb37f6689fcf318f874f65aab7716f5845feae3f5",
+  "date": "2026-10-29T16:04:49+00:00",
+  "channel": "beta",
+  "notes": "3.2.2 : nom et identifiant figes (AI Sandbox, com.supervandal.aisandbox) pour que la connexion au compte Supervandal refonctionne ; operations LED (defile/tourne/taille/xor) et programmes ecrits par le robot.",
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/ai-sandbox/ai/"
+}

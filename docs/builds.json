@@ -6929,6 +6929,20 @@
         "test": {
           "builds": [
             {
+              "versionName": "3.2.0",
+              "versionCode": 78,
+              "engineVersion": "0.5.248",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-test-v3.2.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-v3.2.0/ai-sandbox-test-v3.2.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-test-latest/ai-sandbox-test.apk",
+              "size": 52035097,
+              "sha256": "0e701e53109cfb9ece02745434bb6add4da08f7156bfd00a9ba0285228c9bd8d",
+              "notes": "Cartes memoire (cerveau = carte, nom sur la carte, vierge/effacer/sauver/changer), piece haut-parleur (langue + voix a la pose, son 11 kHz spatialise), bulles 3D pensee/parole unifiees, journaux complets dans la fiche, clones visibles autour du robot quand il apprend, memoire axes + vitesses, 4 poses perso, revisions anti-oubli, onglet POSE lisible",
+              "date": "2026-10-29T11:21:08+00:00"
+            },
+            {
               "versionName": "3.1.0",
               "versionCode": 77,
               "engineVersion": "0.5.248",

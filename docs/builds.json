@@ -8117,6 +8117,20 @@
         "ai": {
           "builds": [
             {
+              "versionName": "3.2.7",
+              "versionCode": 6,
+              "engineVersion": "0.5.248",
+              "config": "Release",
+              "channel": "beta",
+              "tag": "ai-sandbox-android-ai-v3.2.7",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-ai-v3.2.7/ai-sandbox-ai-v3.2.7-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-ai-latest/ai-sandbox-ai.apk",
+              "size": 52176273,
+              "sha256": "0a4b273db663dde599fd559c83faf3b4f6dd1636a9199cc527033db6719d9e70",
+              "notes": "Build de test 3.2.7 - axes honnetes, cycle de poses automatique, champion reactif, culling des transitions.",
+              "date": "2026-10-30T06:04:07+00:00"
+            },
+            {
               "versionName": "3.2.6",
               "versionCode": 5,
               "engineVersion": "0.5.248",

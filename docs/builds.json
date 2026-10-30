@@ -8117,6 +8117,20 @@
         "ai": {
           "builds": [
             {
+              "versionName": "3.2.6",
+              "versionCode": 5,
+              "engineVersion": "0.5.248",
+              "config": "Release",
+              "channel": "beta",
+              "tag": "ai-sandbox-android-ai-v3.2.6",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-ai-v3.2.6/ai-sandbox-ai-v3.2.6-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-ai-latest/ai-sandbox-ai.apk",
+              "size": 52166865,
+              "sha256": "5b66a2c9f58e2cd8bdbe6ab41c2a94638dac4dbf63d3ffffd8504a3f7f10a9b7",
+              "notes": "Build de test 3.2.6 - moteur v0.5.248.",
+              "date": "2026-10-30T04:29:50+00:00"
+            },
+            {
               "versionName": "3.2.5",
               "versionCode": 4,
               "engineVersion": "0.5.248",

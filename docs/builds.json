@@ -6699,6 +6699,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "3.3.5",
+              "versionCode": 18,
+              "engineVersion": "0.5.253",
+              "config": "Release",
+              "channel": "beta",
+              "tag": "ai-sandbox-android-alpha1-v3.3.5",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-alpha1-v3.3.5/ai-sandbox-alpha1-v3.3.5-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-alpha1-latest/ai-sandbox-alpha1.apk",
+              "size": 52337813,
+              "sha256": "b496589e0ada92cf33bbd1e3dbaebf99945db9f9ebaabf559b2710dadb031b9a",
+              "notes": "3.3.5 : reference unique POSE 0 Atelier, onglet 1 · EQUILIBRE, preset 7/9 ARS + HyperNEAT CfC par defaut, chute au hasard honnete +-180 degres, capteurs Loi 3 sans triche et UBEC 5V/6V.",
+              "date": "2026-10-31T05:30:41+00:00"
+            },
+            {
               "versionName": "3.2.1",
               "versionCode": 17,
               "engineVersion": "0.5.248",

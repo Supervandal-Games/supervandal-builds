@@ -8117,6 +8117,20 @@
         "ai": {
           "builds": [
             {
+              "versionName": "3.3.2",
+              "versionCode": 8,
+              "engineVersion": "0.5.251",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-ai-v3.3.2",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-ai-v3.3.2/ai-sandbox-ai-v3.3.2-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-ai-latest/ai-sandbox-ai.apk",
+              "size": 52261585,
+              "sha256": "34c7285d39b5550a76c07328e3a74652db9a71f1de612ba4537b08517b72edf6",
+              "notes": "v3.3.2 : Audit Deep Learning & Reseaux (Prior HyperNEAT verrouille a t=0 + 100% ARS residuel, pare-feu anti-apathie BehaviourQuality, contrats SpinalCord/Hindsight/Booster, Couveuse decloisonnee & Pilote Auto POSE)",
+              "date": "2026-10-31T03:30:42+00:00"
+            },
+            {
               "versionName": "3.3.0",
               "versionCode": 7,
               "engineVersion": "0.5.248",

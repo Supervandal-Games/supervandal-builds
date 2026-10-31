@@ -6699,6 +6699,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "3.3.6",
+              "versionCode": 19,
+              "engineVersion": "0.5.258",
+              "config": "Release",
+              "channel": "beta",
+              "tag": "ai-sandbox-android-alpha1-v3.3.6",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-alpha1-v3.3.6/ai-sandbox-alpha1-v3.3.6-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-alpha1-latest/ai-sandbox-alpha1.apk",
+              "size": 55874357,
+              "sha256": "cf35d74ff033d7f419594697860ec814e3046a6be8bbc3b6b087acc10c22c620",
+              "notes": "3.3.6 : proprioception 4096 pas sur tous les servos, pose = orientation 3D pure (7/7 robots equilibres en <= 200 gen), suppression servo 360 XL330, 2 nouveaux moteurs Brushless (plat gimbal & outrunner rapide) et montage universel roues/segments sur servos et moteurs.",
+              "date": "2026-10-31T11:20:58+00:00"
+            },
+            {
               "versionName": "3.3.5",
               "versionCode": 18,
               "engineVersion": "0.5.253",

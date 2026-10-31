@@ -8117,6 +8117,20 @@
         "ai": {
           "builds": [
             {
+              "versionName": "3.3.3",
+              "versionCode": 9,
+              "engineVersion": "0.5.252",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-ai-v3.3.3",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-ai-v3.3.3/ai-sandbox-ai-v3.3.3-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-ai-latest/ai-sandbox-ai.apk",
+              "size": 52301329,
+              "sha256": "d374d63075632115bbf808fa8f14e7da1a6edb8c963fe79150ed0e67c975c279",
+              "notes": "AI Sandbox 3.3.3 : Audit complet Deep Learning (Passe #1 + Passe #2) — Prior structurel HyperNEAT (CPPN) élu à t=0 en 1 vague de 16 clones puis verrouillé + 100 % ARS résiduel, pare-feu anti-apathie BehaviourQuality, parité Sim-to-Live du masque Cervelet (16..19), Renormalise Contrat 7 + plancher gyro 0.25, porte liquide CfC exacte de SignalCord, et optimisations.",
+              "date": "2026-10-31T04:20:56+00:00"
+            },
+            {
               "versionName": "3.3.2",
               "versionCode": 8,
               "engineVersion": "0.5.251",

@@ -6699,6 +6699,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "3.3.9",
+              "versionCode": 21,
+              "engineVersion": "0.5.259",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-alpha1-v3.3.9",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-alpha1-v3.3.9/ai-sandbox-alpha1-v3.3.9-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-alpha1-latest/ai-sandbox-alpha1.apk",
+              "size": 56033085,
+              "sha256": "c6fcddd99a0b7d588d2741d73f8571aad24d1999d938703bcae4caa1933c0e31",
+              "notes": "v3.3.9: Commande Position 360 deg sur pattes, equilibre universel POSE 0 (8/8 robots Box3D), silence acoustique au repos, LEDs 100% LLM et connexion Google",
+              "date": "2026-10-31T15:05:38+00:00"
+            },
+            {
               "versionName": "3.3.8",
               "versionCode": 20,
               "engineVersion": "0.5.259",
@@ -6979,7 +6993,7 @@
               "date": "2026-10-19T16:30:18+00:00"
             }
           ],
-          "appName": "AI Sandbox",
+          "appName": "AI Sandbox Alpha 1",
           "package": "com.supervandal.aisandbox.alpha1"
         }
       }

@@ -6699,6 +6699,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "3.3.8",
+              "versionCode": 20,
+              "engineVersion": "0.5.259",
+              "config": "Release",
+              "channel": "beta",
+              "tag": "ai-sandbox-android-alpha1-v3.3.8",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-alpha1-v3.3.8/ai-sandbox-alpha1-v3.3.8-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-alpha1-latest/ai-sandbox-alpha1.apk",
+              "size": 56018805,
+              "sha256": "429c769bf68073d97cd2503f2c8edfab4b6951397b3a1736c7cb7320fe2bba63",
+              "notes": "3.3.8 : Equilibre POSE 0 (hauteur du centre de gravite + orientation continue sur toute la sphere), moteurs Brushless/Stepper sur pattes et articulations corriges (specs + tension batterie), suppression du sifflement aigu des brushless et du gresillement des servos au repos, panneaux LED 8x8/16x16/32x8 pilotes 100% par le LLM.",
+              "date": "2026-10-31T13:12:27+00:00"
+            },
+            {
               "versionName": "3.3.6",
               "versionCode": 19,
               "engineVersion": "0.5.258",

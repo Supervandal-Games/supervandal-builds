@@ -6699,6 +6699,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "3.4.0",
+              "versionCode": 22,
+              "engineVersion": "0.5.267",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "ai-sandbox-android-alpha1-v3.4.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-alpha1-v3.4.0/ai-sandbox-alpha1-v3.4.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/ai-sandbox-android-alpha1-latest/ai-sandbox-alpha1.apk",
+              "size": 60422465,
+              "sha256": "9703895d2b633bd4f2bfd049a3305840d9004bea9a1300d9da4bd6de914b069a",
+              "notes": "v3.4.0 : une seule boucle d'apprentissage (un cerveau, une note, l'oubli fortement réduit), l'atelier vivant (vrais clones qui apprennent autour du robot, renaissance auto, plus de chute de framerate), 9 matières avec rupture réelle, 20 décorations (344 drapeaux en tissu, yeux, ressorts, chapeaux) et un grand polish de l'interface.",
+              "date": "2026-11-01T17:57:01+00:00"
+            },
+            {
               "versionName": "3.3.9",
               "versionCode": 21,
               "engineVersion": "0.5.259",

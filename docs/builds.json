@@ -6674,6 +6674,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.2.2",
+              "versionCode": 4,
+              "engineVersion": "0.5.275",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "lcd-collection-android-alpha1-v0.2.2",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/lcd-collection-android-alpha1-v0.2.2/lcd-collection-alpha1-v0.2.2-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/lcd-collection-android-alpha1-latest/lcd-collection-alpha1.apk",
+              "size": 49268025,
+              "sha256": "76cb13f2161a7c57c2fa1fc3549921fcbe782656fdc091992bf3c008857c137e",
+              "notes": "Deux modes : la table (glisser pour choisir, toucher pour jouer) et le jeu. Bouton POWER pour éteindre (menu Rallumer / Changer de console), EJECT sur la VEGA pour changer de cartouche. VEGA bien plus zoomée, DOPPIO qui s'ouvre et se ferme. Corrigés : boutons fous, tilt, ombres des segments, son absent.",
+              "date": "2026-11-02T18:40:35+00:00"
+            },
+            {
               "versionName": "0.2.1",
               "versionCode": 3,
               "engineVersion": "0.5.274",

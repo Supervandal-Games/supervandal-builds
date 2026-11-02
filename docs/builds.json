@@ -6674,6 +6674,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.2.1",
+              "versionCode": 3,
+              "engineVersion": "0.5.274",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "lcd-collection-android-alpha1-v0.2.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/lcd-collection-android-alpha1-v0.2.1/lcd-collection-alpha1-v0.2.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/lcd-collection-android-alpha1-latest/lcd-collection-alpha1.apk",
+              "size": 48961333,
+              "sha256": "53e6bd2fd92118cc7f1f9e3c5d3de337feb4740ca5131df4c5c5457d88ca8f31",
+              "notes": "Les machines sont enfin éclairées pour de vrai : relief, tranches, biseaux et boutons en volume ; couleurs des plastiques corrigées.",
+              "date": "2026-11-02T18:04:31+00:00"
+            },
+            {
               "versionName": "0.2.0",
               "versionCode": 2,
               "engineVersion": "0.5.274",

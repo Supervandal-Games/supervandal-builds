@@ -6674,6 +6674,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.2.5",
+              "versionCode": 7,
+              "engineVersion": "0.5.277",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "lcd-collection-android-alpha1-v0.2.5",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/lcd-collection-android-alpha1-v0.2.5/lcd-collection-alpha1-v0.2.5-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/lcd-collection-android-alpha1-latest/lcd-collection-alpha1.apk",
+              "size": 49451833,
+              "sha256": "838d714f0ce168693bbefb809f98d5b24c0c48380ea87e258bbb5ff8f64f2b7b",
+              "notes": "Plus de menu : console éteinte (POWER), glisse vers le haut = cartouche, sur le côté = piles, vers le bas = table ; POWER rallume. Tilt recalibré à chaque console. VEGA : tranche du haut visible, boutons faciles à toucher.",
+              "date": "2026-11-03T02:19:26+00:00"
+            },
+            {
               "versionName": "0.2.4",
               "versionCode": 6,
               "engineVersion": "0.5.277",

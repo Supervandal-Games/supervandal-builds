@@ -7262,6 +7262,20 @@
         "internal": {
           "builds": [
             {
+              "versionName": "0.9.6",
+              "versionCode": 3,
+              "engineVersion": "0.5.287",
+              "config": "Release",
+              "channel": "beta",
+              "tag": "vandal-quest-android-internal-v0.9.6",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/vandal-quest-android-internal-v0.9.6/vandal-quest-internal-v0.9.6-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/vandal-quest-android-internal-latest/vandal-quest-internal.apk",
+              "size": 40494653,
+              "sha256": "0e69d7042c05d1d7c7cfa113bac261415a57fecb12602dfd16b9e585dedb0180",
+              "notes": "Vandal Quest 0.9.6 : republication identique a la 0.9.5 (Google Sign-In embarque, statut de compte visible).",
+              "date": "2026-11-04T22:44:01+00:00"
+            },
+            {
               "versionName": "0.9.5",
               "versionCode": 2,
               "engineVersion": "0.5.287",

@@ -7102,6 +7102,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.9.0",
+              "versionCode": 8,
+              "engineVersion": "0.5.280",
+              "config": "Release",
+              "channel": "beta",
+              "tag": "vandal-quest-android-alpha1-v0.9.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/vandal-quest-android-alpha1-v0.9.0/vandal-quest-alpha1-v0.9.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/vandal-quest-android-alpha1-latest/vandal-quest-alpha1.apk",
+              "size": 39617769,
+              "sha256": "bbbd5f0d93ef2ddf520b8e0a0d7bf14ee2fc538e21b20f665b43646a34531185",
+              "notes": "S9 v0.9.0 : objectifs 1994, vieillissement/mort/heritage roguelite, sauvegarde meta, IA DeepSeek/Mistral/Voxtral + drama/free TTS, page Modeles IA, LLM local retire.",
+              "date": "2026-11-04T10:35:17+00:00"
+            },
+            {
               "versionName": "0.7.0",
               "versionCode": 7,
               "engineVersion": "0.5.199",

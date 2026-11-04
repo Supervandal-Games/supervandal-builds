@@ -7102,6 +7102,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.9.2",
+              "versionCode": 10,
+              "engineVersion": "0.5.281",
+              "config": "Release",
+              "channel": "beta",
+              "tag": "vandal-quest-android-alpha1-v0.9.2",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/vandal-quest-android-alpha1-v0.9.2/vandal-quest-alpha1-v0.9.2-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/vandal-quest-android-alpha1-latest/vandal-quest-alpha1.apk",
+              "size": 39729385,
+              "sha256": "67471a7bada0cf1d0b1f6e0867a127307405bd7eaf39106f6877f7028d7a545b",
+              "notes": "S11 v0.9.2: watchdog 35s, UTF-8, [Tone] cleanup, Compte/Pass AI, Gemma 4 free + Mistral main, voice_free TTS. DeepSeek Flash reasoning_content pending engine fix.",
+              "date": "2026-11-04T12:05:26+00:00"
+            },
+            {
               "versionName": "0.9.1",
               "versionCode": 9,
               "engineVersion": "0.5.280",

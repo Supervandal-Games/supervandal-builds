@@ -1,0 +1,19 @@
+{
+  "project": "superglobe",
+  "projectTitle": "Superglobe",
+  "track": "alpha1",
+  "appName": "Superglobe Alpha 1",
+  "package": "com.supervandal.superglobe.alpha1",
+  "platform": "android",
+  "versionName": "0.1.0",
+  "versionCode": 1,
+  "engineVersion": "0.5.280",
+  "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superglobe-android-alpha1-v0.1.0/superglobe-alpha1-v0.1.0-release.apk",
+  "apkUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superglobe-android-alpha1-v0.1.0/superglobe-alpha1-v0.1.0-release.apk",
+  "size": 33004353,
+  "sha256": "0c857e56acefea1e432ebcb79fd26fa8dc3dba84ad9ad47dae29ae4ef5ee2a3d",
+  "date": "2026-11-04T11:30:59+00:00",
+  "channel": "debug",
+  "notes": "Premiere build : planete 100 km, camera orbitale, soleil rotatif.",
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/superglobe/alpha1/"
+}

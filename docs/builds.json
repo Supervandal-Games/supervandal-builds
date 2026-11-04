@@ -7258,6 +7258,26 @@
           ],
           "appName": "Vandal Quest Alpha 1",
           "package": "com.supervandal.vandalquest.alpha1"
+        },
+        "internal": {
+          "builds": [
+            {
+              "versionName": "0.9.4",
+              "versionCode": 1,
+              "engineVersion": "0.5.282",
+              "config": "Release",
+              "channel": "beta",
+              "tag": "vandal-quest-android-internal-v0.9.4",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/vandal-quest-android-internal-v0.9.4/vandal-quest-internal-v0.9.4-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/vandal-quest-android-internal-latest/vandal-quest-internal.apk",
+              "size": 39766885,
+              "sha256": "161046cce51b21177a3b2183747adf9786c8ac9e58b176608cfb6c6bd1027eff",
+              "notes": "Vandal Quest 0.9.4: base package, one Firebase app, npc_free Gemma removed, npc_main Mistral, visible account status, Youp2000 AI pass active.",
+              "date": "2026-11-04T19:03:33+00:00"
+            }
+          ],
+          "appName": "Vandal Quest",
+          "package": "com.supervandal.vandalquest"
         }
       }
     },

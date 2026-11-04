@@ -7102,6 +7102,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.9.1",
+              "versionCode": 9,
+              "engineVersion": "0.5.280",
+              "config": "Release",
+              "channel": "beta",
+              "tag": "vandal-quest-android-alpha1-v0.9.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/vandal-quest-android-alpha1-v0.9.1/vandal-quest-alpha1-v0.9.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/vandal-quest-android-alpha1-latest/vandal-quest-alpha1.apk",
+              "size": 39722025,
+              "sha256": "882b94dc6395a1a8bb026f2724cc2b82691f6d7f335bcbd933960821490a6688",
+              "notes": "B - DS Map fige. Carte unique : rue principale, passage pieton, HLM, PNJ repartis. Zero post-process, selecteur de style retire.",
+              "date": "2026-11-04T11:21:04+00:00"
+            },
+            {
               "versionName": "0.9.0",
               "versionCode": 8,
               "engineVersion": "0.5.280",

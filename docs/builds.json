@@ -7316,6 +7316,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.7.0",
+              "versionCode": 7,
+              "engineVersion": "0.5.301",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "superglobe-android-alpha1-v0.7.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superglobe-android-alpha1-v0.7.0/superglobe-alpha1-v0.7.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superglobe-android-alpha1-latest/superglobe-alpha1.apk",
+              "size": 36499657,
+              "sha256": "59148240b3657d647a7fef9b04088f5f01e2db3f57dd9d0c9d9556a60c92b126",
+              "notes": "Superglobe 0.7.0 : le mode carte ! Bouton en bas à droite : la planète en petits points colorés, quatre couches (Vivant, Feux, Chaleur, Eau). Un climat (équateur chaud et pluvieux, tropiques secs, montagnes froides avec un côté sec), de l'herbe et du plancton, des feux d'herbe : forêts, savanes et prairies se partagent la planète d'elles-mêmes. Le temps va jusqu'à un millénaire par minute, avec des paliers nommés.",
+              "date": "2026-11-07T20:40:42+00:00"
+            },
+            {
               "versionName": "0.5.2",
               "versionCode": 6,
               "engineVersion": "0.5.301",

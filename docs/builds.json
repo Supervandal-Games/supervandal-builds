@@ -7370,6 +7370,20 @@
         "main": {
           "builds": [
             {
+              "versionName": "0.5.0",
+              "versionCode": 3,
+              "engineVersion": "0.5.300",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "engine-demo-android-main-v0.5.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/engine-demo-android-main-v0.5.0/engine-demo-main-v0.5.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/engine-demo-android-main-latest/engine-demo-main.apk",
+              "size": 42431573,
+              "sha256": "39bd820f86e9722e74f62960c793c30e382a8ba2cdbea9a2599d7dd23b99b1e5",
+              "notes": "v0.5.0 - Fix 3D camera aliasing black screen on multi-cam scenes, add 5-frame inter-scene GPU warmup gate, uncap FPS by default (VSync OFF), raise particle budget to 64K, fix per-frame DrawCall counter",
+              "date": "2026-11-07T13:08:12+00:00"
+            },
+            {
               "versionName": "0.4.0",
               "versionCode": 2,
               "engineVersion": "0.5.296",

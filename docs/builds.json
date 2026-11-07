@@ -7398,6 +7398,20 @@
         "main": {
           "builds": [
             {
+              "versionName": "0.6.0",
+              "versionCode": 4,
+              "engineVersion": "0.5.300",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "engine-demo-android-main-v0.6.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/engine-demo-android-main-v0.6.0/engine-demo-main-v0.6.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/engine-demo-android-main-latest/engine-demo-main.apk",
+              "size": 42420629,
+              "sha256": "10da73411cc65d6b764c2b8bae0e64dde0d7cd7664cc0e50afefab337bcf1ab4",
+              "notes": "v0.6.0: Fix Bug A (double-scene flicker on rapid PREV), 60+ FPS AtmoParticlesShowcase on mobile, mobile-first Audio DSP Studio touch faders & clean 3D view, and fixed XPBD Cloth sphere draping & curtain collision",
+              "date": "2026-11-07T17:22:13+00:00"
+            },
+            {
               "versionName": "0.5.0",
               "versionCode": 3,
               "engineVersion": "0.5.300",

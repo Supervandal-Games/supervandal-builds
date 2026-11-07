@@ -7316,6 +7316,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.5.2",
+              "versionCode": 6,
+              "engineVersion": "0.5.301",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "superglobe-android-alpha1-v0.5.2",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superglobe-android-alpha1-v0.5.2/superglobe-alpha1-v0.5.2-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superglobe-android-alpha1-latest/superglobe-alpha1.apk",
+              "size": 36339237,
+              "sha256": "e4896894e0bd1f4f65864559ec45b53e9cfa164b9f306637bdcd8af2b7ec8434",
+              "notes": "Superglobe 0.5.2 : soleil lointain et planète qui tourne sur son axe incliné ; nuages volumétriques revenus (simplifiés sur téléphone) ; arbres et rochers mieux intégrés, avec de vraies ombres ; une forêt vivante sur toute la planète (elle pousse, la foudre l'allume, le feu se propage, elle repousse) ; la commande du temps en bas de l'écran, du temps réel jusqu'à un millénaire par minute.",
+              "date": "2026-11-07T19:57:40+00:00"
+            },
+            {
               "versionName": "0.3.2",
               "versionCode": 5,
               "engineVersion": "0.5.300",
@@ -7386,7 +7400,7 @@
               "date": "2026-11-04T11:30:59+00:00"
             }
           ],
-          "appName": "Superglobe Alpha 1",
+          "appName": "Superglobe",
           "package": "com.supervandal.superglobe"
         }
       }

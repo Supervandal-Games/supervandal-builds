@@ -7316,6 +7316,20 @@
         "alpha1": {
           "builds": [
             {
+              "versionName": "0.3.1",
+              "versionCode": 4,
+              "engineVersion": "0.5.300",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "superglobe-android-alpha1-v0.3.1",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superglobe-android-alpha1-v0.3.1/superglobe-alpha1-v0.3.1-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/superglobe-android-alpha1-latest/superglobe-alpha1.apk",
+              "size": 34397973,
+              "sha256": "822e46348cc49199078503d5c13ddc3bb01b0b367ea6ced0a3283f181b11d28d",
+              "notes": "Build de test 0.3.1 - moteur v0.5.300.",
+              "date": "2026-11-07T13:16:25+00:00"
+            },
+            {
               "versionName": "0.3.0",
               "versionCode": 3,
               "engineVersion": "0.5.299",

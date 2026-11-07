@@ -1,0 +1,19 @@
+{
+  "project": "engine-demo",
+  "projectTitle": "Engine Demo",
+  "track": "main",
+  "appName": "Engine Demo",
+  "package": "com.supervandal.enginedemo",
+  "platform": "android",
+  "versionName": "0.3.0",
+  "versionCode": 1,
+  "engineVersion": "0.5.295",
+  "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/engine-demo-android-main-v0.3.0/engine-demo-main-v0.3.0-release.apk",
+  "apkUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/engine-demo-android-main-v0.3.0/engine-demo-main-v0.3.0-release.apk",
+  "size": 42117541,
+  "sha256": "88c5565b156af0d40057096315fdc4d79be87a651ef3eba0f6f0137bba5886bb",
+  "date": "2026-11-07T07:10:23+00:00",
+  "channel": "debug",
+  "notes": "v0.3.0 : Suite de benchmark 17 scenes + HUD temps reel (FPS, 1% Low, CPU/GPU ms, Graph2D) + Ocean FFT, 1000 Canards 3D Khronos, Avalanche de Spheres, Cloth XPBD et Studio Audio DSP interactif.",
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/engine-demo/main/"
+}

@@ -7348,6 +7348,32 @@
           "package": "com.supervandal.superglobe.alpha1"
         }
       }
+    },
+    "engine-demo": {
+      "title": "Engine Demo",
+      "description": "Vitrine technologique et benchmark de performance 17 scenes du Supervandal Engine.",
+      "tracks": {
+        "main": {
+          "builds": [
+            {
+              "versionName": "0.3.0",
+              "versionCode": 1,
+              "engineVersion": "0.5.295",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "engine-demo-android-main-v0.3.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/engine-demo-android-main-v0.3.0/engine-demo-main-v0.3.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/engine-demo-android-main-latest/engine-demo-main.apk",
+              "size": 42117541,
+              "sha256": "88c5565b156af0d40057096315fdc4d79be87a651ef3eba0f6f0137bba5886bb",
+              "notes": "v0.3.0 : Suite de benchmark 17 scenes + HUD temps reel (FPS, 1% Low, CPU/GPU ms, Graph2D) + Ocean FFT, 1000 Canards 3D Khronos, Avalanche de Spheres, Cloth XPBD et Studio Audio DSP interactif.",
+              "date": "2026-11-07T07:10:23+00:00"
+            }
+          ],
+          "appName": "Engine Demo",
+          "package": "com.supervandal.enginedemo"
+        }
+      }
     }
   }
 }

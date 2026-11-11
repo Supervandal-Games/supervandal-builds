@@ -1,7 +1,6 @@
 {
   "project": "planet-thrust",
   "projectTitle": "planet-thrust",
-  "track": "alpha1",
   "appName": "Planet Splat Alpha 1",
   "package": "com.supervandal.planetthrust.alpha1",
   "platform": "android",
@@ -15,5 +14,5 @@
   "date": "2026-10-13T08:03:20+00:00",
   "channel": "debug",
   "notes": "Passe graphique : espace presque realiste, vraies etoiles, gravite (les planetes attirent et sont attirees), niveaux ouverts chronometres, visee instantanee.",
-  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/planet-thrust/alpha1/"
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/planet-thrust/"
 }

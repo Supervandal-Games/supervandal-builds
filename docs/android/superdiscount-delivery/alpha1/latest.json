@@ -1,7 +1,6 @@
 {
   "project": "superdiscount-delivery",
   "projectTitle": "superdiscount-delivery",
-  "track": "alpha1",
   "appName": "Superdiscount Delivery",
   "package": "com.supervandal.superdiscountdelivery.alpha1",
   "platform": "android",
@@ -15,5 +14,5 @@
   "date": "2026-09-26T11:50:32+00:00",
   "channel": "debug",
   "notes": "Anti-crenelage MSAA desactive (retour au lissage FXAA de la 2.15). Le reste du rendu de la 2.16 est inchange.",
-  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/superdiscount-delivery/alpha1/"
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/superdiscount-delivery/"
 }

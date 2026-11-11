@@ -1,7 +1,6 @@
 {
   "project": "underglow",
   "projectTitle": "Underglow",
-  "track": "alpha1",
   "appName": "Underglow Alpha 1",
   "package": "com.supervandal.underglow.alpha1",
   "platform": "android",
@@ -15,5 +14,5 @@
   "date": "2026-10-04T02:13:29+00:00",
   "channel": "debug",
   "notes": "Glisse libre : on drifte partout, meme en ligne droite ; la route attend un angle (repere blanc sur l'arc), l'ecart fait glisser la voiture ; combo aux bascules, encaisser en se redressant 1 s ; la vitesse se gagne en driftant (score + km/h en haut) ; 0,5 s d'alarme avant la faute (limite ou mur) ; decor qui clignotait apres quelques km corrige",
-  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/underglow/alpha1/"
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/underglow/"
 }

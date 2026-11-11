@@ -1,7 +1,6 @@
 {
   "project": "plouf",
   "projectTitle": "Plouf!",
-  "track": "alpha2",
   "appName": "Plouf! Alpha 2",
   "package": "com.supervandal.plouf.alpha2",
   "platform": "android",
@@ -15,5 +14,5 @@
   "date": "2026-10-13T08:56:14+00:00",
   "channel": "beta",
   "notes": "0.7.0 : un décor et des toilettes par lieu (dont à la turque), les intros muettes en pages de BD (un toucher par page), le bonus PROPRE ! au coup de sifflet, et le jeu en quatre langues (français, anglais, allemand, espagnol).",
-  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/plouf/alpha2/"
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/plouf/"
 }

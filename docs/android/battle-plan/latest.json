@@ -1,0 +1,18 @@
+{
+  "project": "battle-plan",
+  "projectTitle": "battle-plan",
+  "appName": "Battle Plan",
+  "package": "com.supervandal.battleplan",
+  "platform": "android",
+  "versionName": "0.3.0",
+  "versionCode": 6,
+  "engineVersion": "0.5.338",
+  "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/battle-plan-android-v0.3.0/battle-plan-v0.3.0-release.apk",
+  "apkUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/battle-plan-android-v0.3.0/battle-plan-v0.3.0-release.apk",
+  "size": 49839439,
+  "sha256": "0835c59e92db931eca388419601166826e683e837dcf31dcf4afbcac48e38b16",
+  "date": "2026-11-11T09:15:22+00:00",
+  "channel": "debug",
+  "notes": "Lot 2 : toute la musique refaite. Menus : trois morceaux tactiques modernes qui s'enchaînent. En combat, pas de musique : chaque bâtiment joue son thème rythmique, avec les percussions de son camp, qu'on entend en s'en approchant ; tous sur un tempo commun qui accélère avec l'action ; les couches s'ajoutent quand ça chauffe ; l'infanterie marche au pas ; nappe de pression quand le Goliath arrive ou que le QG est menacé ; jingles de vague, victoire, défaite.",
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/battle-plan/"
+}

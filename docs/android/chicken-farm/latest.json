@@ -1,0 +1,18 @@
+{
+  "project": "chicken-farm",
+  "projectTitle": "Eggscape Roguelite",
+  "appName": "Eggscape Roguelite Alpha 1",
+  "package": "com.supervandal.chickenfarm.alpha1",
+  "platform": "android",
+  "versionName": "0.7.2",
+  "versionCode": 14,
+  "engineVersion": "0.5.142",
+  "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/chicken-farm-android-alpha1-v0.7.2/chicken-farm-alpha1-v0.7.2-release.apk",
+  "apkUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/chicken-farm-android-alpha1-v0.7.2/chicken-farm-alpha1-v0.7.2-release.apk",
+  "size": 16954721,
+  "sha256": "4810e41eed284334be8e187ee69b71ba1e8a9682885bd991faae9ae664fb576a",
+  "date": "2026-10-17T22:28:46+00:00",
+  "channel": "debug",
+  "notes": "Le poussin se dirige de nouveau au swipe, n'importe où sur l'écran, comme une petite poule : il se tourne vers le geste et fait un petit bond au lâcher.",
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/chicken-farm/"
+}

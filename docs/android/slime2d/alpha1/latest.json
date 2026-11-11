@@ -1,7 +1,6 @@
 {
   "project": "slime2d",
   "projectTitle": "Slime2D",
-  "track": "alpha1",
   "appName": "Slime2D Alpha 1",
   "package": "com.supervandal.slime2d.alpha1",
   "platform": "android",
@@ -15,5 +14,5 @@
   "date": "2026-09-15T19:30:23+00:00",
   "channel": "debug",
   "notes": "Gravite divisee par 7,3 : le gain passe de 55 a 7,5, soit 73,6 m/s2. C'est le seul parametre d'echelle qui bouge -- ressorts, vitesses et pas de temps restent a timescale 1. Seuil de dechirure re-mesure en consequence, 215 -> 95 N : au-dessus de 100 N plus rien n'eclate a cette gravite.",
-  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/slime2d/alpha1/"
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/slime2d/"
 }

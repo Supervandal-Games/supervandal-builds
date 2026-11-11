@@ -1,7 +1,6 @@
 {
   "project": "wheelie-cross",
   "projectTitle": "wheelie-cross",
-  "track": "alpha2",
   "appName": "Wheelie Cross Alpha 2",
   "package": "com.supervandal.wheeliecross.alpha2",
   "platform": "android",
@@ -15,5 +14,5 @@
   "date": "2026-10-13T17:29:02+00:00",
   "channel": "debug",
   "notes": "Correctif : les boutons du menu repondent enfin au doigt (JOUER, mondes, niveaux, pause...).",
-  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/wheelie-cross/alpha2/"
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/wheelie-cross/"
 }

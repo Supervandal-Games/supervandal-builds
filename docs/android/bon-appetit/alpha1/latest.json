@@ -1,7 +1,6 @@
 {
   "project": "bon-appetit",
   "projectTitle": "Bon Appetit",
-  "track": "alpha1",
   "appName": "Bon Appetit Alpha 1",
   "package": "com.supervandal.bonappetit.alpha1",
   "platform": "android",
@@ -15,5 +14,5 @@
   "date": "2026-10-17T20:57:36+00:00",
   "channel": "debug",
   "notes": "Prototype jouable en solo contre des bots : Aliment ou Mangeur, 5 aliments et leurs coups speciaux, l'echange, la sauce, le repas. Retours bienvenus sur l'engagement de la fourchette, l'echange et les speciaux.",
-  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/bon-appetit/alpha1/"
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/bon-appetit/"
 }

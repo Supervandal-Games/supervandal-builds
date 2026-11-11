@@ -1,7 +1,6 @@
 {
   "project": "slidewing",
   "projectTitle": "Tapwing",
-  "track": "alpha1",
   "appName": "Tapwing Alpha 1",
   "package": "com.supervandal.slidewing.alpha1",
   "platform": "android",
@@ -15,5 +14,5 @@
   "date": "2026-10-16T12:00:27+00:00",
   "channel": "debug",
   "notes": "v0.1.0 (S0-S4) : Campagne 50 missions (5 secteurs, 5 Boss multi-tourelles), Patrouille Infinie, Sortie du Jour, controle tactile scinde (Zone Basse esquive/Barrel Roll, Zone Haute tir 100% manuel + Soft-Lock + aimant a cristaux au relachement), Hangar skins, audio svdsp et Options FPS 30/60/90/120/Auto.",
-  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/slidewing/alpha1/"
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/slidewing/"
 }

@@ -1,7 +1,6 @@
 {
   "project": "cannon-smash",
   "projectTitle": "Bullet Smash",
-  "track": "alpha1",
   "appName": "Bullet Smash",
   "package": "com.supervandal.gunsmash.alpha1",
   "platform": "android",
@@ -15,5 +14,5 @@
   "date": "2026-10-04T16:46:38+00:00",
   "channel": "debug",
   "notes": "Planches du fond de la foire refaites : peinture a la main, usure douce, plus de petits points ; joints serres",
-  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/cannon-smash/alpha1/"
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/cannon-smash/"
 }

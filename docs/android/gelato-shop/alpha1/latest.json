@@ -1,7 +1,6 @@
 {
   "project": "gelato-shop",
   "projectTitle": "Gelato Shop",
-  "track": "alpha1",
   "appName": "Gelato Shop Alpha 1",
   "package": "com.supervandal.gelatoshop.alpha1",
   "platform": "android",
@@ -15,5 +14,5 @@
   "date": "2026-10-19T18:55:56+00:00",
   "channel": "debug",
   "notes": "v0.6.6: Fix coulis ejection/bouncing when drawing circles on the crepe (3D nozzle travel subdivision + substep mouth interpolation + lower 4.5mm aim height) and replace the finicky crepe toss with a clean 100% faked kinematic crepe jump + 180-degree flip animation.",
-  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/gelato-shop/alpha1/"
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/gelato-shop/"
 }

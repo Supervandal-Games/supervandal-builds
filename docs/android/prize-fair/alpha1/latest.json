@@ -1,7 +1,6 @@
 {
   "project": "prize-fair",
   "projectTitle": "Prize Fair",
-  "track": "alpha1",
   "appName": "Prize Fair Alpha 1",
   "package": "com.supervandal.prizefair.alpha1",
   "platform": "android",
@@ -15,5 +14,5 @@
   "date": "2026-10-18T09:02:31+00:00",
   "channel": "debug",
   "notes": "Banc de la pince (S0) : la Classique, rendu precalcule Blender + vraie 3D, peluches en vraie physique. Glisser dans le bas de l'ecran = deplacer la pince ; toucher le gros bouton rouge = la lacher. Essais gratuits pour l'instant.",
-  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/prize-fair/alpha1/"
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/prize-fair/"
 }

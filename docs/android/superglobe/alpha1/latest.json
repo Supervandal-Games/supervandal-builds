@@ -1,7 +1,6 @@
 {
   "project": "superglobe",
   "projectTitle": "Superglobe",
-  "track": "alpha1",
   "appName": "Superglobe",
   "package": "com.supervandal.superglobe",
   "platform": "android",
@@ -15,5 +14,5 @@
   "date": "2026-11-07T22:55:52+00:00",
   "channel": "debug",
   "notes": "Superglobe 0.9.2 : les premiers humains ! Une bande de 40 fondateurs chasse, cueille, grandit et colonise la planète en vague ; épidémies prêtes. Nouvelle couche de carte « Humains ». Le vivant coûte deux à trois fois moins cher aux grandes vitesses.",
-  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/superglobe/alpha1/"
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/superglobe/"
 }

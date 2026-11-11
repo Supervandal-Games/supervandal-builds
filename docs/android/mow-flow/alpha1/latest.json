@@ -1,7 +1,6 @@
 {
   "project": "mow-flow",
   "projectTitle": "Mow Flow",
-  "track": "alpha1",
   "appName": "Mow Flow Alpha 1",
   "package": "com.supervandal.mowflow.alpha1",
   "platform": "android",
@@ -15,5 +14,5 @@
   "date": "2026-09-28T13:43:16+00:00",
   "channel": "debug",
   "notes": "Vue du dessus au grand angle ; angles libres (la tondeuse freine dans les virages serrés) ; un obstacle se contourne, le choc se paie selon la vitesse ; un parking par jardin, +500 points si tu y reviens ; +20 % d'essence ; fiche de score en points ; les 25 jardins redessinés. Les étoiles et records de la 0.1.0 repartent de zéro.",
-  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/mow-flow/alpha1/"
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/mow-flow/"
 }

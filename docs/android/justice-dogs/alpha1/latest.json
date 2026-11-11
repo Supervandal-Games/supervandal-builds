@@ -1,7 +1,6 @@
 {
   "project": "justice-dogs",
   "projectTitle": "Justice Dogs",
-  "track": "alpha1",
   "appName": "Justice Dogs Alpha 1",
   "package": "com.supervandal.justicedogs.alpha1",
   "platform": "android",
@@ -15,5 +14,5 @@
   "date": "2026-09-28T14:25:33+00:00",
   "channel": "debug",
   "notes": "Compte Supervandal : PROFIL ouvre la page commune à tous nos jeux (moi, amis, invitations) ; le classement gagne un onglet AMIS et la fiche d'un joueur au toucher d'une ligne. On joue toujours sans compte ; la connexion Google sur téléphone arrive dès que l'appli est déclarée.",
-  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/justice-dogs/alpha1/"
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/justice-dogs/"
 }

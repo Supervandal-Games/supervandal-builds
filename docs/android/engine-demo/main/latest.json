@@ -1,7 +1,6 @@
 {
   "project": "engine-demo",
   "projectTitle": "Engine Demo",
-  "track": "main",
   "appName": "Engine Demo",
   "package": "com.supervandal.enginedemo",
   "platform": "android",
@@ -15,5 +14,5 @@
   "date": "2026-11-07T18:36:36+00:00",
   "channel": "debug",
   "notes": "0.7.0 : boutons réparés (Settings, Qualité, Caméra, Page), 3 nouvelles scènes cinétiques (Wave Field 4096 piliers, Neon Vortex, Fractal Bloom), hub vivant sur 3 pages, HUD lisible, bandeau de préchargement réparé, retouches #08 et #12.",
-  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/engine-demo/main/"
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/engine-demo/"
 }

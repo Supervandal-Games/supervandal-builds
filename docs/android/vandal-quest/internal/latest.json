@@ -1,7 +1,6 @@
 {
   "project": "vandal-quest",
   "projectTitle": "vandal-quest",
-  "track": "internal",
   "appName": "Vandal Quest",
   "package": "com.supervandal.vandalquest",
   "platform": "android",
@@ -15,5 +14,5 @@
   "date": "2026-11-04T22:44:01+00:00",
   "channel": "beta",
   "notes": "Vandal Quest 0.9.6 : republication identique a la 0.9.5 (Google Sign-In embarque, statut de compte visible).",
-  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/vandal-quest/internal/"
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/vandal-quest/"
 }

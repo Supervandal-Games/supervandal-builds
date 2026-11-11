@@ -1,7 +1,6 @@
 {
   "project": "ai-sandbox",
   "projectTitle": "AI Sandbox",
-  "track": "alpha1",
   "appName": "AI Sandbox Alpha 1",
   "package": "com.supervandal.aisandbox.alpha1",
   "platform": "android",
@@ -15,5 +14,5 @@
   "date": "2026-11-01T17:57:01+00:00",
   "channel": "debug",
   "notes": "v3.4.0 : une seule boucle d'apprentissage (un cerveau, une note, l'oubli fortement réduit), l'atelier vivant (vrais clones qui apprennent autour du robot, renaissance auto, plus de chute de framerate), 9 matières avec rupture réelle, 20 décorations (344 drapeaux en tissu, yeux, ressorts, chapeaux) et un grand polish de l'interface.",
-  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/ai-sandbox/alpha1/"
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/ai-sandbox/"
 }

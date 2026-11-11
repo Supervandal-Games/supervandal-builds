@@ -1,7 +1,6 @@
 {
   "project": "squishy-ball",
   "projectTitle": "squishy-ball",
-  "track": "alpha1",
   "appName": "Squishy Ball Alpha 1",
   "package": "com.supervandal.squishyball.alpha1",
   "platform": "android",
@@ -15,5 +14,5 @@
   "date": "2026-09-27T14:01:28+00:00",
   "channel": "debug",
   "notes": "Correction : les niveaux se débloquent de nouveau au-delà du niveau 4 (le projet croyait n'en avoir que 3). Les anciennes sauvegardes retrouvent tous les niveaux déjà réussis, plus le suivant.",
-  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/squishy-ball/alpha1/"
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/squishy-ball/"
 }

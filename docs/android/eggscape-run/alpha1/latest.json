@@ -1,7 +1,6 @@
 {
   "project": "eggscape-run",
   "projectTitle": "Eggscape: Run!",
-  "track": "alpha1",
   "appName": "Eggscape: Run!",
   "package": "com.supervandal.eggscaperun.alpha1",
   "platform": "android",
@@ -15,5 +14,5 @@
   "date": "2026-10-18T08:37:29+00:00",
   "channel": "debug",
   "notes": "Seize niveaux : radeaux larges, niveaux nature clôturés, œuf fragile, buissons à baies, dalles qui ouvrent des portes ou arrêtent les voitures, plateformes et ascenseurs, livrer plus que demandé (TERMINER, score).",
-  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/eggscape-run/alpha1/"
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/eggscape-run/"
 }

@@ -1,7 +1,6 @@
 {
   "project": "chroma-pour",
   "projectTitle": "Chroma Pour",
-  "track": "alpha1",
   "appName": "Chroma Pour Alpha 1",
   "package": "com.supervandal.chromapour.alpha1",
   "platform": "android",
@@ -15,5 +14,5 @@
   "date": "2026-10-16T12:15:16+00:00",
   "channel": "debug",
   "notes": "v0.2.1 - Fix accelerometre 3 axes : suppression du clamp force sur gy (-85 m/s2), la gravite suit desormais a 100% l'inclinaison reelle du telephone sur 360 degres et tombe a 0 dans le plan de l'ecran lorsque l'appareil est pose a plat.",
-  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/chroma-pour/alpha1/"
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/chroma-pour/"
 }

@@ -1,7 +1,6 @@
 {
   "project": "virtua-gunner",
   "projectTitle": "Virtua Gunner",
-  "track": "alpha1",
   "appName": "Virtua Gunner Alpha 1",
   "package": "com.supervandal.virtuagunner.alpha1",
   "platform": "android",
@@ -15,5 +14,5 @@
   "date": "2026-10-17T21:07:06+00:00",
   "channel": "debug",
   "notes": "Retours de Clem : tout l'ecran attrape l'arme et tire (le bas aussi), caisse en bas au centre (un swipe franc vers le haut recharge), controle pendant les bascules et l'intro (toucher = couper), son et pulsation a chaque toucher, poursuivants en meute serree, cibles plus lisibles, musique arcade.",
-  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/virtua-gunner/alpha1/"
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/virtua-gunner/"
 }

@@ -1,7 +1,6 @@
 {
   "project": "random-party",
   "projectTitle": "random-party",
-  "track": "alpha1",
   "appName": "Random Party Alpha 1",
   "package": "com.supervandal.randomparty.alpha1",
   "platform": "android",
@@ -15,5 +14,5 @@
   "date": "2026-10-04T00:49:54+00:00",
   "channel": "debug",
   "notes": "Grosse passe de polish : ecran titre anime, guirlandes, confettis, camera vivante, podium 3D, scores qui defilent. 2 nouveaux jeux : les chaises musicales et le de (11 jeux).",
-  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/random-party/alpha1/"
+  "pageUrl": "https://supervandal-games.github.io/supervandal-builds/android/random-party/"
 }

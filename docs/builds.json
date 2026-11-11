@@ -8507,6 +8507,22 @@
       "package": "com.supervandal.battleplan",
       "builds": [
         {
+          "versionName": "0.4.0",
+          "versionCode": 7,
+          "appName": "Battle Plan",
+          "package": "com.supervandal.battleplan",
+          "engineVersion": "0.5.341",
+          "config": "Release",
+          "channel": "debug",
+          "tag": "battle-plan-android-v0.4.0",
+          "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/battle-plan-android-v0.4.0/battle-plan-v0.4.0-release.apk",
+          "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/battle-plan-android-latest/battle-plan.apk",
+          "size": 52521355,
+          "sha256": "49df80b2ab2ad75ee6c3e652b7601a2364b462797342170798d868973785f1e5",
+          "notes": "Calage au sol permanent (les unités restent posées sur le sol), bord du monde en clôture et muret à trois entrées, interface laiton et ardoise.",
+          "date": "2026-11-11T20:21:15+00:00"
+        },
+        {
           "versionName": "0.3.0",
           "versionCode": 6,
           "appName": "Battle Plan",

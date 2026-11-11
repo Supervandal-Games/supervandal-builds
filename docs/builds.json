@@ -7528,6 +7528,31 @@
           "package": "com.supervandal.enginedemo"
         }
       }
+    },
+    "battle-plan": {
+      "title": "battle-plan",
+      "tracks": {
+        "alpha1": {
+          "builds": [
+            {
+              "versionName": "0.1.0",
+              "versionCode": 1,
+              "engineVersion": "0.5.335",
+              "config": "Release",
+              "channel": "debug",
+              "tag": "battle-plan-android-alpha1-v0.1.0",
+              "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/battle-plan-android-alpha1-v0.1.0/battle-plan-alpha1-v0.1.0-release.apk",
+              "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/battle-plan-android-alpha1-latest/battle-plan-alpha1.apk",
+              "size": 40378627,
+              "sha256": "332f5a8019d06e4902558bd0e4d9b4b00af58cd25cd9dd0814988899f5c669e4",
+              "notes": "Prototype 0.1.0 : Mode Table AR (ARCore + relief reel AR-17, ombre portee et bonus High-Ground) et Mode Table Virtuelle, Defense Solo (6 vagues + Boss Goliath) et Escarmouche 2-4 camps IA, 10 batiments (Mk.I a Mk.III), 6 unites, 3 doctrines, audio procedural et FR/EN/DE/ES.",
+              "date": "2026-11-11T03:47:00+00:00"
+            }
+          ],
+          "appName": "Battle Plan",
+          "package": "com.supervandal.battleplan"
+        }
+      }
     }
   }
 }

@@ -8622,6 +8622,29 @@
       "legacyFeeds": [
         "alpha1"
       ]
+    },
+    "rootline": {
+      "title": "Rootline",
+      "appName": "Rootline",
+      "package": "com.supervandal.rootline",
+      "builds": [
+        {
+          "versionName": "0.0.6",
+          "versionCode": 1,
+          "appName": "Rootline",
+          "package": "com.supervandal.rootline",
+          "engineVersion": "0.5.341",
+          "config": "Release",
+          "channel": "debug",
+          "tag": "rootline-android-v0.0.6",
+          "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rootline-android-v0.0.6/rootline-v0.0.6-release.apk",
+          "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rootline-android-latest/rootline.apk",
+          "size": 40429581,
+          "sha256": "e1ebfceeccc5486e49027e84cf4068b3e15988d2ea4afdfefa55709ae45ac4cb",
+          "notes": "Prototype P2. Un chêne pousse seul en coupe : glisse le doigt depuis une racine pour la guider vers l'eau, le phosphate ou un rocher (chaque première découverte donne un atout). Vers 18-24 ans, il porte des glands : glisse depuis sa couronne pour viser où les geais les emportent. Les glands qui échappent à l'hiver germent ; touche un jeune arbre pour l'incarner, glisse dans le ciel pour déplacer la vue, pince pour zoomer. Boutons de vitesse en haut (×1 à ×64). Pas encore : sauvegarde, paliers, mesure de performance sur téléphone (les nuages peuvent être lourds).",
+          "date": "2026-11-11T20:54:22+00:00"
+        }
+      ]
     }
   }
 }

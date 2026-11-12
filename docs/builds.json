@@ -8629,6 +8629,22 @@
       "package": "com.supervandal.rootline",
       "builds": [
         {
+          "versionName": "0.0.9",
+          "versionCode": 3,
+          "appName": "Rootline",
+          "package": "com.supervandal.rootline",
+          "engineVersion": "0.5.342",
+          "config": "Release",
+          "channel": "debug",
+          "tag": "rootline-android-v0.0.9",
+          "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rootline-android-v0.0.9/rootline-v0.0.9-release.apk",
+          "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rootline-android-latest/rootline.apk",
+          "size": 62224569,
+          "sha256": "1faf5009dd2ca41debab526b6a534fbdb9c741c9ce4ddd090479cca8da7b4c5e",
+          "notes": "Comme la 0.0.8 (refonte en portrait : un chêne de la graine à la mort, racines en nœuds payés par la lumière), avec le fond photographique par saison, absent de la 0.0.8. Glisse depuis le gland pour lancer sa racine ; au printemps, glisse depuis un nœud doré pour lancer une racine ; touche le bout d'une racine pour qu'elle puise ou continue. Pas encore : lumière 2D, dangers et mort, graines, voisins.",
+          "date": "2026-11-12T00:07:38+00:00"
+        },
+        {
           "versionName": "0.0.8",
           "versionCode": 2,
           "appName": "Rootline",

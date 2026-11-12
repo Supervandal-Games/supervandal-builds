@@ -8629,6 +8629,22 @@
       "package": "com.supervandal.rootline",
       "builds": [
         {
+          "versionName": "0.0.10",
+          "versionCode": 4,
+          "appName": "Rootline",
+          "package": "com.supervandal.rootline",
+          "engineVersion": "0.5.344",
+          "config": "Release",
+          "channel": "debug",
+          "tag": "rootline-android-v0.0.10",
+          "downloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rootline-android-v0.0.10/rootline-v0.0.10-release.apk",
+          "latestDownloadUrl": "https://github.com/Supervandal-Games/supervandal-builds/releases/download/rootline-android-latest/rootline.apk",
+          "size": 63053825,
+          "sha256": "666f7cc4b7676e28f518791e18a9f9b078a898f4b0b4e6d85b547df5f96b952c",
+          "notes": "Suppression totale du zoom/dezoom automatique de la camera et correction du bug de dezoom au relachement du pinch a deux doigts.",
+          "date": "2026-11-12T08:28:35+00:00"
+        },
+        {
           "versionName": "0.0.9",
           "versionCode": 3,
           "appName": "Rootline",
